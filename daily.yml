@@ -1,0 +1,36 @@
+name: 毎朝の株ニュース収集
+
+on:
+  schedule:
+    # 07:00 JST（日本時間）に実行。GitHubの時刻はUTCなので 22:00 UTC = 翌07:00 JST
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}   # 「Run workflow」ボタンで手動実行もできる
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ライブラリをインストール
+        run: pip install -r requirements.txt
+
+      - name: ニュースを収集
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python fetch_stocks.py
+
+      - name: 結果を保存（コミット）
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "update: $(date -u +%Y-%m-%d)" || echo "変更なし"
+          git push
