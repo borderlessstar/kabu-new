@@ -1,26 +1,30 @@
-# 📈 今朝の株ニュース（2026-07-04）
+# 📈 今朝の株ニュース（2026-07-05）
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
 ## 🆕 すべての新着
 
-- **【日本株】2026年上半期の株価上昇率トップ3を検証。日経平均大幅高の背景にある「業績の裏付け」と下半期の焦点 - マネクリ** _(マネクリ)_
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEV2J0Wm5XbXFyUDA0QXVkNzZ0ckw1Mjd0RWJ1dFh4WERtSzg3aEdoXzNQU3EzUGhCMnZoQXJEVGxTNHVpWFdaaHpiNF96Mk1SM2JacQ?oc=5
-- **GPIFが“隠れ大株主”の厳選20銘柄——あなたのポートフォリオに国民年金は入っているか - note** _(note)_
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kU0RiUmR2dUJWUEg4bkkxUDVCV25uRHRHTVAzcElNbHNyMTVEcnQ1QVYtU1JCVngxYzJuMzc2ZmRPSU02Nl9hR09waF9fUm5SSHp5Y0dDaUVEclk?oc=5
-- **今週の【決算】見どころ 全チェック！ ＜決算特集＞ - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NQXFZc3hFYldRTm1URDBSYzZfZEpQV0pPaVh3S2xOS1VPRFhqVVpMLXFndnZCNHZtdUpIT3pubG14bzVsS05MNURJUU5CcVE1Qmc?oc=5
-- **決算:OSGの12月〜5月期、純利益93%増に上方修正 原材料価格抑制 - 日本経済新聞** _(日本経済新聞)_
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE8xRXBsVThlZmtyVTlJNVVMbkxkcE0yVy1CMTF6eXhWZU9HYkhwdjdGU05CcTE1S0p2cXY3aEVZcjZYejJJWGtVNnlGYUNoUjVwVEl0UnJmdW9VdXN2RDdHNHFYeEZ5LUdSR3lBcA?oc=5
-- **【米国株】7月半導体相場の勝ち筋、サマーラリーは来るか? - トウシル** _(トウシル)_
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lbnlERmVraGRRNWxYdURaQTJWS1BFMlBvazhibFJPV0t6OFVDSWJPbW9EWVU1TUs0ZllERmRaaW5lN21qQXJPakxmU0VZYmJlMVkxQWM5TzJMUQ?oc=5
-- **キオクシア---大幅続落、AI・半導体からの資金流出など警戒も - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuS0tGWmVwdlAtVmJUanJVMDdJZTRGT3lVak5PODRJendxdVhMQ2VqS3N5eGVya0lMN3hETDJMZTFPeVd6U09iZ253NHoyakFXSElOVkdpUWNYY0lKM2dHNw?oc=5
-- **キオクシアHDなど半導体関連が続落､一巡後は下げ渋る動きも - 会社四季報オンライン** _(会社四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMHRsaWFaWHFpYmRGcXVMd21MYU1GQXJKQTY0aVJVX3RUTkZIZmxES1BqVlFxcXpEZm5wdV9TZXRVWWFNbXJfMm1ta3BtYzU0S196Rk12TQ?oc=5
-- **【AIメインテーマ追跡】新高値更新ならず、相場は一夜で冬の様相？買うべきか否か？ - Moomoo** _(Moomoo)_
-  https://news.google.com/rss/articles/CBMirAFBVV95cUxPdk1Ia01pUXVyb056UUJQSVRqWXhCSm5xU21uemE1cVJ0Q3BPV0NJMW55TG1mVW9jT05FampqcVF0b3gtZ2dnY3RpN1QwOGROQWNuOUhmZUZDb0UtVkIwcmhDNWdRTjJJNkJzUUw4M0JSaUR4SFk1MFVxcUNsLVFVZnNjbmRCZHZnWUpRcWFwZXFLdG1nMmlncTBoc0c5X283RFItMXBrT01NTUZu?oc=5
-- **NISA向き？50万円未満で買える好業績・好配当期待11銘柄 - SBI証券** _(SBI証券)_
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQzQzSjFVUi05V05iRFZKRFJHandjMjhjdWJycmdsVEFhR1hEeGxYQmY5UW8wakxfMmdaclMxRUZPNG15SkZ2UWhtRDBCLWxQYmZKWFF3X0tkVW5hQjItVGJuWVpZLWY4WkxlSmQxM01RRjA4eUFraEFXSVFzblU?oc=5
-- **旭化成－MSMUFGが目標株価引き上げ 好業績継続へ〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ1FUUjFlOEJWUTBpSUNnNG80bGp4aDhMeHVDdGxpQlIyVWtZc3BRWmtIRi1KdXc0N09XNVNxN2lJN09ZVm5mM1lSTUxCZmpCajJnYWJJbDRHSkZvbWFlU0ZIcDFJak5aODFhcTlGaHRmbUdNR2FqNFM0M2pHV1RjV1NyMWFpQkE?oc=5
+- **NISAで人気の「日本株」ランキング【2026年7月】楽天証券の「NISA口座(成長投資枠)」で買われている「日本株」の買付金額＆保有残高ランキングを発表！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sel9GTFZUT2ZmZmh5Z3JtZTRvSHBXSl9JaDhwckp1WHczc1dtSWZCbGloWTU5TlVXVHM4Rm9SRTAzOU1ObkEyTWVLYVVoS25ZLVI4?oc=5
+- **【米国株】ナスダック上場で投資判断が“買い”の有望株2銘柄を紹介！ 半導体検査装置の｢テラダイン｣、AIによる効率化に期待のスーパー｢ウォルマート｣に注目 - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSUttNlhsWmhuZk5XSld0bHJYSnhnQ0ZxQ2FfYnMydUQ1TzREMmxncTk3SkJPY2hLcFZ2NmNiNnlCclBvUFA2LXpmak1Jemp5VVJJ?oc=5
+- **【日本株】2026年・夏の「おすすめ高配当株」2銘柄！業績好調で営業益が過去最高の「Umios」、同業他社より高配当で割安な「長谷工コーポレーション」に注目！（ダイヤモンド・ザイ） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1aR0p1U0tWU0hsWjM5dFZRRElhVmdyRnlfMlRQTXE2V05fY1d4Y3lNbUUxYjBVZXNHZGxraXlicjFrYnZPenYzaHZncnZrR2JHblpyXzhlZHg0UU9vb0hJTDVua3hoY0UySmVoZTdOVHQxZDFzYmwwRkdlT3l3MUE?oc=5
+- **【日本株ランキング】今期に「売上が伸びる株＆業績の上ブレ期待株」ベスト5！ 成長率383％の「データセクション」、会社予想が慎重な「ネクセラファーマ」に注目(ダイヤモンド・ザイ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNZHBpYzg5Y2xzc3BUd0JvbHdnbFlSem83TlBZQWkydmc2VmZ4TlNkZFZWUEE2NV9UYjI1eGNhUVVBMlc3VTE4OEtfMHNneWJJREZtcWE0UWlfOTc5RkpJQkgxMElaQVQ1R1hUT2l0Zl9FZ3V0U1NNMnAtc2pHRVp2LXFUYl9GZTA?oc=5
+- **今週の通期【業績上方修正】銘柄一覧 (6/29～7/3 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDc3cm5GejE3MDdETml0b3R0NG9jSGI5bGs1T1JCOEZhWFN3SEZtSU1wRG4wTnFDOWdKTWFMeWduMmZ0Y2UzZmZTSU9WdWtMRWZaSkE1Y3FTRVcwWEl0ODVZYThaVHpyWGVwQU9PcTIzR1RYYXpyUk5yaGU3b3pfNGdQMFpTTmc?oc=5
+- **ＯＳＧが新高値、海外好調で業績予想を上方修正 速報 - kabushiki.jp** _(kabushiki.jp)_
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTE1td09GaU14dk14RkltZW5PSWdGSlpLZHNFWE4wZFJIMHBxQzZJbkFMU2RjUTFoOHlMaFdwbF9DV252Y3JPQXRr?oc=5
+- **【今週読まれた記事】AI半導体相場は一服？ 内需に資金流入の気配 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Y01maHBLM0I5MXJXcTAybFo5WTgzbHBHUkFEZnVOLXdPenRTSkp2c29Wb0FSZFFSeGdTeU1nQmd2N2pUVG5iUWFVNVV0MFBSek9OSHR3QzNZLXFSSFRWTA?oc=5
+- **キオクシア株急騰のその先》2年弱で資産17.5倍の元証券マン・かぶカブキさんが「この先も半導体相場は続く」と見る根拠 最強AI企業・アンソロピックの上場に警戒すべき理由とは（マネーポストWEB - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTmViQzkwYTdtRjVmMnVPd2hMRVk2WW00Ti1xdi1LdlJ4RmFwdEhxWlVpUDE4QUowVFI5TFB3ZDJ1VF9SVUtNcnFiY2d2NURZWDIwcmEwemJsbTgtRHdqWDIyZHVFU2lqZWdGbmpuZmhZV1lfb2hTbW5oQnBhSlU?oc=5
+- **キオクシアは一時６万円台まで調整、ＳＯＸ５％超安で半導体関連への売り圧力続く - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NV3Nwd080YkhRemZlNFRvRnNUekRoeG11eXlCZ0dWM0ZSMHluN1ctYThfeVZaczJkYjBRN1I1YmFMVzRMRkdZdERUTFNxU0dTX25nNDJUaGo2OXl0VUR2Mw?oc=5
+- **今日の株式見通し＝続落へ、半導体株安継続 循環物色でＴＯＰＩＸ優位 - Reuters** _(Reuters)_
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1NxYklyS2F5S2FydGdVZHB6U0tuMzFIOWw5cWlnV3ZId1JzSWh5WDVZelV0Y2xqVUdFVGtuUmhSR0Vlb0tPcG56eWZNV2t4S0g3QU9Fa3Fwd0hLUXlCcXNBb0Q4dXZiWjcwQmtwZzdVTEN0aW5sUER2WG1veXd3aw?oc=5
+- **ETF売買動向＝3日前引け、ｉＳ米増配株、ＧＸＵＳ配当が新高値(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmk4QW5XZS1FejRiN242UldRWjZCbUpEd2R6ZDkxRXJEMngzNFhRRDhIUzNiajZPNVlmaU1uZjNKX2xkLVU5bURhYzRlS21qMVpyOEg4Y2VraC1NaFFaT3ZQX0tya2NQUEpGcFNzZm9GTHVTa25RblNtMmVjNEo4emFhcjVBYjA?oc=5
+- **明日注目すべき【好決算】銘柄 エクスＭ、アスクル (3日引け後 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlNqTUhoeEx4VmVIajFvNVZxaHFRRzhuVzNEM2FKZnJ1VmRJR3plRTJhRkY0d3puS2txcjdTZXNRQUtsQTN2Qy15YkV5S1FvTTd1N09VdkFFanRSOG5xckhRLU1FTF9LY1d5U2hfbHZfVHNvdjFQT2Q1T2FaeVZtaExhUFRLNzQ?oc=5
