@@ -1,64 +1,62 @@
-# 📈 今朝の株ニュース（2026-07-22）
+# 📈 今朝の株ニュース（2026-07-23）
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
 ## 🆕 すべての新着
 
-- **ダイヤモンド・ザイ9月号は｢【高配当株】143銘柄｣や｢AI・半導体の本命株34銘柄｣など満載！ちょる子さん登場の｢スイングトレード｣や別冊付録｢イデコ入門｣も - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2aWw4THZTZExpY2o4amNyUzVPcTllWkhKWmF6dnViMWJaQTZELXUza2E3WnJDWnZMcjJiR2VCbnpBTzI1WTgwVS1RSVF3VnIyaEFz?oc=5
-- **【日本株】株価が下がりすぎた今が“買い”の｢人気高配当株｣2銘柄を紹介！ 超大型株で配当利回りが3.5％超に達している｢トヨタ自動車｣と｢武田薬品工業｣に注目（ダイヤモンド・ザイ） - Yahoo!ニュース** _(Yahoo!ニュース)_
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBacm5IcVN0Z3VxNDVzbW1ma2ZiTlo0OERjSnpjR05NS0dFa01KVThyZ05wNUpGRWJ5UHkwdklNLWE3VWo0MmdTX0hFS0FTalM5NU1qX3N4Ym4ya2tNendoYnFOOWdLODRYMm5aM1lodlh0WVB1NVJuSmpWX282UjA?oc=5
-- **【日本株】株価が下がりすぎた今が“買い”の｢人気高配当株｣2銘柄を紹介！ 超大型株で配当利回りが3.5％超に達している｢トヨタ自動車｣と｢武田薬品工業｣に注目 - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFByNWhvTUIyYXM1elRDeG9DT05YNmQwQ3pFWDZ3b1d1QlNfYVRUY0QyUDdhQTQ2UFZWSGFUVjlXUmV3eVVGWHFUSVgycFdNSXY4OTVB?oc=5
-- **1Q決算発表時に例年､上方修正を繰り返す大手銘柄は？ - 四季報オンライン** _(四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fZFlBYmZOU2ctekJ3WTBrUXdBNFluakRxczVFM0NyM0MzSUFVdlJsUGNxVDdLRmxwV1J6R3JYcUFaVWxfZWRWcGZyNVRxbVprTG5yU1l5dw?oc=5
-- **【決算速報】ＥＭシステム、上期経常を62％上方修正(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTdyQ1pEMXhWRnh1RFBFeEEyak4xVXE3SkFQVG9DZkczTFEyZEF4Mlp4ZHVBek5udXZXX0tTdF9mSURrdWpwc29IMGxPb09iVEFJYmhaeW9ZU0F3SzhMZVV6bEtuckFLVG5oMDYtMW1zd1U4Ykl1U2pjTWRqaloyQjlBOGIxem8?oc=5
-- **ＥＭシステム、上期経常を62％上方修正 - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KSkZlNUdJS09fdng0VzA1ZWxMXzNxRmF2VXM5SzZrQ3VIQnotV3BDdUR6WGVyM0tyS3NVS0dpWVQ1Z1VtVjBkV0lvRk5kVmZtM1E?oc=5
-- **ゼネラル・モーターズ、第2四半期決算が予想上回り通期見通しを上方修正 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtSXE2a0NyZzg3MXFzX01zczZ2a2xldDRJMWFIV0QzcEpBQ20zV3dRcjFZMWFfSEJyX2JTX1FhTjRuTnd4QUh3NVk4bGluOG5ROFdselMwa09YRnVpal91VERrZ0Y?oc=5
-- **３Ｍ、決算受け上昇 通期ガイダンスを上方修正＝米国株個別(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDBfMU1WN2VJeG8yQlNQU0p3Mm9HdEVYLWlubXpRSVVXZlRsWWlQU0YzbkZoRnpiWERkUEFzOFNyRy12MUJtTTVIakRPR1Z5S1BZdEkwTkl0S0VKMmY0TllKbnJfM2gzNmZPd2s5VUtnSHpFYTBXY2I5aUhxdjJPRmlBSTFUajA?oc=5
-- **【↑】日経平均 大引け｜ 3日ぶり急反発、半導体関連を中心に買い戻し (7月21日) - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbkQ0RkttR0ZfREVnZkdrTzVTOVVOcVhFc3NQRDFYYi1rdnJyOHZmd3d4bzZKc0ZraDAzdXIyMURieTNVWkduMWhaeEtSMnRxa0lNVk9ZbHg4eU9BYWJhcw?oc=5
-- **半導体株の調整で逆に資金が流れた､2期連続増益の17社 - 四季報オンライン** _(四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bXpjUHVwaFI4eVNvekhjb0VNcmYtenpqY2VtSEZyVVZCT01tV09KZTVHaGh3WDQtZmdRcHpTc25CSGdQV1R6a2hYTW5ib1JpZmZmeC1taw?oc=5
-- **半導体製造装置関連株は強弱感錯綜、ＳＯＸ指数下げ止まりで目先リバウンド局面か - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTXAteFBGS2VTVGVoLTZnSURBV19kR2tnS1p1TmZnSWJtUnhzUUVUS0VuN0xWRXZjUzBCUEtmeWdMLVhNSDVDWXRuUVZhQWU4bHk1R3doYm1DOFp3SmI1bQ?oc=5
-- **下落が続くAI・半導体関連株をどう考えるか【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】 - Yahoo!ニュース** _(Yahoo!ニュース)_
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVJwdDNjZHNCUnJXTlI2ckc0QWFMSlpwUzFWUFlHd1lKM1U1NWhVNVNkZ01zMjF3d2FwSG9TU0ZUcURPak1MMWUyWGhrRFU0aVg5d3czbHREUXpwZXB5cE5zbWZ6NC1SRm13SzExUUxmUzVUVHF0aDlpZVNncXRINnNpYVYwMEhoV2VIOC13?oc=5
-- **日経平均株価は下値メドの「75日移動平均線」を割り込むと調整がさらに深まるリスクあり！ AI･半導体株を避け、メガバンクなど内需系バリュー株を狙おう！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFRldLcWwxQWkzdG53OTNDNkFTdkZhOWxQNUJuWDJCZy1HOFFHWWY4aVZvMWpUSE1MaHJoX3FNcGdNdV8zZldObHMyOEdyd21wS0sw?oc=5
-- **前週末の急落の反動や米国での半導体関連株高が支援材料に - ｄメニューニュース** _(ｄメニューニュース)_
-  https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNTlRVU9sRnljRzQ2QTJ4OFBhTEM2ajk1VWNNRzFwOXJvdWtkcllnNHJ4MktQRGp6NHRLS3VKOUloY3ZYTENHb2JpTGJjVS1Kc2dRSkpScUNhSXJpR0pNTWNFWlM2S0J6UzVLeTQxVjdDSW9DbDVPd3lWNlJhSkEzX1lFOFdqNmx4djA2bTlhV2ZDendENXlKMXhmZ0lEQURjaVFGd2JYR0x3bTNTRTZxTkJHeEwxTEtCUlZ2Q3Y3d2xhTkhyT19uQUtWTlJ4TnZTQzd0UllhN3o4d3V50gGMAUFVX3lxTE9KWWoyczlYZTNwekhhSlRqUC1HZ2hfeUJhS0dQM0JtaVByc05NNDRzMkR6N3p5NWhzeFAzQ2JiNDhJNEV2S21zQmZuM3hZRWt1d0Qzb2ZKcUJHUDE1MUQ1Q05YX0NMV2JZQlJ5UUtWMG5GOE1URkFxeUpIX0RlZFlIcFVfRktTRVZ0S1lB?oc=5
-- **NYダウ反発385ドル高 半導体関連株に買い、好決算も材料視 - 日本経済新聞** _(日本経済新聞)_
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE9BS1A5YWNDTTZ6Q2F4N0YxUG9ZMmRzVlpiUnpfMUJxMC1pWUwxdHRYYkRDTmE4MkFGZmo1dG5hbF8zS1BuOEF0eHhEamppLUtLV1BEQXBjTGFiSS16M3ptcVJkNHpJcklkQlRzLQ?oc=5
-- **NYダウ反発で開始、一時300ドル高 AIや半導体関連株に買い - 日本経済新聞** _(日本経済新聞)_
-  https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZEZENTFpdDFCam1nSEg1RFZVa3o0Z3p1YmNlam5oU3QwT1Y1c3dUVk1rMHcyV3FCSjVEZWNuQkZMOXV3TVZOeXlQaU5aMS1sNFB5clhFZlBaZnZYYlQtYkpCMjRvUm1fR3RiVA?oc=5
-- **21日の日本株は大幅反発､AI･半導体関連株を中心に買い - 四季報オンライン** _(四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRUdzc21ZdlJqNE1Fc3Y3NzlycTdXaHJmVzFDb2VNTzVmYUU3aEx4UUl5eW1RZWNjMnJ1dnRFazdaTW8wOG1tSWp3Y2pGNkZKOEtQbDBpZw?oc=5
-- **【米国株】ハイテク・AI関連の調整は一時的か？アルファベットやテスラの決算が焦点の週に - マネクリ** _(マネクリ)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zY0pxMUplakJaY2tNT3h4SkhtYWdGSTMzN1RNM0MtRnp6Zy0yOW9tMlRWZ0JQcml4R00xVzJWcV9PaFp5Q1pJSk93YUx6MGZTU1IwMndBTdIBV0FVX3lxTE0zY0pxMUplakJaY2tNT3h4SkhtYWdGSTMzN1RNM0MtRnp6Zy0yOW9tMlRWZ0JQcml4R00xVzJWcV9PaFp5Q1pJSk93YUx6MGZTU1IwMndBTQ?oc=5
-- **アジアの株式市場は概ね上昇、韓国と日本はAI関連株の売り圧力による下落分の一部を回復 - arabnews.jp** _(arabnews.jp)_
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FQUR3U2EybWc4N0lzV0VRbG43dGE3U3gwa1JIWWwzZG9TcXZTWjBxRWlfcktVcjYwb3NRd1lDNHM3S1dxbXZKYzVQUlg5SlEwNldLSm9sQURPTEthT3puTFlFdXdDU2M?oc=5
-- **日本のAI関連株と半導体関連株が急激な調整局面を迎える。 - Vietnam.vn** _(Vietnam.vn)_
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVJEV3ZGSG1oWGIwRnA3V2dkcmItVGY1cUI3bXRyaTFPSHNuMl9CbHpveDFZa2E1WHNBd3FCU0FxalppajJwNUtaUmZocGQzZHRIMURyQ1J2ZkVDdl9FWE9tejZlVnhwckRJQmlLblJ5djNOdFpBbFZvY3BZWk1hcUpXdw?oc=5
-- **フアンCEO来日で日本株の地図が変わった。フィジカルAI関連 厳選20銘柄リスト【保存版】 - note** _(note)_
-  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMjFPeklkd0tlemlDVUxjOXZpa0N3XzlqWmhVLUhCeHFvUFRfbGpfcE9MOHVqcHd4NG91QmZXVWVFYU5IS1p4eXhQUFdqMmhWNzVKUXdxOEFFcVU?oc=5
-- **ETF売買動向＝21日前引け、野村外リート、野村タイ５０が新高値(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0F3cVgwNmI1bkFjTkdLNHc5YW5UVlhaV1RzTnZsUTMwdHkycXBWUlZ6OHNCQ0NwaFlVQWswNlFTb2IzMGFkUGh6TUtrelRQcW5OT25qWXAzeUFZelZBdFl2NjBGblFqQzFMRFNLdWxwNXl3OHpWT0hqQzZ6NDRQRWdaQkhJWWM?oc=5
-- **ETF売買動向＝17日前引け、ＧＸＵＳＤＶ、ＧＸＳＰＣＦが新高値 - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpZXN3cFlDTGlocmhnY2U0NEpBLUhlZFFjZDQ2UjRGZDdBemRRYVRkd2J3c2RRdWJzVFdnVFdVWFVXLVlRVldUZ3drTnVrWjhOb096X1Baa2pkZDZWMTZFTg?oc=5
-- **米国株情報＞モルガンＳは新高値、トレーディング収益伸び第２四半期は増収増益 速報 - kabushiki.jp** _(kabushiki.jp)_
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sMFA5Q0ZNdnl0NUdnd1h4em9VWWkyVGVLQ1MwYUc1dUhDb2M5X0Z5NElOLUtpdXEwTjc1Y21xSDdpMnhBY05R?oc=5
-- **コジマ---大幅続伸、増配・自社株買い・株主還元拡充を発表 - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE84dDlPemRqc3I4bk1FNGlscGMtalAzMXpZdkprVk55SGxmMU5HZ2IxcEdwN3lDcTEydVBHck53N3FFdDM2RjdRelJjVnVKTEFPZ2g4eU9xakJZbU1xMWRLbA?oc=5
-- **クラウン、好決算も下落 期待には不十分との受け止めも＝米国株個別(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnBHR0puQkliT0tWZ2ZzaXdxUnhYWld2ald3WGNiOUh3NUhWWGFEWno4S0ZGeUZoQjI3QzNXUnU2ZE5NUHBfZkhHd3JiNGJNbDcxZHVjQ0xnY0xpZEV6VVg0M0pQUFJSY0lRWjBBdXN3UDF0NkJKSlFpQlJWdThDX19FVmR2aDg?oc=5
-- **AI株暴落、日経平均は「4,416円安」も…実はひそかに「前週末比34.8%」株価上昇している〈非AI銘柄〉の正体 - トウシル** _(トウシル)_
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSmRJZWJXZkZtQUlJTzNzNXdxbXV5STlQZjJfUHNIbXVKNWNVUnRPNVduR3NlaF9yLTF6Vm16OFdsaWV2d2czaUx0X2ZjV0U0RGdvcHFkRHFGdw?oc=5
-- **レンジ・リソーシズ株、第2四半期好決算も3%下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE4tSDVoTTY5NkVKRmJrQUdUOGY5OVI0Z0JLeDBMSlYxNzdPTzNzVlhrLUYzcHIxOTdvMlQwaUVrVkM1dXVSaDFzcWhSUkhNRWJoNlhEekgtdlpPcWhRaktmR1J2S3VrV3A1Q3Zn?oc=5
-- **ノースロップ、好決算も時間外で下落＝米国株個別 - Moomoo** _(Moomoo)_
-  https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1gwQk5QSThLSHpVYzk0ZVFlNXMtUlBVVHc5TmZMaEViSGI4ZTdHRWh4T3RrYkp4ODNfbDhTelg0aXRWN0tpNHRPQTVtbU9mOV9KQnNaVzNWcm1wNUxMdy1jemNmeXhVNGpzNDFPekZ3YkY3Zm1QdTRxMGZGRXE4Q0FTeE9Rdw?oc=5
+- **野村総研、国内事業好調で上振れ余地 AI導入支援で再評価も - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE54WVFnUTZzREE0SEN3cUdZVG9WSTNTcWEzeVNzd1AtYU1BaW5YYS0tZ1hsWm1ucFU2NEFORkJ4aDh5TVcyc1pkZE5rNmZnZVNySnY4Z2N3ajVhYUZ5TEJvcUxJMUQtelViYVF5TkRTcW1wYkhpRlY1M3hUTTRqdw?oc=5
+- **【注目トピックス 日本株】前日に動いた銘柄 part1三井金属、日本ケミコン、キオクシアHDなど - マネーポストWEB** _(マネーポストWEB)_
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLZXFrNzJEUlFXRnhHUEF5c1JDZi1GaDNvVjNfQUoyZEpWdUc4TkMyRTEyNGZqNVJNSlVsNzhnVHhRelFoUkFR?oc=5
+- **【決算速報】フェローテク、今期経常を61％上方修正(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjNsUVRwOEJfQ2ZUbW0tYW05ZTdEZzNjR1FLVHg5RnFQeENNYUVKOFV6VGFJOXgyLWk3cEdvM0c5MUt5TFY1dmxoamlBTC1kbUttYUMtNWRuWkd0VHdvSmxZR0RJVm9YcHBJcm15YkdyTVliWVR0VUdTS1FERFNQeHh2bjdVV2M?oc=5
+- **決算:十六FG、純利益10%増に上方修正 金利上昇で実質増配も - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE51OWRYTDQ0SHZNVmJWZ3NGTXNrdGZYdUw4SzdCSklXR2hjdENpd0hOa0FoOG1RMmJESTlwX0FLeVQ2XzJ0QjVldkVEV1ZMTWt1YXltSG5lc1VncXF0ai1halZSOU0tTGY4Q3VqaA?oc=5
+- **フェローテク、今期経常を61％上方修正 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1R1FUSWxvLVJsZ0M1VWlFS2x3RlFqNWZ2WnhvSm9IeXhtVmhlbVVHTUY0ZktuUVlZaTlNTjVGY09aZHdyX1FVeElDWUVXSFVaWFE?oc=5
+- **ブロンコビリーが最高益を大幅上乗せ、フェローテクは経常61％上方修正 22日サプライズ決算 - BigGo ファイナンス** _(BigGo ファイナンス)_
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE43akpwaG80bTltUDYwMUcyMzhGSEJDV0p5bTlJZmhEdzM2VXVzcFJCdFZDRkdQRFpBNXlUUTFwTEZvVFRRaFFpTjRDMmdGQ1l2ZG10NUR5WDZUQXdyZlA3OUFETW42UTEwV1NUbERJeDZNRVRz?oc=5
+- **三井松島ＨＤ、今期経常を4％上方修正、配当も56円増額 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vSEFzZl9vOEdGTG80Z1Vkc0VRTGNGRGNJU3ZiY0dlR2x2WFRVTG5qc0dvUnlsTVN4bU9WRURua3licjlZaXNwNEtvZEtpRXBGcGc?oc=5
+- **【決算速報】三井松島ＨＤ、今期経常を4％上方修正、配当も56円増額(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXBfdjlUR2h1VHJqTTNER2VOdlRodk9wdkxDRWM5a01uNHgtVFR2OU5hQzFxZVBDRndqNXNIZXVfWlh3ZVdGWDU4UFgxNjNlM3ViaHVKUjRyWk5PbXI5WkRNRzlZTUNUMGpnOEtuTWx5eHVEcmo1MkZWbzZqYm1qNlRTeHpYb3M?oc=5
+- **【日本株】AIデータセンター需要が伸びる｢電子部品｣の本命2銘柄！ 光ファイバーの｢古河電気工業｣、サーバー向けコンデンサが成長する｢村田製作所｣に注目！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UzJKd21reE04d0ljekoxMFRpSUl1WlVlNU91cThPUGpJYnNma0cwR2FsaUl6UmdGLUk5S3otSkFqZ2pkN1hxaWw0bUcyZFluRFZr?oc=5
+- **キオクシア---大幅続伸、海外半導体メモリー株の上昇に追随 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVkhqMEZsWUg4SmpNYnBYekNlcFY3dUViTE14M0lIOFlIZFM2WnNaM0JMeDNVOTJFdmppUU5lNHYzNFM3RUJEdEZobXlSSWZyem9CbV9VTGE2V3NiOUw5Tw?oc=5
+- **（朝）米国市場は3指数揃って上昇　半導体株を中心に相場全体で押し目買いの展開に - マネクリ** _(マネクリ)_
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oc3hwSkxucjBDRG5nS3RlNlBUZUVKSjBuUzFJTTNyWVBaQlNyRzBpcVdpeDJBckxkRkZyVUlndVZlcWpXVXpjVU90RlJjYUEyMFhmUdIBV0FVX3lxTFBQSXFLSG51dUM3cC1OR2RfMTdZRmg2amc3MXdVVDN4THR1OXpjMEpZTWo3RTNraGZ3dlpfWkJLbXNLU0NOYm43bExzbU9rcUhKT0VJbGZFcw?oc=5
+- **〔東京株式〕6万7000円台回復＝半導体株の上昇がけん引（22日前場中盤）（時事通信） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9mWVYtY1B1TzlqVDJSMVVTUmlBN3BJcmJjbUpGUWNFME1jZG1yYVFHRFlncHkwWFZwYU1TU2ZfUWlWcWdITU9MaHFaSmVzYTRZRVc5U3ZoaGs5b0stdjFUMXRMcHR5VWd6cTVZeTBscUgyQ0JxU2tVa2otMm1zVmc?oc=5
+- **下落が続くAI・半導体関連株をどう考えるか【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】 - ニコニコニュース** _(ニコニコニュース)_
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE54aTRyVjJtejgtNW1YbWgyS3BhSFJTRUdYODlzY0NIQ0JlZXo3OGtVajdMVlE1c1JyMS03aWNQakh5SGZYQVdUelhheExFRWhWWllKbllFUmowUkx0b2RSYzdURzJROVRncjlPb3ppV0tEZUZHOXdjSmdvRQ?oc=5
+- **激化するAI覇権戦争、急騰する半導体関連株価…日本の「勝ち筋」はこれだ - Wedge ONLINE(ウェッジ・オンライン)** _(Wedge ONLINE(ウェッジ・オンライン))_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE50bmpkY2c1MGRmdm5JM1BXZnBxeUliSHpxeldvYmNibmlndjBhc0Z3cnlWcnhuMVl5Ym1iUnNNTjJJT1M5ZmNOVWhpQVA3N2FrTkVj?oc=5
+- **バブルか否か 日本株、AI相場の行方を探る - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE8yazNYMEJPZVJiRzZ0T1FCX3BDSE9oZEhWc0RxNzNGZGgzekdTSEptRXpmWHFqYkh0eTR5Y2hzUDQ3M09PbUtibHJJZjRZQW16a2lONDBnTmhUZDJpcFZYR0FWNzFaT3g3QV9rNGllYWZRY2JOMkl3LU5NMWZPZw?oc=5
+- **21日午前の日本株は大幅反発､AI･半導体関連株に買い - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MS1JKbXdvVWxFdVhndEFKcS1fZUV3ZktJblBJcjNaSTlDb2pORlJxeG1WQ3JZTHVKRFR2a19QaG01V0NSSzBJNmRXQWtqX1pLMUNWNzlSVQ?oc=5
+- **AI関連銘柄の動向：導入が加速 - Moomoo** _(Moomoo)_
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1g0SzRPUUhLd2IyelpiR2RIR0FUTWgtbVlwOExYMHkwVEdhbERTM2JxVFF1UnE5UVVVSzRmVlJKb2NKQ2NCeldtTHJ3MDBFcC1QLXRHOG0xY2Zfa01wcUJMRVY5c0tjLXdOS0NGQlBvZUhQRzJyUmZoekpGbEIzQUpiVVd1N3dXMVRaMURJS3V2NllJdG91Ukxn?oc=5
+- **２２日の動意株＞ＫＰＰＧＨＤが新高値、株主還元拡充を材料視(ウエルスアドバイザー) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTg4VHBjeGlOTFZndkxOR3pQaFR3eW5iZ0NJTHJnQ0dMYld1V0QyckU5bDE4aEJ2SjN6X0gwMnJFcnVFa2prTERocWJUYmZuTDY4YnFRWFdZNXVjck51Q3RXUDVvSGtBQ0FGSnlERHB0amJfalNCa3VBRmJsRGJqdVVLaUIyaTg?oc=5
+- **ETF売買動向＝22日前引け、日経高配５０、金２倍ブルが新高値(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOemlYWXh4a0VUSDZSUzU5WW5VRy12SjdDVFR0OTY1MXFLWjB2QzQzaE5PQXVZSWhYWEpGNHF5TGNjZi1Vc1JQVVdVcDdoRDIyUHBDemtTeDNZc29icGNvNmZJWjJ0U09iRE40OGZYTnc4aVIzRkR2dC1HbWQ0N2Jmb1NRZFh2NGs?oc=5
+- **金・白金高と金2倍ブル新高値、資金のヘッジ需要【今日の市場はどう動いた？】 - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tellOak1KRzdDOTdBMU5YZVA2Z2tFX2dUUlJjZ2pONTM3aE1jWktXWklHUWhCZ2hrQ0hfVzFBZEk4UGx1VUQ1Q1g4Rlk4RVlwV3p3SlBCSW9udExUNGxFa09vRTI?oc=5
+- **インソース株価が急騰 自社株買いや記念配当を好感 - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1Gc2Q4WDV5N3BVbjRBNHB5dW1fbk1WN0l5NFdZTkJidFNNRkR0NnZ6cHNwbXc5RnpTTndYXzZSc1ZpSjdwNGxwYlVMN2oxZGJhcmRFYkI2MXdGSG5hREdOUWI0djNKWHlxcXVnaw?oc=5
+- **インソース---大幅続伸、記念配当や自社株買いの実施を好感 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdDJDVHhpWVVmZzN5Q1N0VDUweWMtNHEtUkd6WlRVWDR1SHd2LTYwQ285bjI2blBUdXFzSjYxTXhwbHJUcjVPTnY3VjVkdE5xY295UjRsNS1vZHRoYTE2LQ?oc=5
+- **インソースが大幅続伸､3Q決算好調で増配･自己株買いへ - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiUjZ6STRGRC02Z0lFTTlrX25saUpobnlkUk9LQkhVYnVXOFQyLXNVazczX3VCRl9LRnBUS3MtaENDRElwdlVqVGVWOXZINTJJWm1XWm1Ebw?oc=5
+- **インソース急伸、10周年記念配当35円と自社株買い発表で買い人気 - BigGo ファイナンス** _(BigGo ファイナンス)_
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE91YXp2aEhNdlZ4U041c19GZktOU2Uwazkzbm9aMUZIY3FXOHVhdjJ4TkZST1RuazdiaHJfYTRWeW5TTmRSLXdLNXNpcHNtQUx6SmFuT0RmYjBZaU1aM0VfRk1GcmpQbU9aa3lLQ3lOQm8tYmZw?oc=5
+- **インソースが続急伸、第３四半期増収増益と増配及び自社株買い発表を好感 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VazdJNjl1MUFvTVc2TUtZbHQ4em9ZS2ZYZTdaMkF2QWdBUmp2ek9seXdDbmlpRC1kT1NKTWJmRjJLaVBvbC15X29YcXM5QkhXY2FoUERObm1vZUdFTHE4MQ?oc=5
+- **テキサス・インスツルメンツ、好決算も「材料出尽くし」で株価下落 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE16bS1BbkhuTDNiczNRTlN3VmUwOVBWbHFYQXIwaWNuUUJJMTRPTzlDMHNxaEhxalZNMXJnYTJ3Y0lhQ2hOSmdzU0IwREc3dlJtenhVLXhrV09DQzdKTzdXZWNPYkI2eFJzalg2eUlqLTE?oc=5
+- **ＧＥベルノバ、好決算も反応鈍い 風力発電の赤字拡大＝米国株個別(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWVyT1U4SHI0VFl4MHR2LWRLbHV3SndpZGV3OE92T0VmMVAwOFUwaTFQeGE3SzF6Z08xZ3UydWJCVzZKeGZSV21PZHA5Y3FZVXhaNzRNX3UtSllncFVURl9XSVd1dVVIa0ZfaG5OUUIzUTRVblZkbFFSLVgyNno3bExVa0tfSFk?oc=5
+- **グラコ、売上高は予想を下回るも好決算で株価上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE82Q2ROZlhYczBkSUxpTTZLZXgzbC1XZzdReXh1OTc4ZENIdnJIOFBaX3V0VUEzbURpM3hBdUhxY3RVMHUzOUd1eDl0WXpxZUVWcmF6UGhLT1hzWGFaZ0o4MkR5ZmVHdnJGcGlR?oc=5
