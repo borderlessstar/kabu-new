@@ -1,50 +1,46 @@
-# 📈 今朝の株ニュース（2026-08-20）
+# 📈 今朝の株ニュース（2026-08-21）
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
 ## 🆕 すべての新着
 
-- **米中間選挙モード入り 下げに強い自社株買い銘柄に注目 ヴェリタスEYE（8月19日） - nikkei.com** _(nikkei.com)_
-  https://news.google.com/rss/articles/CBMifkFVX3lxTE9VdGVqcG40dm45NlRmam0xOUNQWVMxa0ZyYnJZR2taSzVIZDh3a2hGRHZGMXNDTUZQSnd3VVlLRWw1MGpXRk1JUFdudVlEYUs4UkJkdGJtSExMaVpaSDgteVJfeUM4V1FlWm1YYzk0dEN1d1dzWDN3ZFZ1S21UZw?oc=5
-- **「36 期連続増配」花王（4452）がついに優待を新設！人気優待ブロガーが8月に買った3銘柄＆注目優待株5選【かすみちゃんの優待生活】 - トウシル** _(トウシル)_
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jeVMtTTVRMVNRWDBuMGlaRzBJOHgzQkdodF8zdG1xT1BVenhQX08yYVd4amV0OEJfYUE1ZEFkVHJSSkJqYmtHa01FcnFBUXdCazE0ZlJrV0o1QQ?oc=5
-- **【日本株ランキング】今期に｢売上が伸びる株＆業績の上ブレ期待株｣ベスト5！ 成長率383％の｢データセクション｣、会社予想が慎重な｢ネクセラファーマ｣に注目 - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
-  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbG9lWTBzZ2UtVjItdkpaTFZyNnJXS0FCSUhtdjlHZjhtUGQ0N0xpd2hSbDduM2RtX1IwRTB0MWVTc0trVmcwcXlBYnNjMFZsYjI4?oc=5
-- **ハートフロー、決算受け大幅高 通期の売上高見通しを上方修正＝米国株個別 - kabutan.jp** _(kabutan.jp)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnOVRxRWNTbTNSbXB0bklXRlRGWHdVMEQ2bzlkVzh3VzBhY0JCbzdvblEyQ2xIYzFEQmNBUTFzeU5qOWtXOEJtbXhkZmhrSVdUdk9JZndrNW9RczR6bl9wUQ?oc=5
-- **【CAC Holdings FY2026 Q2 決算説明会】上方修正でも保守的予想、調整後EBITDAは4.5%減—変革優先で新領域比率25%に到達 - BigGo ファイナンス** _(BigGo ファイナンス)_
-  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQ1VJRlcxSGVpTEdhdHVMTlJWN2FFNmlPNURjcnpwQ0dvZFJQYnBWS01NZzR4aGFyTnlMc2lnR0VQZmMxelBaeC1peDZzMXUyTjlucWJNM2tFTUxLYXdv?oc=5
-- **（再送）ユニカフェが５日ぶり反発、２６年１２月期の業績予想を上方修正 - kabushiki.jp** _(kabushiki.jp)_
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FX0ptMnBmQ1FPUkMxcFZSRzJWaVhrQXBmOGpLXzVsYzUwcHlqTi11UUxuS3RaQ2tEa1dZaEVXUTJDSElrdThN?oc=5
-- **【速報】日経平均 一時2000円以上下落 半導体関連株に売り広がる（日テレNEWS NNN） - Yahoo!ニュース** _(Yahoo!ニュース)_
-  https://news.google.com/rss/articles/CBMif0FVX3lxTE1LdHJQc3UyRUd0TXhMbENDcmZkMlhHM2hVMGJXLUV2b3lSNWhNQzNxdERGYlJvR0tfZjJIYWt4QjljNEVIeUlHNkRFUExpRnFXQy1FNVlFMmRIY0tTeTItM0FzTXJONmptdC1xTGNlX2NhcmNsUGVOUG5ud0JFTmc?oc=5
-- **絶好調の半導体市場に迫る転換点 株式市場が先読みする「2つの懸念」：大山聡の業界スコープ（103）（1/2 ページ） - EE Times Japan** _(EE Times Japan)_
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE5CVHF3emtobWR1VHNGSXIyT2VSM2RKZXVjZnFEOU9SeGh1UHYyUWFqbGp4NS1yUEVMRGpJbEh5allPZWQtZEdUVTg4MnRNQjhpUnQ2X1JoTUd6cVNacmxzWURnc2N5M0FIOEhJVGFhYw?oc=5
-- **19日の日本株は続落､金利高警戒でAI･半導体関連株に売り - 四季報オンライン** _(四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ueXJhWmFfN1F2VkRhbnBydzJPNURTZjh0Y3R4TDRKTnRyRUNiQTZJaThvMmtXSTc1UGxySDBHOUdjbTdnclhPbUlzR0NrM2phazYzTVhFQQ?oc=5
-- **午前の日経平均は大幅続落、米株安を嫌気 半導体株の下げ厳しい - ロイター** _(ロイター)_
-  https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVNpYkszbFFJMEY3ejkxTXRycWdFdkh0SlJBRE44dFh5M0VxSDNGQU9Nek8yTVlCazhINW5ET1lJWm85MXVCbTRmVHNjR3hLSkJ1bmotTk1xeG9Fc1U2aV9fNzVBMUJuVEV5ZmtXVFVuS2M2SEFQSWEteWtHV0ZOZA?oc=5
-- **日経平均が２日連続で値下がり、終値２１３４円安の６万５３２６円…半導体関連株の下落目立つ - yomiuri.co.jp** _(yomiuri.co.jp)_
-  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYTNhLWxtUmU3bV82NFRJNGk3MnFERWZrWUZQSHQxaDc0bkRKZ0ktejBzdHpHaEdpMHYtSTVIN0RlUnRyYWVtVUYwYVk0cERXbEtFV0RGbjd0WDZiSm54VmpXRlg?oc=5
-- **キオクシアHDなどAI関連株が大幅安、金利高がグロース株に逆風 - TBS NEWS DIG** _(TBS NEWS DIG)_
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96YXBXelZnX2ZqczlBUnFHWGRlYXJWVldMdzhfZU5JRUNJZHd4R0E2WXVyY2NpTjhoRThSREdhdmd4N2pSMnpscV9SaWxGZFhGZ3NSN09pekM5VzZ1Rm9kNXowaEVmZGM?oc=5
-- **日本株は調整一巡で再上昇へ、AI一極集中から銀行・重工など有望セクターの物色拡大に期待も - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XWEZvOFVYRy1yZ2xzYWo2SFljb1JfTThmN0NvTHhkc0Q4bUNJRTlQTWtMVkhZelBsS0RJSUM1Yl9weDh5UXViZUVKeWbSAU9BVV95cUxNSlRoSEU4UW5ZeFVIV3FJOTdhdHBQZmhkN3hpN2xtVkNVNlpiWVVhSUNzU2pLcGpleXlqeEZQQU1lMlY1UktxMXN6bXA0NGFj?oc=5
-- **ETF売買動向＝19日前引け、ｉＦ独３短国、ＪＰＸ１００が新高値(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmI5M2o1d1E1bE4yS3BTejVTVGkzT3p6THdLY19EclZQM1Zkb3dtNm04bDVMSUZDZzYtNjZyZ0J1cWJtRjYySW0yWkY2Umo2MG9ZUVFZaUs0R2F2d1JsOEtvcVFQS0gxMmg3QjdHMTZmdVdvSm9RTnBramVJQjREVnBlUktnU0U?oc=5
-- **【日経平均2,134円安の大幅続落】INPEX（1605）は▲1.03％の小反落にとどまる底堅さ、半導体株安が全面安招くなかで（2026年8月19日・株式取引概況） - LIMO | くらしとお金の経済メディア** _(LIMO | くらしとお金の経済メディア)_
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RbUU3QWRQMFp6cWFITUE1WjZDTzNhZEx5N1AtMElzX1dHdnViVDlobnJwemdmYmR4ZlhvMDE4T1pJVWV5X0lsdE9kcGE?oc=5
-- **【注目銘柄】東京インキは分割権利落ち後高値を更新、業績上方修正・増配・自社株買いを評価 - kabu-ir.com** _(kabu-ir.com)_
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTE43OEFDeHRvRkppWE5jVWFRRWdGR1VkWmpKM2pBemhNV1RpUVE4bmRMUUdXLWFyZlY5M2FVMjNIaldDU2NKMW9Ma2YwNVZWRnpEQW53NQ?oc=5
-- **AMP（ASX:AMP）における増配と1億5,000万豪ドルの自社株買いが、同社の投資ストーリーをどのように変えたか - simplywall.st** _(simplywall.st)_
-  https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3dFekgtbXFaWDRaTWVNZVMyc3hfWXU0dEoxU2xkaDM4UnJOeVQ3Z3ZDYzJubmhNLVQ1TDQ1bjFtVzlmNXRMS2o0WUtYVFlLTUM5VlFFakdCMnBydHhKNlpyeEpWV1hjc2dUUWpaLW5wNjdXNS1WcDFkTEdJeS1OaFRpaFJ3OEpoN3h1XzJtdzNGVUlQSmlQXy1CNFNmYkk5QzFPbtIBpAFBVV95cUxNQ3dFekgtbXFaWDRaTWVNZVMyc3hfWXU0dEoxU2xkaDM4UnJOeVQ3Z3ZDYzJubmhNLVQ1TDQ1bjFtVzlmNXRMS2o0WUtYVFlLTUM5VlFFakdCMnBydHhKNlpyeEpWV1hjc2dUUWpaLW5wNjdXNS1WcDFkTEdJeS1OaFRpaFJ3OEpoN3h1XzJtdzNGVUlQSmlQXy1CNFNmYkk5QzFPbg?oc=5
-- **株価上昇のカギは好業績？成長期待の銘柄6選 - SBI証券** _(SBI証券)_
-  https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE43YXdfTkRON1VQUDlMZTJsZWxwM01kOUxORWxSdWFMVDA3YkRpRTdRLUN1Mml5NG1uOUlzZFd3NncwdzBCTmhFeHYzb3RtSmE3V28xTWZqZXZJOTVhNGFvWG5obm1vVzNjUlduT0dHNlRJSm9kS1QwSlpDdzN3TkpB?oc=5
-- **ターゲット、好決算も時間外で株価軟調＝米国株個別(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHdINGdlS05ZQVl4clFOR0Z1S0tIZTZCeVY3ajhOMzhRVmMzRUlNUjVVVzhxVndEY3J1Z3BuOTlRbGloRFI0N0xkUXl6eGhKUnB6eWxLamxsNk83cGJnUlVoUmtGUVlYc2xSUEpuUDUyT29EVVZ0NTJNblI5WkU0NTNxZF9QMEE?oc=5
-- **再点火間近のエヌビディアと絶好の買い場迎えたスペースX＜小川浩一郎・米国株"上昇のナラティブ"＞ - kabutan.jp** _(kabutan.jp)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uSm40Q2MxR2ZvcmlwZWR5aGRoblk1bGF3WkJiRUpvLTQyUXBYc1dBd2o2YTA0cXB1UUloMnF2NWxDVFF0MnhzNTl4SHI5Z3FzaGhKcncxWHZwMTl0cGd1Tw?oc=5
-- **週明けの日経平均株価小幅な値動き好決算が下支え買い材料は乏しく - 朝日放送** _(朝日放送)_
-  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XTEpCTmJIYXFkd3pDQ1FLcmN5U0txaThvQ0RSVGY3ZXVsdWRyMjVzYTV5bU1TYVk2alJsSFNQbDdUZno2UW4wa3VnY3pJR0t1eUZPNkZnZ1VEbUI5N3ZlQUhuTTV2YTQ?oc=5
-- **キーサイト・テクノロジーズ株が急騰、好決算と強気見通しが追い風 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
-  https://news.google.com/rss/articles/CBMid0FVX3lxTFBBYWpVUU1NMUlLSjZhR0hBVkNLcFVIRGU5ZlRoUU5sQkNaenAxV1N5dWt6NFdQS0dFQkhjRGJXQUNwbWh5NzNRTVdpU0M0YjJZM2RNRWF5a29MYjUzdHA3OHRIcGtHYjJsRUIyaTRkekhJM0RnX1ZN?oc=5
+- **【日本株】2027年3月期第1四半期決算での好業績銘柄をピックアップ - マネクリ** _(マネクリ)_
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XRVNLTnF5QkwxQ0JLNnk0TVlXT0NZYjdpNkpuYW4yTk9seHg4dXdpeEhfTmRza012QTBYZ1ZnemxsRmNVRlRxdVpUZi1NZnV5N0xKbdIBV0FVX3lxTE96OVJaaHNVZDFZMUhaR3M2Tm56cnpFREM1VlloaEVGcTd3OHBOM19zMTZnWERZNmFXUGZhUHBMekhBS2ZLblhSYklMbzFGUHFLZzk1c2xEYw?oc=5
+- **ダイヤモンド・ザイ10月号は｢【最新・好決算株】31銘柄｣や｢【最強日本株】87銘柄｣など満載！NISAで人気の投資信託の格付けやイデコ入門、桐谷さんも登場！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pQUV3XzRWVUJSLVRFbFBlaV9Qc0VUWnVyTUxXQWJhb2ZZbjdRUjlISkdLdU9IOUI0TVNqV2VsZkc1OU1zN25xdVBOODZrTkVNcEo0?oc=5
+- **まだ割安な日本株は？ NISAで注目したい「PER10倍以下」の5銘柄（マイナビニュース） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE83UG5iRmtKTWhlVGltYzQyUEg2aVIyUDZPMFY2dHdzZnZyZlUxblpJV29tYTItLVhGTU1aWHhOZlRoazNkUzZORzB2cmpzSWNlYmpueEZCNmpMX1lCVnhlZVZRMkFEUFJPSXJ5bXdwdlJJbGRoQ0h0a19XdXFLelk?oc=5
+- **心がザワつく長期金利上昇で注目したい｢2つのIPO銘柄｣ - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JU21nMnd1VkJYX2swZG5rLWQzRDhvNms3SFNGUlIzVy1qZUFuM28tLVRKUGRHdVBVcm0tMGhFeUtXRDNhRGIyeUdZbmtWdURfdmhNdXpyUQ?oc=5
+- **【決算速報】日宣、上期経常を一転17％増益に上方修正・5期ぶり最高益更新へ(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQQUxPSVZGMXZ6S0pId3F5cUNtYkdXVHVqTnIxWG5yNEd5UmVOSFQ1bnd0TGxrYU5Ba3RGc0RkVnB3d2w0UTYtME1ITEhaZVVmZUJUYkNNUkF6TGhXNTBHbGM2UW1lVk9QakJwekpJMWUyQ2ZVbC1Mc3ZfQnJFVWZ4WE9HWUlzUms?oc=5
+- **【動画配信 FY2026 Q2 決算説明会】キッツ、通期計画を上方修正 半導体装置向け385億円へ、V TEC買収で「世界2位」の真空バルブ体制 - BigGo ファイナンス** _(BigGo ファイナンス)_
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOeC05UjFfNE1kLW5oY1pIaGowdl81aXFteGl1SVFjY0RtcUVLR2FsUnN3LXhseXRhM0JZX253eHV5dU5iVzl1OEtkMlhibWlURnMwel8zNzMwQ3NxWUl3?oc=5
+- **脱自動車でもDMG森精機が業績再上方修正、2028年度にピーク利益計画：製造マネジメントニュース（1/2 ページ） - MONOist** _(MONOist)_
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMkNkM0RNN0lzQVViQkYyZVhCWHpyWi1NVzRBWGltQlU3SVdrWWhSbzlHMFA2VnhBRG9sYjBPcUdZb292Sk9iWjhNRF9GRk5DSFR4WjYySmlrZS1NVU53T1R1RkRBZ0xvcVJJa211OA?oc=5
+- **東京株式（前引け）＝続急落、ＡＩ・半導体関連が再び売りターゲットに - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BVnIwNEpmWV9qRTljNnFCcWd0dGJxZlktZzlnX0FOVG9lcS1KUGNGdTJGdGZGN3F5dzFxRzBUNGZ4QmhSS0gxRl9CQUNCclF2NVZZLWxCejdiUFQ2UGJpdQ?oc=5
+- **AI・半導体株は過熱感薄れる 年末ラリーへ復活の秋か - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdkZIeW51QVdUN2ZDbUhVdzlPcnhJbGRrdHRtRXpqWUtWZ1kxelhfb3RYQ2xqQ3JoQUJOVUt1cU9TTmtNeWlDRmQ5dzlhYTFFWnpoeUlOaWk5RHMzdmRWUEFPRUR4TVNDWGVVYg?oc=5
+- **キオクシアほか、AI・半導体関連株の乱高下は「熱狂とレバレッジの巻き戻し」…投資のプロが読み解く「過熱の反動」の先行き 考慮すべきは“ITバブル崩壊後に巨大IT企業が育った”市場の歴史（マネーポストWEB） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9femRsN2JlLXk1d0dxQXVNTGFaMENjUWRfYkx5VEQtN1p1X2tCNWxCenBkZEZ0cUx4V3NvUGI2U2RYdUNMZGxBNmpEUnROeFFNUFhQQm9XXy1lSUFZd2lJNVl3ZVNqRkxzY011YXdlYlBVY0dIT3ZkRGptSVFXMDQ?oc=5
+- **韓国総合株価指数が一時6.8%安、半導体株に売り－金利上昇を警戒 - TBS NEWS DIG** _(TBS NEWS DIG)_
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFByT1FWVjhDX0xLNHV4YkU3bVd2aWFscnlVczR2dmZVbGVRdlZ1WThrZjFTS1N3NkFrWnBPNkx0c1YtSnNoaWNhUFdkYm53ZnlNb1RpNHhNQmNwM0pzbDVBWm1wbmd6TE9zRU1RQjd6TmJ5SVd6?oc=5
+- **半導体株急落で考える「オルカンだけでいい？」 NISAで買える低リスク・好成績ファンド12選 - マイナビニュース** _(マイナビニュース)_
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE40WGJKalZBWXJUbjdaeHF5YjhoOC1VM2VhZ1pQdnJKTXlQQ09XWHI2bFNOakhOLVRyaVhTTUJkSk1kS3JpazJzZ0FBMmc3aUNNTkNaOGxUeWZVX2I0?oc=5
+- **キオクシアHDなどAI関連株が大幅安、金利高がグロース株に逆風（Bloomberg） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaDE0MGxDQW9KM3F6a3BQZW1QM0RJZGgteEJDeXBBam9MLUNvOWVkNmI4QUNsNWJ6a0ItWU9GRkNrckVWNWNwd2NBVG1ldlFILVZzZjJ1eHZaVkZfZ0RMZHkwS3c5Tzd2ZUhDeEZIaHlUTl8yVDgxZjF4Y0FEWDQ?oc=5
+- **韓国株が急落、半導体株に売り－利回り上昇でAI投資懸念（Bloomberg） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBjeC1nQ1gxVVBhMHVPWDZtVnBlTXlqSEM0M3hEdXJ3UHMtMl9HV3VmRTd4amFOWTAzWVlTeUtoa2dmOFYteTk3OUgtNHpsenA3T3NpMmRQNjdVSnpZMXdvSkNsUFFMSWlobTJzRVRnaU96NFI4dzFVMWdhNkdSQzg?oc=5
+- **ETF売買動向＝20日前引け、ＷＴ商品総合、ｉＦ独３短国が新高値(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3AzV0psak9KSU1KaDk3RTN6NEJZdktCTjU3dDhGXzRHT3ZadHE5SXFMYmpZdmI2R3R2Ykk1SnV5SDktNEp4T0lNZ3RPSFFkR200cU9UUTRvZkZacy1CTjV6MW9qOUE5X21aamN6ZzNTRVcyalFsZVBIcktIQ0QtVC1QNi1Gd1k?oc=5
+- **新日本建設が高値更新[新高値・新安値更新銘柄] - Moomoo** _(Moomoo)_
+  https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkc4eFR4cVlqYWg4cWN2QkZjb1FPWkhsQlZaRERaUk1ja01yQkx3cTlWUGRkcHdISzhuTHZFZXNFU1E4M19XN3FlSTNHSWZWRG1iNnFPa1diZXJYN2ZqNzZLWGJULWhjVDF2SS1vcUllZEZxel8ycHJ0WW9yU0R3MmFBelktNkVKZlB4eXB0ZHgxbGNTd1oweWVJT2FWM0c0?oc=5
+- **サイモン プロパティ グループ（SPG）が見通し引き上げと増配を発表、株価は公正価値を織り込み済みか? - simplywall.st** _(simplywall.st)_
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxORDJBQ2Vaakgzc1BNX0FUSjZ2Mi1GM0NiZGxDY0ZMY3l5aEFUVWg2QTg0aEQ4R0kzU3gzUEFIYXN2a1hrZUR2TlJ6RUlaVzdMckJEZ2taRW5YanoyeURFVXBpN1hhSTdQeW9RVzl5NGpXTDllUmNpSHQ4bHVXdm9kQkU2ajRsYy1sb1c3dFJPT3NaYW9na05aMmtYdngybFFiZXlmU9IBpAFBVV95cUxORDJBQ2Vaakgzc1BNX0FUSjZ2Mi1GM0NiZGxDY0ZMY3l5aEFUVWg2QTg0aEQ4R0kzU3gzUEFIYXN2a1hrZUR2TlJ6RUlaVzdMckJEZ2taRW5YanoyeURFVXBpN1hhSTdQeW9RVzl5NGpXTDllUmNpSHQ4bHVXdm9kQkU2ajRsYy1sb1c3dFJPT3NaYW9na05aMmtYdngybFFiZXlmUw?oc=5
+- **本日注目すべき【好決算】銘柄 日宣 (20日引け後 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlFLbzFxQ2tYaUc5N1dwcFMtMWVDUXREYVVlcEc2cl9ndVgzT25nMlBBcUw3SFNZTEwzTjhSdjVUdGpMbEVHdFMwcE51MzNrVExiZTA0WUNDNG9qNm4wc2xzTk9Ra2VhTlhReHJGNDJLeG5RQzBxVkZhaENuWTBoaWc5cGJnQkU?oc=5
+- **AIラリー急転で表舞台に、出遅れ「シクリカルバリュー」銘柄リスト ＜株探トップ特集＞ - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Rd2JhOEJJRlB2SFp6Rlo2OUh3ek5ZMmZTcTljV04ybXU0SVRUb0hFSjRjeW5Xa09feFVOVWJnejh1MGtxUFdYSVBvajZNNkxMcERaNWJwcVBxN2lMRFZrOQ?oc=5
+- **H.C. Wainwrightが好決算を受けDRDGOLDの目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース** _(Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース)_
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1KNDQyVnJnTWhRX1dRamNWcGs3aUtpNVZHcjlkMDhYLTBZLU9JcGczN2hGc3k4blcxTm56UURYLVJVM2U5dzktMUd2cFdyaGZHTWI1aUhzMERlVkd5amsxbkNkc3BaTGJhLXdpbUk1N1A1THZJ?oc=5
