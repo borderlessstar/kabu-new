@@ -1,38 +1,38 @@
-# 📈 今朝の株ニュース（2026-09-06）
+# 📈 今朝の株ニュース（2026-09-07）
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
 ## 🆕 すべての新着
 
-- **様子見姿勢強まる日本株市場で､1Q高進捗の3銘柄 - 四季報オンライン** _(四季報オンライン)_
-  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LVU00dk9LZnJna3lpdV9BWnZkSTBjLW91OXdxZEJ5MnpZVFpVTmd0ejVzejliX3pOVTFVdDdzRHhQQkFfSXdEZ3RsZUoxMTVmT3pDMmt5TQ?oc=5
-- **《AI・半導体関連の日本株「上昇期待」5銘柄を藤井英敏氏が厳選》データセンター向け需要で大幅増益予想でも底値圏の狙い目企業が！ 「3年後の成長予想」ランキングから抽出 - マネーポストWEB** _(マネーポストWEB)_
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0aFJ3YVZYbEU4alV3R1pwRG5sYmhCWF9yTW1jT2lJNXlYb2NtaUxoSE1kSXZUM1VpVDd4WFY0UTNWRTAzY1VZ?oc=5
-- **今週の上期【業績上方修正】銘柄一覧 (8/31～9/4 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnVJbS1PQUFhRUpmVUF3VmhfRmJhcTJJWEduWjFZeExKNVBHMy16eEJ6VDM3Mkh3SlFDZGVRbUU0d1NaUHBRaE00Z3RVdVRaSTNFU2NYNUVvczMzMTlPVVNQRlBrUkg1U1JzNEkxMklqMENKanNOU3JtQWRtX3VHYXozVzY3Q28?oc=5
-- **今週の通期【業績上方修正】銘柄一覧 (8/31～9/4 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
-  https://news.google.com/rss/articles/CBMihwFBVV95cUxQYW8zZnBJSTRJOFI5NDNTUG8wTjQ3Qkh2b3MzVUc0Vm5nZ09CbXROS2lJQzBpSjVTNDhtUVV0ODlUckZjUTcxQW5Eb2Npamk3aU9EdVZPM2xoQnUxaTNaVlgybk00UkhFTzE3YXlPeWw2RHNPaHV4Y2JQSEFRVHdITFQ5UDR2NlU?oc=5
-- **【純利益89.1%増】住友電工の1Qは大幅増収増益、通期の業績予想も上方修正。分割後の株価推移にも注目 - LIMO | くらしとお金の経済メディア** _(LIMO | くらしとお金の経済メディア)_
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lX1Q5UG8tenRuTW02d0NmejUxQzM3a09wamZHYzNKYW4ybHhoSy1pcjJzcGZSUHQtb1YxUGhCVHRUNjFpbnRSdU0xS2Y?oc=5
-- **きんえい、上期経常を47％上方修正、通期も増額 - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdGt6NnNTS05OTVIwQXBaaXJUSXZkcE8xWlNUV0VINm9pODlPdnBRNDEzX3VyT3RNdXo3UjRfbkxYcXZwNHdkeTNBQVh4b0poT3c?oc=5
-- **決算:商船三井CFO「供給網の再構築で新たな需要」 上方修正余地なお - 日本経済新聞** _(日本経済新聞)_
-  https://news.google.com/rss/articles/CBMibEFVX3lxTFBkTWJDWlVUVWtpUmhZZHZkaFB2amJJa2lsamxuNDE2NUIzYzNFYnk2R0xUSWF0MWR3VFI0c3R6dmtHcEwtYVBSQVNGNkVlRUo3UE9mSGNPUWo0MWw4dEgwd3JHX05DdmQzRXNnbQ?oc=5
-- **AI・半導体関連の日本株42社の「3年後の成長予想」から読み解く“株価の将来性” 高成長が期待されるキオクシアが「買い」になるタイミングをどう見極めるか、藤井英敏氏が解説 - マネーポストWEB** _(マネーポストWEB)_
-  https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2OEhCUHVhZGJrTXp2M2szdzlCQXVTc2luMHNaN210Z0lLeE5INFFCbGljamFpMi1fbURxd3Z0RmVtZ29zakpEdVdyYw?oc=5
-- **東京株式（大引け）＝８０６円高と５日ぶり反発、ＡＩ・半導体関連など買われる - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hbGxLNkdZMFF1S2dITHZkbkJHdFA5NGdRcTJXRG1jM1poTWlQd3NiSm9McHNlQVRtd3Z5d0lrOFlHWXZBVjNuaEV2WlkweTBJVVFDVnJfSUpyTEVJTThnTQ?oc=5
-- **【↑】日経平均 大引け｜ 5日ぶり反発、AI・半導体株中心に買い優勢 (9月4日) 投稿日時： 2026/09/04 16:50[株探] - みんかぶ** _(みんかぶ)_
-  https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zVHh3SUtmOFByU1FRTDQ0c1BkMm5DUzhPYWZwNVFiN0J6NHhZeHVCSHpkbGphQXhMV3l3Y0VSTlNvbm9QeGc?oc=5
-- **AI・半導体関連の日本株42社の「3年後の成長予想」から読み解く“株価の将来性” 高成長が期待されるキオクシアが「買い」になるタイミングをどう見極めるか、藤井英敏氏が解説（マネーポストWEB） - Yahoo!ニュース** _(Yahoo!ニュース)_
-  https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1V2YUpORGZXWGxLeTEtZllXM3FON3dIT1JqODloOUpvMWxzUzJIVWhPVXZZSmRDbXdBRmNLRFJPXzFGQk5zMU0xMC15VWZlc09DWUJVSFVHdnpwRFJGamV0QWFPNTNCbjEydGN0NXQyT1E2RzNyemlMN0kxSVRwRS1pUzN6OU1f?oc=5
-- **AI・半導体関連の日本株42社の「3年後の成長予想」から読み解く“株価の将来性” 高成長が期待されるキオクシアが「買い」になるタイミングをどう見極めるか、藤井英敏氏が解説 - マネーポストWEB** _(マネーポストWEB)_
-  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIOTJkWW5mYVFRbGFERm52MkxVaU5WcW53YmhFQmtnSEowUktiTzluMlR3NnZDdHJCdDdRSktBT0FVRUVrWENZ?oc=5
-- **ETF売買動向＝4日前引け、上場銀行１０が新高値 投稿日時： 2026/09/04 11:32[株探] - みんかぶ** _(みんかぶ)_
-  https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhYi00dzVFd3p6OC1hdWk3ZVNNU1g2eWQ1QS1mamV6Q0F6eWpCZU4zc0c1X25UWmMyZzNZY2xFZDZGUXZxdVE?oc=5
-- **アンセル（ASX:ANN）による大規模な自社株買いと増配は、同社にとってゲームチェンジャーとなる可能性がある - simplywall.st** _(simplywall.st)_
-  https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkpVcmVEVHZVUWE5bjNnTHgwZ19BMHV3TlRtWm5rMmc4emlRdzcyWDJRX0VJWndQZEgxNkozQjcxZGRNT2xBVEVMX05xTGJab3ppbDMzQmZEQTczQl9fZUFUODVFNV9Tc0dKNzJTdWdLQ25EOU1mVlpMSXlqalhtYThHV01xcEN4OG5oNzZBNExiUl9CaExZYdIBmAFBVV95cUxPNkpVcmVEVHZVUWE5bjNnTHgwZ19BMHV3TlRtWm5rMmc4emlRdzcyWDJRX0VJWndQZEgxNkozQjcxZGRNT2xBVEVMX05xTGJab3ppbDMzQmZEQTczQl9fZUFUODVFNV9Tc0dKNzJTdWdLQ25EOU1mVlpMSXlqalhtYThHV01xcEN4OG5oNzZBNExiUl9CaExZYQ?oc=5
-- **ＨＰエンタープライズ、好決算も株価は時間外で下落＝米国株個別 - 株探** _(株探)_
-  https://news.google.com/rss/articles/CBMiYEFVX3lxTE41bm5xbS1adHdLcGVxWGpiZnotQzZNN1hNaXNIcHRjUXZKZWtiREw4cm9iN0ZuNUMwRjZvc21pUlZBM1hJazctUW53YjRnR29ndV84T04zZWFBN0ktbEg5WQ?oc=5
-- **エルニーニョで株価上昇？ 好決算に沸く海運株「商船三井」は上場来高値に迫る（ニューズウィーク日本版） - Yahoo!ニュース** _(Yahoo!ニュース)_
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFBwaWY0UjdheENMZmo2Wk45VV91bE0yaHZtbWVnZk45QThmbkhGaEtZSy1GbUJCYzF2YVZCcGxIbzJFaklkZl9kLWRTZ0ZBbEJkRVMtWmZlUXlJSk5sNDR2R1R5MDBOSzZOZHQ4RXF6TWh3d1FBazR3d3E2UzFkcXc?oc=5
+- **NISAで人気の「日本株」ランキング【2026年9月】楽天証券の「NISA口座(成長投資枠)」で買われている「日本株」の買付金額＆保有残高ランキングを発表！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE53Y0p0N3BSTWxKRmFtQ1FNRWhldXRKdzRuaDNnenVIUkJSZTdNN3lIUlJTbXQydGxwTGxScEFTRU1FcU84NHlPanZtWXUxLVAxSm9n?oc=5
+- **下期に勝つ株：高配当の注目日本株10銘柄――日本M&AセンターHD、ディップ 深野康彦 - 週刊エコノミスト Online** _(週刊エコノミスト Online)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB3TUdJSm1ET3FHc0Y2M0FZX3kxa2VCbWVLUzZQZU1uN1A2MkNzZGlyU20xVUVzeVNrc1hHMFNIVWI3SjZPQWE5c3BwQXYzUHZrdjlvR2JhcHpXRlNMdFgwN3NpS19uN2dJSHg5LWlObFFpMmFHYnd0Yy0tcmRCdFk?oc=5
+- **【注目トピックス 日本株】前日に動いた銘柄 part1ソフトバンクグループ、マネーフォワード、ヘッドウォーターなど - マネーポストWEB** _(マネーポストWEB)_
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTFAwVE44SlU1V0UyNU4zNkZqMzJDc2JHdkhnSmhSSmwwNGMtM282QmxMTVJnWTdUX3pfUlh3OWlud1FDTE9ncmdn?oc=5
+- **下期に勝つ株：株主還元に熱心な注目日本株10銘柄――ステラケミファ、NTT 木村佳子 - 週刊エコノミスト Online** _(週刊エコノミスト Online)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1CRHNRMjFyako0NGdOYnR1V2JZR0xsOGUyZFJkaC1ZSkJOWE1lR196UjZaejFHNkF2UkxUZ1F5WUN3NU15Q3dKSWFTSzZHN3l0UjVIQXNNRERGNDYtXzNVcWdEUmxxYlI0S3I0MnVpOTRkU0xYVmphME1FYThQNzQ?oc=5
+- **上方修正“先回り”、26年9月上期【業績上振れ】候補〔第1弾〕 ＜成長株特集＞ - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Udlc4a3drMkExVUl3ak1SMGY5bG1paGJDRGc4ei1YX3hjeHlkNnA0X093TjZoVFVCSl92WWdiX0xid2ZoRlExd2xvczhzN1hRT3FsVnc3SjFOM1JydHdnRg?oc=5
+- **下期に勝つ株：好業績＆上方修正の注目日本株10銘柄――アドバンテスト、ホンダ 雨宮京子 - 週刊エコノミスト Online** _(週刊エコノミスト Online)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE43YnF2UWptQl90WlVUU3VtdGZMWGZTVmNQSmljbzRPOHZYa2w2ZE5objRzbUVKekc1WFBKNDhqNzJ1dkRObE4xWlc1eTdySERROHVHaXZDSUFLX3RtZHR0LUJfdmhIeHhIN21Id3duU09tWmFnV243V1FrS3FoRGM?oc=5
+- **MongoDB（MDB）は、決算発表、業績予想の上方修正、およびアジア太平洋地域でのAI人材の新規採用を受けて17.4％下落した――何が変化したのか - simplywall.st** _(simplywall.st)_
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3pSWXc5b0hTbVJyV25EZU5mUlhrdmx1WVFfX3RjcnR0elBCWTlsM0FRbmlzOGNvYmhOTnA0NmlqLVNXcVRMNHNDc2c3cnRlWEtpcFpFVGdUVnJ0dU9LNnlEcG00SUxNWEdjUGdHN0x2OE04eTFqWlJXOW4zQVMwTHM5UUhIOHZKc3Rna9IBkgFBVV95cUxQNjM1OXJJNjVlUWhOSlZmMV8xQk9vc0lrMFhoRXFGMlc3Rkc5Z3lsTmM1azV3enRRTWtLMW1acW55cUpQOF9FYTZKUlFzeGM3UmJfb2wwMVFyUy01OGZlVmVLNEoxMGpITmZ2VXZwZHo1RDFyWF9UZkhwNnFIcWR4enREaEhzdElXcXNxNGdvdlFtZw?oc=5
+- **サプライズ⑧ 会社が上方修正でも四季報は｢もっと上｣5選 - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTmVWNWQxeWswMkxyZHVjajVvNzU5LTJNM2o0OWNqd210WURVeXY1Zzl3RUQzZHdCcUtGVjlBcGNsNHFrQmNLM1R3cWFWU0J3TTIzZENfTQ?oc=5
+- **本日注目すべき【好決算】銘柄 ナトコ、トミタ電機、総合商研 (4日引け後 発表分) - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1seFJKYTNYa1JVa2lUcGFkX0NWenpRZHRUeHl6RHpXUXVzdy1jWnlFQWVUNWFTay1XR01mRmJNaEx5OUhUT1kyME04c1dHNExScVNIYUpSUjRzOGxfZ3pVaQ?oc=5
+- **｢隠れ半導体｣関連銘柄としてじわり浮上する炭素製品の大手 - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mazQ2Zm9mTVJYY2JVRDFoUmZpQnZ3Ukl3dEd6aFNXQm9yaEhUYTY2S2FVYzlyWWpmT3p2SzA0SU5fMmRMNzQtUXU5ay1DeHJLRWRYWGpPdw?oc=5
+- **東京株式（大引け）＝８０６円高と５日ぶり反発、ＡＩ・半導体関連など買われる - みんかぶ** _(みんかぶ)_
+  https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNaXBYZjlMU0JobDVHdGstS3JqdGcydHZWTllGeUpWYmJDMVBMNzZ1eVNqeC16RllhUXlMSTNBNTY4aWFpbEE?oc=5
+- **【AI・半導体関連の日本株「3年後の成長予想」ランキングTOP5を分析】カブ知恵・藤井英敏氏が「1～3位よりも、4位、5位企業に投資妙味あり」と評価するワケ（マネーポストWEB） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE84SGtuSjNhb1ZzSTNpMVlrT2wxanp6c25INm9kTFJpMjV5UVFza0tSLURpS2l5WXBWSGhlQndoWlpmTWNTWlQxMV9TdGFqVkU0Tk9hYTh5UGtIdUlsS2hFbGJLdV9xY0J4V3hIZDNNSnZRRjBSTXVIZ1FhYmJJcTg?oc=5
+- **AI・半導体関連の日本株42社の「3年後の成長予想」から読み解く“株価の将来性” 高成長が期待されるキオクシアが「買い」になるタイミングをどう見極めるか、藤井英敏氏が解説 (マネーポストWEB) - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0ozdGlISGt4Ylo0aG5obko3eEFELV9UbDh3NzVJbjVlNkJqQ1JqWW50enNkQWJGeVhoaHFYbjZqbExKUUNlanlhRGdsSEFDdW11MlRyaFNaM3NBV2lzRi1KU0ozRktHUjU3WXN0LXFJeGNJZVFtVUl0OFZ3UnBCTUxxUDlzd2lMaXdMUnNn?oc=5
+- **株式投資のプロに聞く｢AIラリー後｣の日本株トレンド - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PNUJPOFNjTG5HeVAyanFodk1nYWV5ZDdfZTJWcXh6bEtBbE42cHJkLWNlSzJRekZnb19rbU5DMGFsSUlpZnY5ZHBUbDRGZVhnWUVlX1VhTQ?oc=5
+- **明日注目すべき【好決算】銘柄 ナトコ、トミタ電機、総合商研 (4日引け後 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNbThLNXZWMDhpcnNsT1VJbzk3RVhOdmxhUUNNSzdoaTZjYjlMQm9JejJSZGtya0NfLU8wNGpUVnN1N2lIbHY3dS1RTGREMGMzQ0ZvSENUUUdvcE04RTg3cWE0dlFUbmZTY29JSGQwUWEyNFJBVFhLTzdzdTlwUVU0V2lVUFhLR2c?oc=5
+- **好決算で株価上昇の「セイコー」「シチズン」「カシオ」、スマートウォッチ時代になぜ時計メーカーは絶好調？ - media.moneyforward.com** _(media.moneyforward.com)_
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FckhmUmxCSGItSzRsSVRWYkZLVFY4dUp5VUZNY3hpS1gyM0NoYmxrNkhkamxpZ3Z6eEF3bmZCdzBvMGxIQ25Ic3RORnFCVFVBNV9PZHYwX0xMYzR5SmtkS3ZHcw?oc=5
