@@ -11,6 +11,7 @@
 import csv
 import os
 import datetime
+import re
 import urllib.parse
 import feedparser
 
@@ -20,13 +21,20 @@ import feedparser
 
 # 1) 追いたいテーマ・キーワード（行を増やしても減らしてもOK）
 THEMES = [
+    # --- 追い風のニュース ---
     "日本株 注目 銘柄",
-    "決算 上方修正",
+    "業績 上方修正",
+    "増配 自社株買い",
+    "新高値 銘柄",
     "半導体 関連株",
     "AI 関連 日本株",
-    "新高値 銘柄",
-    "増配 自社株買い",
-    "好決算 株価",
+    # --- 逆風・リスクのニュース（良いニュースだけに偏らないように） ---
+    "業績 下方修正",
+    "減配 無配",
+    "日本株 下落 要因",
+    # --- 相場全体を動かす材料（中期の判断に効く） ---
+    "日銀 金融政策 株式市場",
+    "円相場 日本株",
 ]
 
 # 2) 個別に追いたい会社名・銘柄（任意。空のままでもOK）
@@ -37,7 +45,13 @@ WATCHLIST = [
 ]
 
 # 3) 1テーマあたり取得する最大件数
-MAX_PER_QUERY = 8
+MAX_PER_QUERY = 6
+
+# 4) 何日以内の記事を集めるか（古い記事の混入を防ぐ）
+RECENT_DAYS = 2
+
+# 5) タイトルにこの言葉が入っている記事は除外（宣伝・煽り記事など）
+BLOCK_WORDS = ["書籍紹介", "神株", "PR）", "［PR］", "【PR】"]
 
 # ==========================================================
 #  ここから下は基本さわらなくてOK
@@ -51,17 +65,29 @@ FIELDS = ["date", "theme", "source", "title", "link", "summary", "score", "comme
 
 
 def gnews_url(query):
-    q = urllib.parse.quote(query)
+    q = urllib.parse.quote(f"{query} when:{RECENT_DAYS}d")
     return f"https://news.google.com/rss/search?q={q}&hl=ja&gl=JP&ceid=JP:ja"
 
 
-def load_seen():
+def load_seen(today):
+    """過去に保存したリンク（全期間）と、直近3日のタイトル（重複を避けるため）
+    ※タイトルは直近分だけ見る。毎週同じ題名の連載記事を消さないため"""
     seen = set()
+    since = (datetime.date.fromisoformat(today) - datetime.timedelta(days=3)).isoformat()
     if os.path.exists(CSV_PATH):
         with open(CSV_PATH, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
                 seen.add(row.get("link", ""))
+                if row.get("date", "") >= since:
+                    seen.add(title_key(row.get("title", "")))
     return seen
+
+
+def title_key(title):
+    """「記事名 - 媒体名」の媒体名を外して比べる（同じ記事の転載を1本にまとめる）"""
+    t = title.rsplit(" - ", 1)[0]
+    t = re.sub(r"[（(][^（()）]*[)）]$", "", t)   # 末尾の（時事通信）など
+    return re.sub(r"\s+", "", t)
 
 
 def fetch():
@@ -72,6 +98,8 @@ def fetch():
         for e in feed.entries[:MAX_PER_QUERY]:
             link = e.get("link", "")
             if not link:
+                continue
+            if any(w in e.get("title", "") for w in BLOCK_WORDS):
                 continue
             source = ""
             src = e.get("source")
@@ -152,35 +180,45 @@ def write_digest(today, items):
             lines.append(f"- **{it['title']}** （スコア{it.get('score')}） {it.get('comment','')}")
             lines.append(f"  {it['link']}")
         lines.append("")
-    lines.append("## 🆕 すべての新着")
-    lines.append("")
     if not items:
+        lines.append("## 🆕 すべての新着")
+        lines.append("")
         lines.append("_新着なし_")
-    for it in ranked:
-        s = it.get("score")
-        badge = f"`{s}` " if s not in ("", None) else ""
-        summ = f"  \n  {it['summary']}" if it.get("summary") else ""
-        src = f" _({it.get('source','')})_" if it.get("source") else ""
-        lines.append(f"- {badge}**{it['title']}**{src}{summ}")
-        lines.append(f"  {it['link']}")
+    # テーマごとに見出しを分ける（追い風／逆風／相場全体のバランスが一目で分かるように）
+    for theme in THEMES + WATCHLIST:
+        group = [it for it in ranked if it["theme"] == theme]
+        if not group:
+            continue
+        lines.append(f"## {theme}（{len(group)}件）")
+        lines.append("")
+        for it in group:
+            s = it.get("score")
+            badge = f"`{s}` " if s not in ("", None) else ""
+            summ = f"  \n  {it['summary']}" if it.get("summary") else ""
+            src = f" _({it.get('source','')})_" if it.get("source") else ""
+            lines.append(f"- {badge}**{it['title']}**{src}{summ}")
+            lines.append(f"  {it['link']}")
+        lines.append("")
     with open(DIGEST_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
-    seen = load_seen()
     today = datetime.datetime.now(JST).strftime("%Y-%m-%d")
+    seen = load_seen(today)
 
     fetched = fetch()
 
     # 既存＆今回分の重複を除外
-    uniq = {}
+    new_items = []
     for it in fetched:
-        if it["link"] in seen or it["link"] in uniq:
+        tk = title_key(it["title"])
+        if it["link"] in seen or tk in seen:
             continue
-        uniq[it["link"]] = it
-    new_items = list(uniq.values())
+        seen.add(it["link"])
+        seen.add(tk)
+        new_items.append(it)
 
     new_items = ai_enrich(new_items)
 
@@ -201,7 +239,10 @@ def main():
                 "comment": it.get("comment", ""),
             })
 
-    write_digest(today, new_items)
+    # まとめは「今日集めた分すべて」から作る（1日に複数回動いても欠けない）
+    with open(CSV_PATH, newline="", encoding="utf-8") as f:
+        todays = [r for r in csv.DictReader(f) if r.get("date") == today]
+    write_digest(today, todays)
     print(f"{today}: {len(new_items)} 件の新着を保存しました")
 
 

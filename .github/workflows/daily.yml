@@ -2,9 +2,14 @@ name: 毎朝の株ニュース収集
 
 on:
   schedule:
-    # 07:00 JST（日本時間）に実行。GitHubの時刻はUTCなので 22:00 UTC = 翌07:00 JST
-    - cron: "0 22 * * *"
+    # 03:17 JST に実行（GitHubの時刻はUTCなので 18:17 UTC = 翌03:17 JST）
+    # ※GitHubの定時実行は混雑で1〜2時間遅れることがあるため、早めに設定。
+    #   毎朝6:30のClaudeのブリーフィングより前に確実に終わらせるのが目的。
+    - cron: "17 18 * * *"
   workflow_dispatch: {}   # 「Run workflow」ボタンで手動実行もできる
+  push:                   # スクリプトを書き換えたら、その場で1回試し実行する
+    branches: [main]
+    paths: ["fetch_stocks.py"]
 
 permissions:
   contents: write
@@ -32,5 +37,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/
-          git commit -m "update: $(date -u +%Y-%m-%d)" || echo "変更なし"
+          git commit -m "update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" || echo "変更なし"
           git push
