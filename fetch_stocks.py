@@ -51,7 +51,13 @@ MAX_PER_QUERY = 6
 RECENT_DAYS = 2
 
 # 5) タイトルにこの言葉が入っている記事は除外（宣伝・煽り記事など）
-BLOCK_WORDS = ["書籍紹介", "神株", "PR）", "［PR］", "【PR】"]
+BLOCK_WORDS = ["書籍紹介", "神株", "PR）", "［PR］", "【PR】", "プレゼント", "キャンペーン",
+               "株価・株式情報", "指数情報・推移", "基準価格・投資信託情報", "株つぶやき",
+               "韓国", "ウォン"]
+
+# 6) この媒体の記事は除外（暗号資産サイト・海外の自動翻訳記事など）
+BLOCK_SOURCES = ["BeInCrypto", "Bitget", "Chosunbiz", "CHOSUNBIZ", "simplywall.st",
+                 "BigGo", "Investing.com", "Moomoo", "moomoo"]
 
 # ==========================================================
 #  ここから下は基本さわらなくてOK
@@ -90,6 +96,11 @@ def title_key(title):
     return re.sub(r"\s+", "", t)
 
 
+def is_blocked(title, source):
+    return any(w in title for w in BLOCK_WORDS) or \
+        any(b.lower() in (source or "").lower() or b.lower() in title.lower() for b in BLOCK_SOURCES)
+
+
 def fetch():
     queries = [(t, t) for t in THEMES] + [(w, w) for w in WATCHLIST]
     items = []
@@ -99,12 +110,12 @@ def fetch():
             link = e.get("link", "")
             if not link:
                 continue
-            if any(w in e.get("title", "") for w in BLOCK_WORDS):
-                continue
             source = ""
             src = e.get("source")
             if src is not None and hasattr(src, "title"):
                 source = src.title
+            if is_blocked(e.get("title", ""), source):
+                continue
             items.append({
                 "theme": label,
                 "source": source,
@@ -241,7 +252,8 @@ def main():
 
     # まとめは「今日集めた分すべて」から作る（1日に複数回動いても欠けない）
     with open(CSV_PATH, newline="", encoding="utf-8") as f:
-        todays = [r for r in csv.DictReader(f) if r.get("date") == today]
+        todays = [r for r in csv.DictReader(f)
+                  if r.get("date") == today and not is_blocked(r["title"], r.get("source"))]
     write_digest(today, todays)
     print(f"{today}: {len(new_items)} 件の新着を保存しました")
 
