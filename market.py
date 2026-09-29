@@ -121,23 +121,34 @@ def download(tickers, start=None, period="1y"):
                 out[t] = s
         except Exception as e:
             print(f"{t} の取得に失敗:", e)
-    # 日本の銘柄は、その日の終値が日足に反映されるのが遅れることがあるため、
-    # 15分足の最後の値で補う（取引時間が決まっている日本の銘柄だけ。為替・先物は24時間動くので対象外）
+    # 日本の銘柄は、その日の終値が日足に反映されるのが翌日になることがあるため、
+    # Yahooの「現在値（取引終了後は確定した終値）」で補う
+    # （取引時間が決まっている日本の銘柄だけ。為替・先物は24時間動くので対象外）
+    topped = []
     for t, s in list(out.items()):
         if not (t.endswith(".T") or t == "^N225"):
             continue
         try:
-            intra = yf.Ticker(t).history(period="5d", interval="15m")["Close"].dropna()
-            if not len(intra):
+            tk = yf.Ticker(t)
+            tk.history(period="5d", interval="1d")
+            meta = tk.history_metadata or {}
+            price, ts = meta.get("regularMarketPrice"), meta.get("regularMarketTime")
+            if not price or not ts:
                 continue
-            last_ts = intra.index[-1].tz_convert("Asia/Tokyo")
-            day = pd.Timestamp(last_ts.date())
+            local = datetime.datetime.fromtimestamp(int(ts), JST)
+            now = datetime.datetime.now(JST)
+            if local.date() == now.date() and (local.hour, local.minute) < (15, 25):
+                continue  # 取引時間中の値は使わない（確定した終値だけを使う）
+            day = pd.Timestamp(local.date())
             if s.index.tz is not None:
                 day = day.tz_localize(s.index.tz)
             if day > s.index[-1]:
-                out[t] = pd.concat([s, pd.Series([float(intra.iloc[-1])], index=[day])])
+                out[t] = pd.concat([s, pd.Series([float(price)], index=[day])])
+                topped.append(t)
         except Exception as e:
             print(f"{t} の当日値の補完に失敗:", e)
+    if topped:
+        print("当日の終値を補完:", ", ".join(topped))
     return out
 
 
