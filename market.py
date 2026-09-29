@@ -345,3 +345,25 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+def _debug():
+    lines = []
+    for t in ["^N225", "1306.T", "8306.T"]:
+        try:
+            tk = yf.Ticker(t)
+            d = tk.history(period="5d", interval="1d")
+            lines.append(f"{t} daily: " + ", ".join(f"{i}={v:.2f}" for i, v in d["Close"].items()))
+            m = tk.history_metadata or {}
+            lines.append(f"{t} meta: price={m.get('regularMarketPrice')} time={m.get('regularMarketTime')} "
+                         f"({datetime.datetime.fromtimestamp(int(m.get('regularMarketTime') or 0), JST)}) prev={m.get('chartPreviousClose')}")
+            i = tk.history(period="2d", interval="5m")["Close"].dropna()
+            lines.append(f"{t} 5m last: {i.index[-3:].tolist()} {i.iloc[-3:].tolist()}")
+        except Exception as e:
+            lines.append(f"{t} error: {e}")
+    with open(os.path.join(DATA_DIR, "_debug.txt"), "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+
+if __name__ == "__main__":
+    _debug()
