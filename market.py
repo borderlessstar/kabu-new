@@ -90,6 +90,16 @@ MOF_CUR = "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv"
 MOF_ALL = "https://www.mof.go.jp/jgbs/reference/interest_rate/data/jgbcm_all.csv"
 
 
+def to_jst(ts):
+    """Yahooの時刻（数値またはTimestamp）を日本時間のdatetimeにする"""
+    if isinstance(ts, (int, float)):
+        return datetime.datetime.fromtimestamp(int(ts), JST)
+    t = pd.Timestamp(ts)
+    if t.tz is None:
+        t = t.tz_localize("UTC")
+    return t.tz_convert("Asia/Tokyo").to_pydatetime()
+
+
 def download(tickers, start=None, period="1y"):
     """終値（配当込み調整後）を {ティッカー: Series} で返す。取れなかったものは入らない。"""
     tickers = sorted(set(tickers))
@@ -135,7 +145,7 @@ def download(tickers, start=None, period="1y"):
             price, ts = meta.get("regularMarketPrice"), meta.get("regularMarketTime")
             if not price or not ts:
                 continue
-            local = datetime.datetime.fromtimestamp(int(ts), JST)
+            local = to_jst(ts)
             now = datetime.datetime.now(JST)
             if local.date() == now.date() and (local.hour, local.minute) < (15, 25):
                 continue  # 取引時間中の値は使わない（確定した終値だけを使う）
@@ -356,7 +366,7 @@ def _debug():
             lines.append(f"{t} daily: " + ", ".join(f"{i}={v:.2f}" for i, v in d["Close"].items()))
             m = tk.history_metadata or {}
             lines.append(f"{t} meta: price={m.get('regularMarketPrice')} time={m.get('regularMarketTime')} "
-                         f"({datetime.datetime.fromtimestamp(int(m.get('regularMarketTime') or 0), JST)}) prev={m.get('chartPreviousClose')}")
+                         f"({to_jst(m.get('regularMarketTime')) if m.get('regularMarketTime') is not None else None}) prev={m.get('chartPreviousClose')}")
             i = tk.history(period="2d", interval="5m")["Close"].dropna()
             lines.append(f"{t} 5m last: {i.index[-3:].tolist()} {i.iloc[-3:].tolist()}")
         except Exception as e:
