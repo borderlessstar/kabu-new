@@ -2,14 +2,14 @@ name: 毎朝の株ニュース収集
 
 on:
   schedule:
-    # 03:17 JST に実行（GitHubの時刻はUTCなので 18:17 UTC = 翌03:17 JST）
-    # ※GitHubの定時実行は混雑で1〜2時間遅れることがあるため、早めに設定。
-    #   毎朝6:30のClaudeのブリーフィングより前に確実に終わらせるのが目的。
-    - cron: "17 18 * * *"
+    # 00:17 JST に実行（GitHubの時刻はUTCなので 15:17 UTC = 翌00:17 JST）
+    # ※GitHubの定時実行は混雑で3〜5時間遅れた実績があるため（9/28・9/29）、深夜0時台に前倒し。
+    #   毎朝6:22のClaudeのブリーフィングより前に確実に終わらせるのが目的。
+    - cron: "17 15 * * *"
   workflow_dispatch: {}   # 「Run workflow」ボタンで手動実行もできる
-  push:                   # スクリプトを書き換えたら、その場で1回試し実行する
+  push:                   # スクリプトや実行時刻を書き換えたら、その場で1回試し実行する
     branches: [main]
-    paths: ["fetch_stocks.py"]
+    paths: ["fetch_stocks.py", ".github/workflows/daily.yml"]
 
 permissions:
   contents: write
