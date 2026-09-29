@@ -56,7 +56,7 @@
 - **国債で3％もらえる時代に、それでもAI株を買う理由はあるのか - newspicks.com** _(newspicks.com)_
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DWW1Ubm9LTzFvUkYtMllpd3EtM2FKb0g5R252RWdIb0hPY081Z0h0UXkwb1VkVGNTYVBBVTBYRGMybGJiZ2J0aHNvQjNybFFFNTRV?oc=5
 
-## 業績 下方修正（3件）
+## 業績 下方修正（4件）
 
 - **大井電気、上期経常を一転赤字に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE00TjMtR1VRUWZ5NUJZVG9BY0dJeUxUeUVJdGRyZ2Q0YTZHZ0xGQXJxZTJVOU14ZDh4aHRVWkp3eDVsNWR5Q3k0TzdOZkE0d3ZScVE?oc=5
@@ -64,6 +64,8 @@
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xeHRIVk9IVm8yNjNfYmliWmprNFhaX0ZYRUNHdnJLb2tza2pOOEhyMGthS0R2aDZnd2c3WTNoeUlIbmIxRDFpd0JBWldWTWZXdkE?oc=5
 - **チョコレートのリンツが2度目の業績予想引き下げ、欧州で需要低迷 - TBS NEWS DIG** _(TBS NEWS DIG)_
   https://news.google.com/rss/articles/CBMidEFVX3lxTE9NVWVNVWNQekVYTFZ6U0c0bm5KcTBEM0J2SzdTWlZ1RDFsakhZU2dmdzRoSzQ1Y3M2a09KUTZDUUFIeElRZWltSFkxUURNcGRlRV9Cd0pMT3Vma2twcFN6N2NHSzluZW1RendkR2hObE9sbHB1?oc=5
+- **プロＨＤ、今期最終を56％下方修正 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wcWp5cjlnSk1aRFVKZjhIWDI2Zjg0a2VLc3RtV0JtdURpR05qU3BiLXgzMklydm4xcVNQcmdsX3hGa3N2SERUNUlta0dXa25Ed1E?oc=5
 
 ## 日本株 下落 要因（3件）
 

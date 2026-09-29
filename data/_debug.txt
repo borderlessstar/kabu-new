@@ -1,0 +1,6 @@
+^N225 daily: 2026-09-18 00:00:00+09:00=65018.95, 2026-09-24 00:00:00+09:00=65513.99, 2026-09-25 00:00:00+09:00=66364.20, 2026-09-28 00:00:00+09:00=65877.62
+^N225 error: int() argument must be a string, a bytes-like object or a real number, not 'Timestamp'
+1306.T daily: 2026-09-18 00:00:00+09:00=426.30, 2026-09-24 00:00:00+09:00=424.80, 2026-09-25 00:00:00+09:00=430.30, 2026-09-28 00:00:00+09:00=428.20, 2026-09-29 00:00:00+09:00=nan
+1306.T error: int() argument must be a string, a bytes-like object or a real number, not 'Timestamp'
+8306.T daily: 2026-09-18 00:00:00+09:00=3573.30, 2026-09-24 00:00:00+09:00=3526.91, 2026-09-25 00:00:00+09:00=3666.09, 2026-09-28 00:00:00+09:00=3673.00, 2026-09-29 00:00:00+09:00=nan
+8306.T error: int() argument must be a string, a bytes-like object or a real number, not 'Timestamp'
