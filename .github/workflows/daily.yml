@@ -4,12 +4,14 @@ on:
   schedule:
     # 00:17 JST に実行（GitHubの時刻はUTCなので 15:17 UTC = 翌00:17 JST）
     # ※GitHubの定時実行は混雑で3〜5時間遅れた実績があるため（9/28・9/29）、深夜0時台に前倒し。
-    #   毎朝6:22のClaudeのブリーフィングより前に確実に終わらせるのが目的。
+    #   平日6:22のClaudeのブリーフィングより前に確実に終わらせるのが目的。
     - cron: "17 15 * * *"
+    # 土曜 06:17 JST にもう1回（金曜の米国市場の終値を、土曜の週1まとめに間に合わせる）
+    - cron: "17 21 * * 5"
   workflow_dispatch: {}   # 「Run workflow」ボタンで手動実行もできる
-  push:                   # スクリプトや実行時刻を書き換えたら、その場で1回試し実行する
+  push:                   # スクリプト・実行時刻・候補リストを書き換えたら、その場で1回実行する
     branches: [main]
-    paths: ["fetch_stocks.py", ".github/workflows/daily.yml"]
+    paths: ["fetch_stocks.py", "market.py", "data/candidates.csv", ".github/workflows/daily.yml"]
 
 permissions:
   contents: write
@@ -28,9 +30,14 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: ニュースを収集
+        continue-on-error: true   # 失敗しても市場データの取得は続ける
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python fetch_stocks.py
+
+      - name: 市場データと候補の成績を取得
+        continue-on-error: true   # 失敗してもニュースの保存は続ける
+        run: python market.py
 
       - name: 結果を保存（コミット）
         run: |
@@ -38,4 +45,5 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git commit -m "update: $(TZ=Asia/Tokyo date +%Y-%m-%d)" || echo "変更なし"
+          git pull --rebase origin main || true
           git push
