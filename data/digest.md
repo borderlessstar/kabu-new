@@ -36,7 +36,7 @@
 - **グラファイトがストップ高、今期業績予想の大幅な上方修正を好感(ウエルスアドバイザー) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTYzeVZWRkE4MGZKNERuYjlFREl3Wi15cDdMLTlfdFR5SnVSVmR4TzFwNnBlV0RXY1U5WXRFVVhmck05OGZGcjFUR1JnVUZGZUljVnFUUWEzTDJydmxfY1lYZGlCSm9YNURodno3NEhDaUhhVXlxUzBzd25iM2xXUkZlNGUwRE0?oc=5
 
-## 増配 自社株買い（3件）
+## 増配 自社株買い（4件）
 
 - **中学教師が説く「稼ぐ配当株」7指標 - 조선일보** _(조선일보)_
   https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFFYTTRLam1FSEZnVWVRVEcwdXBmRzNHdzVTU3lGckptV2l3QUhia1ZwT0RuRjh4dFc5Z3dvUjBXWDJMQjktNWYxWklkTFN0am5JNV9uQXlHNi1MLW9YbmZEdnVlbHFyRlJxMVROcFdLajR5Q1h1VmVsT2VrUUE4dg?oc=5
@@ -44,6 +44,8 @@
   https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXpFNFFpVFRlcUF1bXhjdlhrMTVMMmpUTFZ2YU13dTdRZ19sMEMwWVB1YW9YdERPSWpVb19mcXVoZFpvVzhlSklKSUZhOE5nM3hwYXJ2eU1UeF9KaHZoUWxCY2FNM0F3VTBsMGd4M3BpajRUM1g0Z19pT1ZaVFBwcE9hdWtSZENJSGwyQWN3?oc=5
 - **キオクシアの株式3分割で何が変わる？株式分割が相次ぐ背景と新NISA時代の個別株投資判断の視点 - Infoseek** _(Infoseek)_
   https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kXzRGRW1SSEJmQUVrVklrTG9sdVlvbzAwU2UxdkZFTnduUE9uNXFDa1ZjYUdoREIyd0l0SzBQaGVWQ0RBTEZ4UF9MWm5TZXlVRWc2c0czT19HdlZlaDJ4QTF3?oc=5
+- **西松屋チェが３日ぶり反落、８月中間期は経常減益で着地 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YNGpyWXBNVVFiQ1Nrc3Exb0psS3JWZXlLNk5mZ3oyc3ZCMWxmU1RGZVk2T0pKT3VONG50b25EMHVrMDAtU2h2TzVKN3dIdnEwOU9qQWJkM1JCRWdLa3lnUg?oc=5
 
 ## 新高値 銘柄（3件）
 
