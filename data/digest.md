@@ -38,12 +38,14 @@
 - **ローツェ---大幅反発、市場想定を上回る水準まで業績上方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzZ1BDS05iQ0RFTndhdXFTaUt2VkFMbkhZb1h1YUxtOEJvQWxlTjZpTjJyazZZV2k4R0doR2JTeVFBNHBpRS1Fc1RwYk9EUDR2MC1LY1NGVkktVmJNdU1wZA?oc=5
 
-## 増配 自社株買い（2件）
+## 増配 自社株買い（3件）
 
 - **10月8日のTotalEnergies SE (TTE) 始値は3.70%上昇：主な推進要因が明らかにされました - TradingKey** _(TradingKey)_
   https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzRaaTZyazl0T085ZGVPSzJ4R21xNmlfU0tFNkVYQWZLczUxWFJkdWhyMHhDdDFLcklLdWRKMHRSRE1GbVQzVWVyXzNZc3VHZnNveHNFazlzNmpYTFRKRnRhc1luVmx3eXk2STBkRUpiLTYwb21OYXhYVmpyNlBpa3pjMG1QamRxLV9CbVJ3?oc=5
 - **「配当20円→28円」へ増配＆業績上方修正でプライム値上がり1位…半導体製造を支える〈AIツルハシ銘柄〉の正体【10月9日の国内株式市場概況】 - ゴールドオンライン** _(ゴールドオンライン)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfd280VjlTbElxRWhRWHNFVGxIc2ZNT3B2U0QyakROX0ZZN0JaQ2lFMlk4dDMwcjMxWjNlVlB1UlA4VHItdVdaSkVZMUwzQmtlSmc?oc=5
+- **【JR株比較】増配の東日本か、自社株買いの東海か。インフレ下の投資戦略 Kyle Anderson (5xOlH9XJ52) - Unisba Media** _(Unisba Media)_
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NmhXdnRfYS05a25IUzBOVjFTVmg0T2g0SmJ4T1IyMmdnSmNKb2lERUJhTWY0RXpnWExhbzE3XzJkMXk4NF9teWhVbWtKTWN2UGlKLTNycEJnNFZEN3IwemJIcFU2dw?oc=5
 
 ## 新高値 銘柄（2件）
 
@@ -91,7 +93,7 @@
 - **ベルク、今期経常を156億円に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE83MmljSEVmUlRpSnpzd1dPUVZtVVpGaUZSTmd4WTg1clJ5eVFocWhEVkJGazQzVjg0bE5yT3dacGo3SENtanpiRWlzMTdiRHE1V1E?oc=5
 
-## 日本株 下落 要因（4件）
+## 日本株 下落 要因（5件）
 
 - **来週の株式相場に向けて＝日経平均７万円奪回の模索続く、欧州懸念にはプラス要因も - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WQkhESk9oOWFvbFdMNkdGVVhxek9qS2pjMlhPSE9OengwYWMyb1MySVRmT0RRc3QwRGgtWEdDa3VrT0VQaFpfRUtlUWNVU0EwNS1IUDdKNk9uT1lhYnRWWg?oc=5
@@ -101,6 +103,8 @@
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkU2Jjek9TYXNYM3pQUlhyTWc2NGwwRG5tZFRIQVNNYUpEZldqdEFEYjNVcGVkdlQ0N2hBNGQ5cFhXYnNZZkdKOEtZa05mLTNSWG93V0cyemF0TEZpQ084?oc=5
 - **日経平均は69,000円を割り込む、米半導体株安とAI投資懸念が重荷に - EBC Financial Group** _(EBC Financial Group)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zOTMxQmtlamQ0ZmFGcnJDQ0V2T2VFRDY5Tk5CVFFqVDdYZ2lGSUJUVGNYckt1U2k5LThlNGVobERRcFZ6SDlaRGhXOHFnbTRZNHc?oc=5
+- **(株)日本製鋼所【5631】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qdDgzS1FLeF8zb1AwR2h1Nm9abkU4ZlB5dVJsQnloaFgtTHlJSk1hY2NrQjZCWGdZRmJhcjNoVDdPUm4xLVhpd180d05PMGZibjZkX2tEb0FhUjNwRHdr?oc=5
 
 ## 日銀 金融政策 株式市場（9件）
 
