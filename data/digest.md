@@ -36,7 +36,7 @@
 - **室町ケミカル、中間期業績を上方修正 医薬品原薬や半導体関連が好調、経常益は2倍に｜NetIB-News - NET-IB NEWS** _(NET-IB NEWS)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiQkU2bEJ6WUlFYjBXSkZVdERUQ3lvZW1xRlVveXBrNzZqMVJ3cWlrcjFtZ3FQbmljUDI2Nmw4UnhxRzJhenlUN3haQTFZdVZTdGc?oc=5
 
-## 増配 自社株買い（3件）
+## 増配 自社株買い（4件）
 
 - **大末建設がカイ気配、業績予想の上方修正と増配、自社株買いを好感(ウエルスアドバイザー) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWIwMS1HUjI0cDF0LWplRGhZckg1anhPcy1EcjMyVm9ORUdtWGNyTDd3aFlScWlyM2hFNXhuclJXRlpDX1pLT1FvV0hsZE5EbklWQTkza3ZUY0FJNEY5b3pVclU3RXd3Rkp5ZVo2RldHMlVaeHF2MnpOTlpZSXd5RF9KZ0JFMG8?oc=5
@@ -44,6 +44,8 @@
   https://news.google.com/rss/articles/CBMijAFBVV95cUxPSW11d1ItNjRpa245Uk1fQWk5X3ZBN3YzOVdBa0RONjg4QTFxVFNsVjE5Wk1UcTNhOGx6MDNUTzZHdVJsejd1TjRqT1FPdFJVUjRPQ0VCMWtJVktzN1YxQVZYWDRCdUlmek5pWkpESmVPempSLTFpazFTeUJxWTZ3VUxtV2RIcURyZVBrZNIBjAFBVV95cUxPSW11d1ItNjRpa245Uk1fQWk5X3ZBN3YzOVdBa0RONjg4QTFxVFNsVjE5Wk1UcTNhOGx6MDNUTzZHdVJsejd1TjRqT1FPdFJVUjRPQ0VCMWtJVktzN1YxQVZYWDRCdUlmek5pWkpESmVPempSLTFpazFTeUJxWTZ3VUxtV2RIcURyZVBrZA?oc=5
 - **大幅増配「186円→234円」のサプライズ発表でストップ高…プライム値上がり1位となった〈好決算銘柄〉の正体【10月16日の国内株式市場概況】｜Infoseekニュース - Infoseek** _(Infoseek)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zWE9RMWRqTkNSb0VkUFVFTDY4aVhVamwtSTh1SzFnRE1COXZybHFPRGFjd2VxbGZHNTFjUElaT1hfejBVZ3gzZ1FCbERLeU00RzdheFlCMFRLTnBKajZQWDA3Zw?oc=5
+- **大末建が通期営業利益を上方修正、増配と自己株式の取得も発表(ウエルスアドバイザー) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHUzSEZna2FkQ1VYdmlRRFZPb1ZORENwN28xQnFXVXpodG1oNl81MlNnTkV2eUJjSHQ4T09DQktFOU5XVDJza3FiNHpnUDNTZWNuZU5YSXU0T1FzRHZ0dnhYblctWGRRbWFsS1g1Rk5hdW1Ec2xXTkQyaW9kRzNEcnhZVmtxQ2s?oc=5
 
 ## 新高値 銘柄（3件）
 
@@ -54,7 +56,7 @@
 - **【ゲームエンタメ株前場(10/16)】IGポートやテイツーなど好決算銘柄が買われる 東宝反落、HEROZ新高値、サンリオ反発【チャート掲載】 - gamebiz【ゲームビズ】** _(gamebiz【ゲームビズ】)_
   https://news.google.com/rss/articles/CBMiREFVX3lxTE9QU2pKRm1wT0hFeDI1MHQ0dGI1WmozRk4zMDNoSnZicHprSW5Xcnk0dHQwaDlrSC1USjBOZnJVMkc4VzM5?oc=5
 
-## 半導体 関連株（5件）
+## 半導体 関連株（6件）
 
 - **【↑】日経平均 大引け｜ 7日ぶり反発、AI・半導体関連に買い戻し (10月16日) - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zSDJMb21ZYWpxRnk1OWRPUm8wMnNOdnE4UFZYLTN1M0J4YXlncDJaN3BRYV9NOWgzWDhyVnI5cTZVY3VqRmhMQVNQRTBoVmtKclRDNW52SDFuN0M2cTQzLQ?oc=5
@@ -66,8 +68,10 @@
   https://news.google.com/rss/articles/CBMif0FVX3lxTE16LUhXeVJucGh4eVpKSzZJemkxdjVFX3FmaXhsY2VQZUN3dWVYM2VyRFVlakhJUXA4X3U1Ni0yclNtRVVjODdSQllENWVjNnJ6RU8xWmo4RnRvU0xqTmowU3RYQ2RHcHZaaHp0TGdhVVQtYXplSWUwYVc4UXdTTDg?oc=5
 - **半導体を中心にハイテク関連の売り継続＝米国株概況 - みんかぶ FX/為替** _(みんかぶ FX/為替)_
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5INkRPTTlwbzNqN1pnTEdaZXlGSEplMlFMLW5KczFJQllvOFdwOHVTQWpsMXNRTzZ4RlRQdGtVTlRQNkE4NnhRTQ?oc=5
+- **コアウィーブ・ショック 日経平均急落後の展開は？ - ピクテ・ジャパン** _(ピクテ・ジャパン)_
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW42S2tSSWg2T0lkd1ZnZ3luVUUyMHRibFR1aVZfdUNHc0pXeFVmaXVraU53U3k2eXJlNjFGVzkzZ3ZtVFpiclRKbVhZTEdBdXd5T08yRnNqY3hVZ2JucV9ucWc5bENvcE9udXZFbXVrbmMzdXBiYXJqOHUtSWg0b0Q0RG1TbzRZ?oc=5
 
-## AI 関連 日本株（4件）
+## AI 関連 日本株（5件）
 
 - **来週（10/19～23）の日経平均株価の予想レンジは、6万2000～6万8000円！ IBM、ラムリサーチなどAI関連株の決算に加え、好業績の内需株などにも期待！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
   https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0cXBtZF9TbFlLSE5SVm5Lblo5OHdJMUZIRUJtc2QzR0RFb1VKNEdPMjktbHNxdXJoQlZYbk5PXzVtd3BiN2F1aWdJZ2xGNTNWRUJr?oc=5
@@ -77,6 +81,8 @@
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zR1hzOW5DZFg5ZGRKdlFDc3hGZ05hXzVBckZKTVlCM2ZTR0k5OWUwQ2FkaU4zaXRfd3c3dEpGaXFmZG5La2NlbGszT0swWnJPUU1PX0d0VG85US1xUW5QY3hEdw?oc=5
 - **米国株式市場＝反落、ＡＩ関連株の売り継続 コアウィーブ12％安 - Reuters** _(Reuters)_
   https://news.google.com/rss/articles/CBMihgFBVV95cUxONnZ5MEtBTVR2LUtUbWdqWDdneEF6b0EtMzhWQjlPd3JJaTMtRjRQUzR1QzdNNE5QNllwdENsdWdMaVZERnpsVnpxSVJiVTdoVG9kVTE1dFdsSGRvaHNVSVZPcFRNQlZmRDFRaWlUMVVkMERmNmpfdTlnUUNnOGw3QllEYzFOQQ?oc=5
+- **NY市場概況－ダウ 175.28ドル安 AI関連株売りや原油高が重し ナスダックは2％超下落(トレーダーズ・ウェブ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNxU2dycmQ2M2FBNE9RNWI1X3JPa3A5M3A1RHlDN2x5Zy0wTTBTalF5THM0OXN1MnF5WHdaY1h5ZVNMV0hGczdrTFYxQ3djUThIOUtwUktleXRKWlZpbW9zcE94bW41SmwxTkRrbUpUNG9RUHB1NDVGVEduYTY3Tkd2c3BKQlk?oc=5
 
 ## 業績 下方修正（7件）
 
@@ -104,7 +110,7 @@
 - **急落した日経平均は復活できるか？「コアウィーブ・ショック」が揺らすAI相場の今後の焦点（土信田雅之） - トウシル** _(トウシル)_
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZHJXYkdDU2E2TEFrd3VOREpCN2drRjNnby1pUXk5NTFlVGVXdGhGNmpwTFY0bmJNZERRTWNpamRKdGZMdXUzdWVQTE91MGU5UkNhRjd5U0o1QQ?oc=5
 
-## 日銀 金融政策 株式市場（5件）
+## 日銀 金融政策 株式市場（6件）
 
 - **基調物価2％の判断、10月会合でしっかり議論 経済は見通し通り＝日銀総裁 - Reuters** _(Reuters)_
   https://news.google.com/rss/articles/CBMikAFBVV95cUxQMjc5XzN1U3FyeDM3X3hvSGNJYXBiQmtWdEtOenZhekhWR1JnZnBnREpWbnctQ0lQTWVYZkh5UmptN3BIM2Yyc3ZSaVFSMzlkdHFPdlZPUDdBTmpaWkNqWThidkE0dVR2RHZoa2k1SElTU1FtaUwyZEloU0VHbEtKNzZzOHEwT3NlaXprNXMyU2c?oc=5
@@ -116,8 +122,10 @@
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lakVwNVM5TGFzME80aVRoU1lMejFYdlZBb3dFZlkwUDdxcjNMQmszSEFndDlGOFZzNXVZSDgxRi02OTAzRVdpRg?oc=5
 - **ドル円158円台で膠着 来週は何が動かす？ 米金利低下・原油110ドル・NASDAQ急落【相場の現在地】2026/10/17 - 外為どっとコム** _(外為どっとコム)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbWlmSUNFX1ZhNnQ3MmdjTXBpU21fWWszS3pYNHFkVkN4UDJnN1JiYWRVekdrTFk0TS1RN1Fhd1ZCRFVId21qa2dsWHQ0UWh5ek43dDk2cklfQlJNZXBLTXo1bw?oc=5
+- **【要人発言】日銀総裁「基調物価が2％に近づく中で、金融政策環境は緩和的」(トレーダーズ・ウェブ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVhwQzdWUUxrNDFKOTVnRnFFZ1RWQWNVSGs0QlhGb0dYMHE5SVRXdnBTYV9zQk5GTWtUeGVxRlRJOHQxWU1UWjc5dlUtMmVGZmswTTMwTThRd296SkZUd1ZDa1lyQnA4dDA5UjBuT1dkQUxzTG5QT20wdmMwN09BcVFtSjlLdlU?oc=5
 
-## 円相場 日本株（6件）
+## 円相場 日本株（7件）
 
 - **円相場、158円00～01銭＝16日午後5時現在(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxORzNBXzdXYlljd0ZNVzk1Qzg1ZG04ZC1OUUdkLVNUVlE5X0E0cGlOWjc3QXN3R1lzaFpVeDhoM1h2VE8xYVNPNk1JY19lSkMyOHVXUDJZNGRkR29JWGJETEVfQUQtdkhfWGppczRselNLRFNVZWllQUx0R0taOW5RamJfNjAwUGM?oc=5
@@ -131,3 +139,5 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDdxM0FzNzJmM1FIQWtoMkFvb05FUjRIaTVlUWV4SlRCZE1Uc24yVmV3THBJLXA0REc5VUJmd2FKQW1oaE9aQWJmN3I3TnMyTjMzSllrSmhOWDlJZFg3MlNyUl9VbXRLR1hMbzJWWFVENkN4djZFSm02UzZhQXZOWFdrNzV5T3c?oc=5
 - **売りオーダーが下がり始める、ドル円はドル安・円高で上値重い 今日の外為注文情報 2026/10/15 17:00 - 外為どっとコム** _(外為どっとコム)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGSkgwU2F4aGd3TXVIandReGNiS0xtcFBvdDktdzJPVE5hNkxDYTJtcWFuSjhocnZKcTZPQ2RqVGFvZ0FrODVvQVFPTGNOeWlGZ2JVT2JITno1XzFkMl9zNk5ZWQ?oc=5
+- **相場は混乱状態のまま｢トランプショック｣を迎ええるのか - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5SzY2djBTMTBCblpTbnFGd0UtRjNlU3liLUo2RnRhdFN0TXZrWW93d3lRRnRvVFdSenFucjJ3Rmd6OUNkWlVYSWR0bzMzNUlvZk9nZjdmbw?oc=5
