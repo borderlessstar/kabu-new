@@ -21,7 +21,7 @@
 - **【注目トピックス 日本株】前日に動いた銘柄 part2データセク、サークレイス、日本調理機など - マネーポストWEB** _(マネーポストWEB)_
   https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HQzBITmhVM2I2ZU9WTWozWEtKSjlsM1ZyeFhVblVpeGt4OUUwVjk0eDNYb3BCQnZOTXlTcGIyVkViUDludjY4?oc=5
 
-## 業績 上方修正（9件）
+## 業績 上方修正（10件）
 
 - **〔決算〕ファナック、通期業績予想を上方修正＝売上高1兆円超、中国向け堅調(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPa0hhMjJvc3JMREVXWGsxenRsN0RCbVB3RWpzVUlMN1pWTENMeDgtVmlxR0NVMG92MEo4NXpfWko3UHVtMHZTZHJ5OXNRdURSbGRLOGdZNWozYVp2UjhaWEpmUXlYZUtKRENVXzlDMTB1V3dCekkwTUVTakZKc3E1WFROVnRQN1E?oc=5
@@ -41,13 +41,17 @@
   https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuUGJNS2hOQ3dCLUxVR25kUTRpWTNBQXZyUGt2SUpYQWh2TWRiQm1UWlZXYWFpR2hKejY5RGRsZHY0RVJiNnRDN0tLdDN6ZHZia0NkNmd5MElrek1xU0VXZUpn?oc=5
 - **川崎汽、今期経常を41％上方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWbDR6YmNlOHJfRXFLSGpZNzVHY1dJWXZmVGVrbGtFY3JiOXRmdnpSLUM2QlFEZm5vOEJ5bTI5eEZtTDIzMGxERWIxdmhlYUtZSUE?oc=5
+- **本日の【イチオシ決算】 ＫＯＡ、ファナック、川崎汽 (10月23日)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxPenA1czNUNm1oeG1SME9tRTRub1VGR1F1c1N4N3pBWnZaNmc0TGwtZC1DdHc4WHVKbXY2NUprNTQzTWhtdmc2aW11dEVGa0g5X2tYTlpmWHAwdzZUOXRqVjhYQlk0RWx5bW9xMzJCMGpDUUdPWU43THdkeW5HY2hua05lLUljdW8?oc=5
 
-## 増配 自社株買い（2件）
+## 増配 自社株買い（3件）
 
 - **【米国株】不安定な市場環境下で目を向けたい、予想配当利回りが相対的に高い銘柄例 - マネクリ** _(マネクリ)_
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE82MGFRSFVBb1hiQ0g5dXF5bFRQeFJwTWVmTnZOSTA4bU85MlV6TG1DbTFKRDIxTF9ZOGprTm1TS01jMW5WZVhhcGR0ZVp5VHhQZ0NfRtIBV0FVX3lxTE9NOWdDanFESnpoaWJ1NjA2WWVzWGdjTUhWWm94bl9nMWp2SlNNREliOHQ3Q3QwLXVVUndlRFUwYVlQaUlVUUY3dHNyZmQydUtrZ21DLUpDbw?oc=5
 - **[写真]相場展望 10月22日号 米国株：米国株は落ち着きを取り戻すも、中間選挙11/3で波乱も 日本株：海外投資家による日本株買いも最高水準にあり、警戒したい：中島義之 | 分析・コラム - 財経新聞** _(財経新聞)_
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMDY0YWhZZVpqNE9jdGRBbEhkRnFScUpmMVVqOEtNaWlPUFJaRkRQMWJzZVYwMEdZci1EV0JLbGlWNUdLYlViakNnTHFQTGc5cW42ag?oc=5
+- **テレ朝ＨＤが上伸、旧村上ファンド系の大量保有で思惑(ウエルスアドバイザー) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQMWZpdWdkTjhKblRsdm1tS2N4bDEwSXVybnpSc0tiTUxEWndIODlNN1ZlbW9jZENsWWlhdHlNTDRNOXZvTi1sRTFpeHo5blVXUWd4eU5kbWZ4NmYtTEF3eHB0bmVtZE56UUh2ZFMtOEo4ZWpXdFZLVTRpOUlaYlFyZTZDMGNsSGs?oc=5
 
 ## 新高値 銘柄（6件）
 
