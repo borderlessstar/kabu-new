@@ -73,7 +73,7 @@
 - **フォーティブ、第3四半期コア売上高7.2%増に伴い2026年EPS見通しを上方修正 - TradingKey** _(TradingKey)_
   https://news.google.com/rss/articles/CBMid0FVX3lxTE0tNVpwTjRUdldxNmlsd040LUhZUTJRWnVoX2dfWWhxSTlueGJsTjgwaGYtMkkzVElXMy1neTdocjJaOUFPMlV6V2NINWFTZmY2Y1FZUjJSWURNRVVIZWxmUHJXLVNJVTZFc3VZYVFrejh0STk2NGFj?oc=5
 
-## 新高値 銘柄（7件）
+## 新高値 銘柄（8件）
 
 - **需要喚起策の思惑で注目度急上昇、攻守備える「外食関連」有望株8選 ＜株探トップ特集＞ - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZzRXNWFEMWJfaFhNNGhGSC1jdERlUnZ4c1JKNU9VQ2VrRGZxQXRfeXh5U0tVeEV1bHFIWDBGMklRcDVmbkRKdk5kNm5CUlNPSkNjLWd5M1E5LXhBNTNmbA?oc=5
@@ -89,6 +89,8 @@
   https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVJNZ0FkVlFyUE51VHpPdUN5Tm9yZUF1Q0VfZXlUam81WGdqRzFyX0lybUl3dUpKdUR0WDhhY216NUg3V2xpN2swcGlJckZ1RWlCUDA2UTBaYkxySFhZWmFESDFBT1c3V0hIa1QyS19EbGlVdXNIbDhmSEpONXQxOVJ3?oc=5
 - **カプコンは急反落､27年3月期予想据え置きで失望売り - 四季報オンライン** _(四季報オンライン)_
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RU0xsTkhfb3ZST19OTW03LUZ5dnVFMTU3ZnowNUptbzRTSFZqMUtwbjVOczV6WE15djFUc1E3WUhaMDcxR2twY01CZU9hTjNRdWY0SmUtMA?oc=5
+- **ETF売買動向＝29日大引け、全銘柄の合計売買代金3535億円(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNclNBSkp6UjlWTmVwSDRBVENPMnlOQkZlWTM2UDhDMGQ3RkxQOWhnX0cwb2c2TEdYaUdrOEtNSld3VlpjbElCcFVTQ2VuYVphMXVtajRUOVpfejF2V18ycGI2NXE0eHhveEREVGZoejlJYWVCZUtzbkwyQ0tHOHQ5SGJQanpnZTA?oc=5
 
 ## 半導体 関連株（8件）
 
@@ -126,7 +128,7 @@
 - **NYダウ、3日続伸し97ドル高 AI関連や金融株に買い - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVkktLWtHVmZ1UVlCN2pTTHR6M01idkFLQXd2RTgzVG1oeGg5eHcwNmtsS1BUYUZHR1pHcnFqbTFfdU0wcFYtQWQtTTktcnphNk9yOHdSdEN3U3lzaEtfTWNfaVdRQ3BlN2pnMg?oc=5
 
-## 業績 下方修正（11件）
+## 業績 下方修正（12件）
 
 - **白洋舎、今期経常を一転23％減益に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQTEyVWwzS1B1SWdWY1FBYWdoRUVBamtIbFVGZGNvV2U4d1N0UDNPbS1CVXM4cWUxYWNmdkJxRWp3c0hzLXczVVRONTdrVnA3Wnc?oc=5
@@ -150,6 +152,8 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkppS0dfb01pQndSZWpOcjZJcExTY2otbllJeE5CWVNMWkNmbUVjeHo2dmlKS1F4T00zNU1KNjdZR2ZXd2R4N1NNcmNGcHFES0FHbWR0MzdNelNJbUM0YXRjQkhpNjlqcWdMWE5uakRxWElTOXJsd0RZMTYyakRwQmtNQUlKQ0E?oc=5
 - **愛知鋼、今期最終を一転11％減益に下方修正、配当も8円減額 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdUVubTlQMkxia3dCN0V1RnpPMW1TOWMwT25MRDRkaEZmMXpzTWRIM3hqQ3V1bU9iUUhhNWxDS25wdTBHQUZ6V1BqcTU5NWNaUXc?oc=5
+- **シャルレ、今期最終を一転赤字に下方修正 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUHhiRWU3c2M5a013V193STZJTXZ5M1JUTXNZTW1fZE0wamJVa0lUT1NpLTVORGhZcER6VUxmYUsyMHl3WTZpNkJYdjJIdVFKNEE?oc=5
 
 ## 日本株 下落 要因（5件）
 
@@ -183,7 +187,7 @@
 - **日経平均は172円高でスタート、アドバンテストやキオクシアHDなどが上昇 - ｄメニューニュース** _(ｄメニューニュース)_
   https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkxXdmhuVGxOR080a2FGanE5NGRHRnNjeXBSZUxIRVpnVkVfQmNNeG03WUdBejZROUlPVy1tX2NCRzR2ZF94bko2OG15LXoybmljNldaSS1SdVowel85VjVRYllNS09OOG9vVVBxb2E3cmMxT29lTkkzYjNCWmVrMVFKLXVOcU0taTVDWl91S3dWWURCdTZkZjBhYVY3QjZjUzN0b2I5V19YWUJiV01uQklPTmRzNGx1aE10NHp3ejFOcUlxa1ZBTUFhSEEyakRGbU5jY2x0SWhQV0dq0gGMAUFVX3lxTE9vazRfbjRBLWEwcHlSUzJHTXppaUdzamRaNXRIYng1ekVCMHF0TjJqeUNnbEdSY0xEMnVncmFmem1ORlBOOGRTWVE3V25SM01Dam5SOTdmWTBKM2JXS1FqNkpjaWN4dmNkcFNRMk9WbUpJRndDdWRudDhaa1hic1k4Z3RWVlluRFo4RHJx?oc=5
 
-## 円相場 日本株（8件）
+## 円相場 日本株（9件）
 
 - **欧州マーケットダイジェスト・28日 株高・円安・ユーロ高(トレーダーズ・ウェブ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkR0S3RHbnB6ZzM0eHRBT29KM1A2elQ2SUZfZ2F6enUtMndHVVR5MHhrLWRrMkpwc3l0STdQUWlFbzVHQ2Y1dEdPUXZLd3lpejN5UXc0U3FESkphbzhTRUNrR0JhSDRxaDFqQTNBUHkzMkJUMGlpd2R5RUlMSnE3ODkwQlk5b2s?oc=5
@@ -201,3 +205,5 @@
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE45R0VoS2FWdzNpQV8xdzdBYVBOVmt6N21XWU03OGRPSnZrM2tlMVJhb1JWUXQ1bmt3WHBjX0k0VEJ6SF9TN2hINkVhUFdrck5DbnI1TVpDZ3R2aTBfamVpYg?oc=5
 - **米ドル/円は156〜159円のレンジ相場、ユーロ/円が狙い目！ AI関連株の調整で円高、フランス発の混乱でユーロ安も!? 175円割れなら170円が視野に｜西原宏一の「ヘッジファンドの思惑」 - ザイFX！** _(ザイFX！)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JMDk5YjRtWWFXNzU2cms3ZU1qcGowcG81b2g2T2pfcm1YbGFqMHRWd3czZDdseGxmekJQMHNuWldWYloxZ1Qzb3NCWHJqMGNURnc?oc=5
+- **円相場、157円82～83銭＝29日午後5時現在(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnRndVVpN2xGazJKNGxmV3VONUkydFFBbHItRVdnRUdmaGNJY2htQkVrRUdqY2hLcFVhUVEtR0w1eGhDY3prRllLbWdqY3c3cnRzdkQxOGEtbVF5VXhlR01ERkFrdGFnc2xXbzcxQ1pWYWlmeHFMQWxrbVdOY2J2eEFYbjdGWTg?oc=5
