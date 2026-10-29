@@ -140,6 +140,26 @@ def diff(new, old):
     d = round(new - old, 1)
     return "±0.0" if d == 0 else f"{d:+.1f}"
 
+def probe():
+    """一時的な診断：代わりの取得先が使えるか確かめる"""
+    import urllib.parse
+    dims = urllib.parse.quote('{"weo-country":["JPN"],"weo-subject":["NGDP_RPCH"]}')
+    cands = [
+        f"https://api.db.nomics.world/v22/series/IMF/WEO:latest?dimensions={dims}&observations=1&format=json",
+        "https://api.db.nomics.world/v22/datasets/IMF/WEO:latest?format=json",
+        "https://api.imf.org/external/sdmx/2.1/data/IMF.RES,WEO/JPN.NGDP_RPCH.A?startPeriod=2025",
+        "https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/%2B/JPN.NGDP_RPCH.A?c%5BTIME_PERIOD%5D=ge:2025",
+        "https://www.imf.org/en/Publications/WEO",
+    ]
+    for u in cands:
+        try:
+            req = urllib.request.Request(u, headers=UA)
+            with urllib.request.urlopen(req, timeout=60) as r:
+                body = r.read()[:1500].decode("utf-8", "replace")
+            log(f"OK {u}\n{body}\n----")
+        except Exception as e:
+            log(f"NG {u}: {e}")
+
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
@@ -147,10 +167,11 @@ def main():
     this_year = datetime.datetime.now(JST).year
     years = [this_year - 1, this_year, this_year + 1]
 
+    probe()
     version = fetch_version()
     new = fetch_values(years)
     with open(STATUS_PATH, "w", encoding="utf-8") as f:
-        f.write(f"{today} 取得数 {len(new)} 版 {version}\n" + "\n".join(LOG[:30]) + "\n")
+        f.write(f"{today} 取得数 {len(new)} 版 {version}\n" + "\n".join(LOG[:12]) + "\n")
     if not new:
         print("IMFの数字を1つも取れなかったので、前回のファイルをそのまま残します")
         return
