@@ -2,7 +2,7 @@
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
-## 日本株 注目 銘柄（12件）
+## 日本株 注目 銘柄（13件）
 
 - **個別銘柄戦略:高純度化やカプコンに注目 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Y1FsUHVMbEN6MUFmVExEVDRuZEZWcW52dzA4dmpOWHZieHp5OW5BOGlLdkpmR1JxVFdUcnhfcUd6Y28xNV9fZG15NVp3Rko0ZGh2Yk44a18zSXNaQ2tMYg?oc=5
@@ -28,8 +28,10 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXdRWURxRm1pSmFMRFBTdkhnWU5wM2JMbjZxWnltY3YwNWlEbFMwdmtqVWNIZnI5MGZ2MUZERGExRkkzbkNvT0s2Y3E2RWJwRGRGcU8yVWJPUXZQU1doYXQzQ0lkbXU5eFlqQXRsZHVKQmgzZDM2eXRJb3lNX0hjWF9hUl85dE0?oc=5
 - **本日注目の【自社株買い】銘柄 (28日大引け後 発表分) - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE54TVpaSVZLQzEwMkZyLUUxMjRNQjlQUkQxWHNjTHR5eEprSnpELWdwdFZqcHd5YXhnYXdOMzh0YnJMb0psbFQxVW5UVGlNUEttd01qeUJoRjV4aTZYRHVVVA?oc=5
+- **本日注目の【自社株買い】銘柄 (28日大引け後 発表分)(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWp6WkZtMmdub1dVb19vUDFlcnUyWXg5QXlPYzVhV3ViSTA1SU9YblNGOXpRMWtrS3cyWEFIdGhFbHM2MzE3QTlYWXhBYUo0TlItSmhsakVhc0lBZjRQRkRremRtYlcwTjl6UE80cldlNkhlN1g3YkRNMzJPejRCVTk1UzRCSkE?oc=5
 
-## 業績 上方修正（12件）
+## 業績 上方修正（15件）
 
 - **〔決算〕NEC、27年3月期業績予想を上方修正＝国内ITサービス事業など好調(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxONExCNUlua2xacVZkRFpiME5vOUF2Y1VvRmZ1UVkyYTNxMkZfZTVWN0xsa2hTZFJpMlhzNXVPS3AyblJCQjNYTFNtWUhfUGhjOTVOUmlDR1Jjanc2Mk9VLW5QWHZHQ2c3TWVLVDE0VTRMRGZyWWlkMkd2ZHVaNG9jUktZTjF5V1E?oc=5
@@ -55,6 +57,12 @@
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jUE0xUFprUlRzcExyT0sxS2k4X2RlSmNOd1Npd2l4X0loVTh5aDluS1hNRHR0dVpGc2pYNzdhZ0dwUmFVMHdGazJ3dHJaU1hrZzdOSXVn?oc=5
 - **郵船、今期経常を34％上方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dUxic3J3aDBIM3F2TnBVcm9sYUwtamlVQkZyZUZDcWFmTUNORVo1R0NDTjJwNUZJVVlXeGtscmpMclB1TWJoaTBOQW1QQXh4aXc?oc=5
+- **〔決算〕コマツ、通期業績予想を上方修正＝北米が好調、データセンター建設で(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUR5ZVoxb1VPYXZ5MUNzY2xyMW1jTmVabUZqeUJlUk9nM1FBMmgxc21kVXJPdDJmQjVlOEVYOGdXVHI5YnYxUThxdFVlek5DV2JONWU3WmpmYmVCWHhPdHhaeHloZFAxaGhBbmNpLVZTZGozQTFvNktUbVRYMTViLUlZVU9XbGM?oc=5
+- **2027年3月期業績予想を上方修正、年間配当予想も増配 塩野義製薬 - 医薬通信社** _(医薬通信社)_
+  https://news.google.com/rss/articles/CBMi1AJBVV95cUxQTExRTXFZLTZuODZCMEMtemZPNGg5MGVhelVrOWtmMGNGZ2pRaXlVYmNZaC1tS2p6MVpkd1FqRmhTVVFLU0ttQVZ1R1FBSERhRzFQRDZmZWJyS1JtNEQzY1ZGYjI1ZWRMNzlocnc3Y3Z0LXlfNjZ5amZHUWlwZ29RVFZ6M1FoaHllanV5STdXcUJ3RHdtOTdESlplR1ZMVUV5anhiMHgyeVY1d0toMEZ0RmZqTHVNZ1ZNMXJidmVfVE9mZjBKS2N3YlJReGdXMElxMV8xZDZhbzNMbjFabUZkS0IzWkZSOFo2SE9pS2pjRzhMbEtqbk5CSUpFRjU5aVJiSWFENlp5R2E3emFjUEQ2RG9QaVprODQ4MjNkbTNGdUpuR25lN2ZtaTluZG15dTdhYU40bE5MdXo3aVh0aV9sX0puckliN253S0VWTmstNk9uUmhT?oc=5
+- **山形銀、27年3月期業績予想を上方修正 純利益85億円見込む - ニッキンONLINE** _(ニッキンONLINE)_
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZnFHTGF4MTVlcHNPVzRST0VVaEpfWlRBaVdxZHNiQTZ1Y2I5R1BlekdkcE10dWs4RjZGNDhYdVhjZ2V1aHhQaS1sWG9BY0dwbmVRcFhB?oc=5
 
 ## 増配 自社株買い（7件）
 
@@ -128,7 +136,7 @@
 - **NYダウ、3日続伸し97ドル高 AI関連や金融株に買い - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVkktLWtHVmZ1UVlCN2pTTHR6M01idkFLQXd2RTgzVG1oeGg5eHcwNmtsS1BUYUZHR1pHcnFqbTFfdU0wcFYtQWQtTTktcnphNk9yOHdSdEN3U3lzaEtfTWNfaVdRQ3BlN2pnMg?oc=5
 
-## 業績 下方修正（12件）
+## 業績 下方修正（14件）
 
 - **白洋舎、今期経常を一転23％減益に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQTEyVWwzS1B1SWdWY1FBYWdoRUVBamtIbFVGZGNvV2U4d1N0UDNPbS1CVXM4cWUxYWNmdkJxRWp3c0hzLXczVVRONTdrVnA3Wnc?oc=5
@@ -154,6 +162,10 @@
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vdUVubTlQMkxia3dCN0V1RnpPMW1TOWMwT25MRDRkaEZmMXpzTWRIM3hqQ3V1bU9iUUhhNWxDS25wdTBHQUZ6V1BqcTU5NWNaUXc?oc=5
 - **シャルレ、今期最終を一転赤字に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGUHhiRWU3c2M5a013V193STZJTXZ5M1JUTXNZTW1fZE0wamJVa0lUT1NpLTVORGhZcER6VUxmYUsyMHl3WTZpNkJYdjJIdVFKNEE?oc=5
+- **【決算速報】アイシン、今期最終を10％下方修正(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUQ4U1RGekpfN0ZwZTF3MG1YNUp5RFZFWW9qaWdTR2tDMWxVWnJrN2tJY2dlUW5SZFoxVnNFNlc0UE9UYUwyd3pFNVFXd291Rm9BcGhnMlM0czNESi1zQUJaQ1ZkVjF4dzVReElxemVCTTNYcno0bnUtVlRLZk43UmQ0SHV3YjQ?oc=5
+- **【決算速報】シャルレ、今期最終を一転赤字に下方修正(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0xpNURSQVF0Z1ZwLVZDdzFqN1VHeVF6QUU1MWg4STZnQ19WNGxLVUVKc3BKWU1sZzRHbGJ6cFU2Wm9SX1JWOGhDM2IzeVpoS2hoTDRDVDBVWU5CWk9VOTMtZzliaGtNdEpSVzNTWFN1bzFrYlFuQnA3YUcwWHFlVlNIcHJGYXM?oc=5
 
 ## 日本株 下落 要因（5件）
 
@@ -168,7 +180,7 @@
 - **日本製鉄(株)【5401】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBacjZQcWtoaGdTaTZ3M1BOYldUdU5zWnhHb3pYVWVxcDNTQndrdHRndVYyZ0QzTnIwdEpoWFZIeXlHZDAwenNFWEJrZldFUF96b1VaN3VQc2lGeXZBdEVV?oc=5
 
-## 日銀 金融政策 株式市場（9件）
+## 日銀 金融政策 株式市場（10件）
 
 - **明日の経済スケジュール ─ ★日銀金融政策決定会合に注目(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzJWdWZLOWFpVGJMV2pEWUR6QzFiN0JRUnZOTUs0Z3p4MFZIUDUyRGVnaWNUNDZKWEs5QXFzeXNvcmY1T01FYVNrZzBsY254eEljNG1tVm1Ua1VwY0dEaXFrb1Nua2dtemNsVlNjN1ZqVkhJaVdfZ3FkOXNlNnFFX2NOYWFuMEU?oc=5
@@ -188,6 +200,8 @@
   https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkxXdmhuVGxOR080a2FGanE5NGRHRnNjeXBSZUxIRVpnVkVfQmNNeG03WUdBejZROUlPVy1tX2NCRzR2ZF94bko2OG15LXoybmljNldaSS1SdVowel85VjVRYllNS09OOG9vVVBxb2E3cmMxT29lTkkzYjNCWmVrMVFKLXVOcU0taTVDWl91S3dWWURCdTZkZjBhYVY3QjZjUzN0b2I5V19YWUJiV01uQklPTmRzNGx1aE10NHp3ejFOcUlxa1ZBTUFhSEEyakRGbU5jY2x0SWhQV0dq0gGMAUFVX3lxTE9vazRfbjRBLWEwcHlSUzJHTXppaUdzamRaNXRIYng1ekVCMHF0TjJqeUNnbEdSY0xEMnVncmFmem1ORlBOOGRTWVE3V25SM01Dam5SOTdmWTBKM2JXS1FqNkpjaWN4dmNkcFNRMk9WbUpJRndDdWRudDhaa1hic1k4Z3RWVlluRFo4RHJx?oc=5
 - **日経平均は336円高、寄り後は堅調 - ｄメニューニュース** _(ｄメニューニュース)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkRlVEJBeVd1cml6N1VwcXBMYjZteWlPMDBUSXB3dXpaRnZmczN5T1NCSWN0aXlfVnFmYmxqckRNaUY4NnBacG9RWE04QlBUeUoxNEd2TzNQMmVmMUJCR000NHhYSFdGOGtRT2E5WXBLTnJQMk5iV0s1RE9KQXFpMmlZVkUzMnPSAYwBQVVfeXFMTzNobVVZczdTWklfN2Z2TEFMcW9wN3AwOVhsUkdITGhEZzVmWUEzNXpGLUNDckhpdjFlVEFUSkRBdThPNGRNWEJ5MTNJU3JmOG5ad3dnTy16RUlVSEk3OGlMVkh0cWQzODJZZzN2VkFkbms0WF9WaXdfVUhyYTNQNHIzdjV4LWVoMldSb3Y?oc=5
+- **（まとめ）アドテスト中心に半導体株が堅調で日経平均は705円高の64,659円で3日続伸　明日は日銀金融政策決定会合 - マネクリ** _(マネクリ)_
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MU3lXaGRVbHQzeUM2X2t5M09lc092VXV5ZklRZlBoX1lEWTJybnZOSmJselp0MG90Z3I3bzlGbDVBNmZ4U3NuaERuaVJUdTV4T2FOY9IBV0FVX3lxTE1iZ2xLcW52S1RhbzRBQVByaTVWS3h5SG1LbE12WEZFUnl4OFpTa0w0eUFPYU9mdzUwZ19Ra3VGQndUOWN5OElDZFAwTFBRUlo4ZEtlSjVsSQ?oc=5
 
 ## 円相場 日本株（9件）
 
