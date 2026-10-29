@@ -39,7 +39,8 @@ jobs:
         continue-on-error: true   # 失敗してもニュースの保存は続ける
         run: python market.py
 
-      - name: IMFの経済見通しを取得
+      - name: IMFの経済見通しを取得（週1回：土曜朝の実行と手動実行のときだけ）
+        if: github.event_name != 'schedule' || github.event.schedule == '17 21 * * 5'
         continue-on-error: true   # 失敗してもほかの保存は続ける
         run: python imf.py
 
