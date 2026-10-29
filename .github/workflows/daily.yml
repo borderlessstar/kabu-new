@@ -11,7 +11,7 @@ on:
   workflow_dispatch: {}   # 「Run workflow」ボタンで手動実行もできる
   push:                   # スクリプト・実行時刻・候補リストを書き換えたら、その場で1回実行する
     branches: [main]
-    paths: ["fetch_stocks.py", "market.py", "data/candidates.csv", ".github/workflows/daily.yml"]
+    paths: ["fetch_stocks.py", "market.py", "imf.py", "data/candidates.csv", ".github/workflows/daily.yml"]
 
 permissions:
   contents: write
@@ -38,6 +38,10 @@ jobs:
       - name: 市場データと候補の成績を取得
         continue-on-error: true   # 失敗してもニュースの保存は続ける
         run: python market.py
+
+      - name: IMFの経済見通しを取得
+        continue-on-error: true   # 失敗してもほかの保存は続ける
+        run: python imf.py
 
       - name: 結果を保存（コミット）
         run: |
