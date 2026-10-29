@@ -64,7 +64,7 @@
 - **山形銀、27年3月期業績予想を上方修正 純利益85億円見込む - ニッキンONLINE** _(ニッキンONLINE)_
   https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZnFHTGF4MTVlcHNPVzRST0VVaEpfWlRBaVdxZHNiQTZ1Y2I5R1BlekdkcE10dWs4RjZGNDhYdVhjZ2V1aHhQaS1sWG9BY0dwbmVRcFhB?oc=5
 
-## 増配 自社株買い（7件）
+## 増配 自社株買い（8件）
 
 - **ユアテックは後場上昇、通期業績・配当予想引き上げ上限１７０万株の自社株買いも発表◇ - みんかぶ** _(みんかぶ)_
   https://news.google.com/rss/articles/CBMiRkFVX3lxTFBua0JTQW1uTnljbWJTZFVLVDZXYy1la01hNUVDVHZVZjAtR2paY1FqT05GU21rcXV4S3Vfd1ZIdEEyWnEzTGc?oc=5
@@ -80,6 +80,8 @@
   https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kM0Jrd1ZEcy00U3o4MGRlbDhSLVQ2X19ad0tVWllXc2dNblZ0RUNPd0FlMGdvMlpsZVA2ZER5azBxVHlHamc?oc=5
 - **フォーティブ、第3四半期コア売上高7.2%増に伴い2026年EPS見通しを上方修正 - TradingKey** _(TradingKey)_
   https://news.google.com/rss/articles/CBMid0FVX3lxTE0tNVpwTjRUdldxNmlsd040LUhZUTJRWnVoX2dfWWhxSTlueGJsTjgwaGYtMkkzVElXMy1neTdocjJaOUFPMlV6V2NINWFTZmY2Y1FZUjJSWURNRVVIZWxmUHJXLVNJVTZFc3VZYVFrejh0STk2NGFj?oc=5
+- **塩野義製薬、業績・配当予想を上方修正 ＨＩＶ事業など好調 - Infoseek** _(Infoseek)_
+  https://news.google.com/rss/articles/CBMibkFVX3lxTFBLWEFHZm1oSkR1RUFTZndyY1ZnOWpxYmNkc3NFeUdRcU5tdVNHYlNQdFFzYXhfNXlrZkgzQ1JyRWQ5M0R6MnFUcHhDZEhpdkFGQ2NqWkRMNGRNNW82a08xbEpuamxSNFZMY21xN2hn?oc=5
 
 ## 新高値 銘柄（8件）
 
@@ -136,7 +138,7 @@
 - **NYダウ、3日続伸し97ドル高 AI関連や金融株に買い - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVkktLWtHVmZ1UVlCN2pTTHR6M01idkFLQXd2RTgzVG1oeGg5eHcwNmtsS1BUYUZHR1pHcnFqbTFfdU0wcFYtQWQtTTktcnphNk9yOHdSdEN3U3lzaEtfTWNfaVdRQ3BlN2pnMg?oc=5
 
-## 業績 下方修正（14件）
+## 業績 下方修正（15件）
 
 - **白洋舎、今期経常を一転23％減益に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oQTEyVWwzS1B1SWdWY1FBYWdoRUVBamtIbFVGZGNvV2U4d1N0UDNPbS1CVXM4cWUxYWNmdkJxRWp3c0hzLXczVVRONTdrVnA3Wnc?oc=5
@@ -166,6 +168,8 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUQ4U1RGekpfN0ZwZTF3MG1YNUp5RFZFWW9qaWdTR2tDMWxVWnJrN2tJY2dlUW5SZFoxVnNFNlc0UE9UYUwyd3pFNVFXd291Rm9BcGhnMlM0czNESi1zQUJaQ1ZkVjF4dzVReElxemVCTTNYcno0bnUtVlRLZk43UmQ0SHV3YjQ?oc=5
 - **【決算速報】シャルレ、今期最終を一転赤字に下方修正(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0xpNURSQVF0Z1ZwLVZDdzFqN1VHeVF6QUU1MWg4STZnQ19WNGxLVUVKc3BKWU1sZzRHbGJ6cFU2Wm9SX1JWOGhDM2IzeVpoS2hoTDRDVDBVWU5CWk9VOTMtZzliaGtNdEpSVzNTWFN1bzFrYlFuQnA3YUcwWHFlVlNIcHJGYXM?oc=5
+- **〔決算〕アイシン、通期純利益予想を下方修正（時事通信） - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9yaE9sM29iSlpUUU15VU1XM3F3ZGtoSUZBR3JTQWlPSWJjbkZ5SFpvS2lmODBIbm5UOVlBbGFFTlpPWWpSN05sSWdKaFhBLUNFYlljUklZRmlNSVdMck8xR2dtWmpFckZpNUh4RXpCQy1Ca08yQ2E1SThtRndHcjg?oc=5
 
 ## 日本株 下落 要因（5件）
 
