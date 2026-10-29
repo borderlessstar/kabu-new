@@ -168,7 +168,7 @@
 - **日本製鉄(株)【5401】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMiX0FVX3lxTFBacjZQcWtoaGdTaTZ3M1BOYldUdU5zWnhHb3pYVWVxcDNTQndrdHRndVYyZ0QzTnIwdEpoWFZIeXlHZDAwenNFWEJrZldFUF96b1VaN3VQc2lGeXZBdEVV?oc=5
 
-## 日銀 金融政策 株式市場（8件）
+## 日銀 金融政策 株式市場（9件）
 
 - **明日の経済スケジュール ─ ★日銀金融政策決定会合に注目(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzJWdWZLOWFpVGJMV2pEWUR6QzFiN0JRUnZOTUs0Z3p4MFZIUDUyRGVnaWNUNDZKWEs5QXFzeXNvcmY1T01FYVNrZzBsY254eEljNG1tVm1Ua1VwY0dEaXFrb1Nua2dtemNsVlNjN1ZqVkhJaVdfZ3FkOXNlNnFFX2NOYWFuMEU?oc=5
@@ -186,6 +186,8 @@
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wZHVaVTA3U0NPd196aXFnU3YwT0pETFZQcDdhTlhUNkUxTXE4UEthUmZrcWZYekdubUpOUzQ5Zk82dXdsamk5NlVKS2t5UlpRbml0dA?oc=5
 - **日経平均は172円高でスタート、アドバンテストやキオクシアHDなどが上昇 - ｄメニューニュース** _(ｄメニューニュース)_
   https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkxXdmhuVGxOR080a2FGanE5NGRHRnNjeXBSZUxIRVpnVkVfQmNNeG03WUdBejZROUlPVy1tX2NCRzR2ZF94bko2OG15LXoybmljNldaSS1SdVowel85VjVRYllNS09OOG9vVVBxb2E3cmMxT29lTkkzYjNCWmVrMVFKLXVOcU0taTVDWl91S3dWWURCdTZkZjBhYVY3QjZjUzN0b2I5V19YWUJiV01uQklPTmRzNGx1aE10NHp3ejFOcUlxa1ZBTUFhSEEyakRGbU5jY2x0SWhQV0dq0gGMAUFVX3lxTE9vazRfbjRBLWEwcHlSUzJHTXppaUdzamRaNXRIYng1ekVCMHF0TjJqeUNnbEdSY0xEMnVncmFmem1ORlBOOGRTWVE3V25SM01Dam5SOTdmWTBKM2JXS1FqNkpjaWN4dmNkcFNRMk9WbUpJRndDdWRudDhaa1hic1k4Z3RWVlluRFo4RHJx?oc=5
+- **日経平均は336円高、寄り後は堅調 - ｄメニューニュース** _(ｄメニューニュース)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkRlVEJBeVd1cml6N1VwcXBMYjZteWlPMDBUSXB3dXpaRnZmczN5T1NCSWN0aXlfVnFmYmxqckRNaUY4NnBacG9RWE04QlBUeUoxNEd2TzNQMmVmMUJCR000NHhYSFdGOGtRT2E5WXBLTnJQMk5iV0s1RE9KQXFpMmlZVkUzMnPSAYwBQVVfeXFMTzNobVVZczdTWklfN2Z2TEFMcW9wN3AwOVhsUkdITGhEZzVmWUEzNXpGLUNDckhpdjFlVEFUSkRBdThPNGRNWEJ5MTNJU3JmOG5ad3dnTy16RUlVSEk3OGlMVkh0cWQzODJZZzN2VkFkbms0WF9WaXdfVUhyYTNQNHIzdjV4LWVoMldSb3Y?oc=5
 
 ## 円相場 日本株（9件）
 
