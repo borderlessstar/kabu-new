@@ -56,7 +56,7 @@
 - **郵船、今期経常を34％上方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dUxic3J3aDBIM3F2TnBVcm9sYUwtamlVQkZyZUZDcWFmTUNORVo1R0NDTjJwNUZJVVlXeGtscmpMclB1TWJoaTBOQW1QQXh4aXc?oc=5
 
-## 増配 自社株買い（5件）
+## 増配 自社株買い（7件）
 
 - **ユアテックは後場上昇、通期業績・配当予想引き上げ上限１７０万株の自社株買いも発表◇ - みんかぶ** _(みんかぶ)_
   https://news.google.com/rss/articles/CBMiRkFVX3lxTFBua0JTQW1uTnljbWJTZFVLVDZXYy1la01hNUVDVHZVZjAtR2paY1FqT05GU21rcXV4S3Vfd1ZIdEEyWnEzTGc?oc=5
@@ -68,8 +68,12 @@
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yS1QwRUdaQ2xKOUUtTHR4cVZ1NTFtMUhDeDVsYjhTR0ZZbnA3b0FfQS1mOGQ5RWQ1MEs1a1JuZko5S25td1I4WGlJNENlR0dTOVRoRg?oc=5
 - **エバーコア 2026年第3四半期：直近12カ月売上高が48億8000万ドルに到達 - TradingKey** _(TradingKey)_
   https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZWlqTDFZS0lLN3FIZ20waXhoZFk3TVlTazJXR0I1LS1IM2ZhOXRrMG5hSUJWTkJWMmF1SUFUa0ktNTRhY05EdXFYUU9jRUNZRktZb0JDYkx0MTI2WHZfQzJXeHpMZTVrYjRmTkV4Zjh1RkVqaDZB?oc=5
+- **剰余金の配当（中間配当）に関するお知らせ 投稿日時： 2026/10/29 16:00[適時開示] - みんかぶ** _(みんかぶ)_
+  https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kM0Jrd1ZEcy00U3o4MGRlbDhSLVQ2X19ad0tVWllXc2dNblZ0RUNPd0FlMGdvMlpsZVA2ZER5azBxVHlHamc?oc=5
+- **フォーティブ、第3四半期コア売上高7.2%増に伴い2026年EPS見通しを上方修正 - TradingKey** _(TradingKey)_
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE0tNVpwTjRUdldxNmlsd040LUhZUTJRWnVoX2dfWWhxSTlueGJsTjgwaGYtMkkzVElXMy1neTdocjJaOUFPMlV6V2NINWFTZmY2Y1FZUjJSWURNRVVIZWxmUHJXLVNJVTZFc3VZYVFrejh0STk2NGFj?oc=5
 
-## 新高値 銘柄（6件）
+## 新高値 銘柄（7件）
 
 - **需要喚起策の思惑で注目度急上昇、攻守備える「外食関連」有望株8選 ＜株探トップ特集＞ - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZzRXNWFEMWJfaFhNNGhGSC1jdERlUnZ4c1JKNU9VQ2VrRGZxQXRfeXh5U0tVeEV1bHFIWDBGMklRcDVmbkRKdk5kNm5CUlNPSkNjLWd5M1E5LXhBNTNmbA?oc=5
@@ -83,6 +87,8 @@
   https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1c1dpZnUwU00zRlpqQld4Y2F5U0pSWTEtalk4dU1nSTBqR2tIVXM3azM2QlFvZzR5b2NSeUNHVUloeHBqMFB3blg1TVBfSmUtRldyS1BDMmMtc0hmdkl5RWlJWlM?oc=5
 - **日経平均新高値をサクッと解説/IHI好決算＆急騰/NTTの失望売りはなぜ？/住商は大盤振る舞い!?/JTも速報でお伝え【サクッとマーケット解説|松井証券】 Gauff (FDhLJNcYMF) - Unisba Media** _(Unisba Media)_
   https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVJNZ0FkVlFyUE51VHpPdUN5Tm9yZUF1Q0VfZXlUam81WGdqRzFyX0lybUl3dUpKdUR0WDhhY216NUg3V2xpN2swcGlJckZ1RWlCUDA2UTBaYkxySFhZWmFESDFBT1c3V0hIa1QyS19EbGlVdXNIbDhmSEpONXQxOVJ3?oc=5
+- **カプコンは急反落､27年3月期予想据え置きで失望売り - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RU0xsTkhfb3ZST19OTW03LUZ5dnVFMTU3ZnowNUptbzRTSFZqMUtwbjVOczV6WE15djFUc1E3WUhaMDcxR2twY01CZU9hTjNRdWY0SmUtMA?oc=5
 
 ## 半導体 関連株（8件）
 

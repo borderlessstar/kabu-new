@@ -1,0 +1,31 @@
+2026-10-29 取得数 0 版 
+版の取得に失敗: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/WEOWORLD/ADVEC/OEMDC/JPN/USA/EURO/CHN/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/WEOWORLD?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/ADVEC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/OEMDC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/JPN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/USA?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/EURO?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/CHN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 実質GDP成長率 https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/WEOWORLD/ADVEC/OEMDC/JPN/USA/EURO/CHN/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/WEOWORLD?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/ADVEC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/OEMDC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/JPN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/USA?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/EURO?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/CHN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 物価上昇率（消費者物価） https://www.imf.org/external/datamapper/api/v1/PCPIPCH/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/WEOWORLD/ADVEC/OEMDC/JPN/USA/EURO/CHN/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/WEOWORLD?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/ADVEC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/OEMDC?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/JPN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/USA?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/EURO?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/CHN?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 失業率 https://www.imf.org/external/datamapper/api/v1/LUR/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 経常収支（GDP比） https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/WEOWORLD/ADVEC/OEMDC/JPN/USA/EURO/CHN/IND?periods=2025,2026,2027: HTTP Error 403: Forbidden
+取得失敗 経常収支（GDP比） https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/WEOWORLD?periods=2025,2026,2027: HTTP Error 403: Forbidden
