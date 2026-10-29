@@ -185,7 +185,7 @@ def main():
         f"# 🌐 IMFの経済見通し（{today} 取得）",
         "",
         "> IMF（国際通貨基金）が年4回（4月・10月に本改定、1月・7月に部分改定）出す世界経済見通しの数字。自動取得した数字のみで、解釈はしていません。",
-        f"> 版：{version or snap_ver or '不明'}　｜　この数字を最初に取得した日：{detected}（数字が変わったら新しい版として扱う）",
+        f"> 版：{version or snap_ver or 'IMF世界経済見通し（WEO）の最新版'}　｜　この数字を最初に取得した日：{detected}（数字が変わったら新しい版として扱う）",
         f"> 比較している前の版：{prev_ver or '（まだ記録なし。次の改定から比較できます）'}",
         "> 出典：IMF World Economic Outlook データベース（api.imf.org） https://data.imf.org/",
         "",
