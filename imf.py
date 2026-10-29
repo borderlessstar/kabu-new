@@ -51,7 +51,19 @@ MD_PATH = os.path.join(DATA_DIR, "imf.md")
 SNAP_PATH = os.path.join(DATA_DIR, "imf_snapshot.csv")
 PREV_PATH = os.path.join(DATA_DIR, "imf_prev.csv")
 FIELDS = ["indicator", "area", "year", "value", "version", "fetched"]
-UA = {"User-Agent": "Mozilla/5.0 (kabu-new imf collector)"}
+UA = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+STATUS_PATH = os.path.join(DATA_DIR, "imf_status.txt")
+LOG = []
+
+
+def log(msg):
+    print(msg)
+    LOG.append(msg)
 
 
 def get_json(url):
@@ -66,7 +78,7 @@ def fetch_version():
         meta = get_json(f"{BASE}/indicators").get("indicators", {})
         return (meta.get(INDICATORS[0][0], {}) or {}).get("source", "") or ""
     except Exception as e:
-        print(f"版の取得に失敗: {e}")
+        log(f"版の取得に失敗: {e}")
         return ""
 
 
@@ -76,16 +88,25 @@ def fetch_values(years):
     areas = "/".join(code for code, _ in AREAS)
     periods = ",".join(str(y) for y in years)
     for code, label, _ in INDICATORS:
-        try:
-            data = get_json(f"{BASE}/{code}/{areas}?periods={periods}")
-        except Exception as e:
-            print(f"取得失敗 {label}: {e}")
-            continue
-        for area, series in (data.get("values", {}).get(code, {}) or {}).items():
-            for year, value in (series or {}).items():
-                if value is None:
+        urls = [f"{BASE}/{code}/{areas}?periods={periods}"]
+        got = False
+        for attempt in range(2):
+            for url in urls:
+                try:
+                    data = get_json(url)
+                except Exception as e:
+                    log(f"取得失敗 {label} {url}: {e}")
                     continue
-                out[(code, area, int(year))] = round(float(value), 2)
+                for area, series in (data.get("values", {}).get(code, {}) or {}).items():
+                    for year, value in (series or {}).items():
+                        if value is None:
+                            continue
+                        out[(code, area, int(year))] = round(float(value), 2)
+                        got = True
+            if got:
+                break
+            # まとめて取れなかったら、国・地域を1つずつ取り直す
+            urls = [f"{BASE}/{code}/{a}?periods={periods}" for a, _ in AREAS]
     return out
 
 
@@ -128,6 +149,8 @@ def main():
 
     version = fetch_version()
     new = fetch_values(years)
+    with open(STATUS_PATH, "w", encoding="utf-8") as f:
+        f.write(f"{today} 取得数 {len(new)} 版 {version}\n" + "\n".join(LOG[:30]) + "\n")
     if not new:
         print("IMFの数字を1つも取れなかったので、前回のファイルをそのまま残します")
         return
