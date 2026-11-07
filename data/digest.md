@@ -2,7 +2,7 @@
 
 > ⚠️ これは情報整理であり投資助言ではありません。最終判断はご自身で。
 
-## 日本株 注目 銘柄（5件）
+## 日本株 注目 銘柄（7件）
 
 - **来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5
@@ -14,8 +14,12 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzR1OHBOd2tGZ2tjNXBQSUFXN0V5Qk5SRGVFQ3oxOFl4d0d1R2lMemp2emxwMlg5RUNqeTZaOWxWbmRGUXVYRUQyck40Mjc2VE0tX1UzVVcxNW1LdkxSWUM2VWJHbXBtYnZXLW1IZG5aTC1JTmtrUXVEVndmakdtTVpxcXBzTjg?oc=5
 - **本日注目すべき【好決算】銘柄 日本製鉄、ソニーＧ、太陽誘電 (5日引け後 発表分) - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE94NUVOZFcwaTBsUnpENmxGbUNTQnhmemN5QWRiM3V1NThFWFJveXpvbkMyVFpHc1VXWjVhaDlNdDFDQ2FCNmFMZG1HSk5oZUxqN2hIV2ZTYWRfVlJaV2Z3Ug?oc=5
+- **パナソニックHD、GSユアサ…蓄電池セクター注目の7銘柄：AI普及が招く電力不足を支える（茂木春輝） - トウシル** _(トウシル)_
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYXhadTR4Q21KZGsxTnJHY09aOWg3U1MtcUZzWUY5OEVPTTNFRFZMd3hsTGo5NVMyVlJUMkYxQTNKUmxBNUJJSktDZjhVQjNBR1Vkd242WXA0QQ?oc=5
+- **【注目トピックス 日本株】前日に動いた銘柄 part2出光興産、ソフトバンクG、帝人など - マネーポストWEB** _(マネーポストWEB)_
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RRXpHSmpqTHRoSGRMb09sQ3NpdUNQVXNUbFFfOXZaMnlDWFlWTWUtZ3lUTDVCZUh2R2dxV1VsVXVyVHZzQzZF?oc=5
 
-## 業績 上方修正（6件）
+## 業績 上方修正（8件）
 
 - **ミマキエンジ、今期経常を一転10％増益に上方修正・最高益、配当も9円増額 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kemw4dEIyMlpHd0o1bDhFendYZ3c1bXdobXlydnU4MU9rb3NmVmhSWnBUZkRNV2ZPUzFqTWR0by1aWUJUVElHVTZGWW9wbHg2LXc?oc=5
@@ -29,6 +33,10 @@
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nVk9sNkNhRi1yTlV5T3pERVltbjZpZ3JxQlY4NWVreHZHV3JvOElIVWlPNXFGOE5KLXBSLWgwT29sNHdZY2lJV2t1NUVZd3JvV2c?oc=5
 - **日鉄鉱、今期経常を29％上方修正、配当も13円増額 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRmh2NEhndUpkMFExRDE1Z1Fad2RYZk5jT1dKMWxSR1lCbmNiN2lNQndqTUxUd2dLQnBsU2VxN3BPdGtIRy16NkprVl9COVVvOXc?oc=5
+- **ミネベアミツミ、通期営業益80億円上方修正 DC向け、業績けん引 - 日刊工業新聞** _(日刊工業新聞)_
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QclJnZEY3U01DMHZOTl9mUVUxRHoxZHZNdmZiV3RJWU4yVnJOM1VmNGVfN3JMWXROVVpCb1ZSLXF5MHAxeTNTZ0NZTnlvYXZITGNuUkFLdWU?oc=5
+- **決算:ミマキエンジ、純利益67億円に上方修正 27年3月期 - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBncWpSdXRCN0p2djFub0w5SS03aXNUSkZFY0s5OHBFVWZpSlpnV3Vkb1ZGQlhGa2FpRklucUhaOHdXb1M3QnJNaDZnU0lnUk1Sc1M2QmcwNFhvdURwRnE5eEwxb0Fwa3VBVDQ3Vw?oc=5
 
 ## 増配 自社株買い（2件）
 
@@ -46,7 +54,7 @@
 - **自動車メーカーで際立つホンダの株高､中間決算に3つの注目点 - 四季報オンライン** _(四季報オンライン)_
   https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUWkt0TURfNXZHbWFqWXhxdnY0WFpnWE45V3EybTE2c2YzcS1KZU9za0xYZlZqQXFfbnNha0VsZ20yb2ZQdlhHSEE1QzRtWHhzaWNNcTZPTQ?oc=5
 
-## 半導体 関連株（4件）
+## 半導体 関連株（5件）
 
 - **半導体関連株が軒並み急落､米半導体株の大幅安が波及 - 四季報オンライン** _(四季報オンライン)_
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HbFZhV3RWcEtaY1JMUUx2REZkMWtYSGVlV0l3aXlJWjhlaVg1NHJEYTJHY1RPLU4tQUZZV3A4TkhUY3YxVHBSRDFZdU1qSXAxdGJlZXhTcw?oc=5
@@ -56,8 +64,10 @@
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zUjNxWkxSbS11T1RNa1AtZUNCSHdwS2xKdHZ5ckM5aXFDUHRWMkwxSm5QRnFRVkQ4NEtrUmtsTGNqeXNXUXVPMVFKYW1naUItakE?oc=5
 - **来週の日経平均見通し（11/9～11/13）｜一時4,000円超の暴落で6万円割れ！AI関連株の下落は止まらないのか？米CPIに注目 2026年11月6日 - 外為どっとコム** _(外為どっとコム)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE93SG93a29QSEtFNXBnYXFWaVNnV3pjQkY4Zm4xSk9PelN5OFM1RWxiQmhmZllBR1U2VGxLSGpDb0FLNXpPdlI2TjhQZ0dXNHhoOVpFNmZuZFlINWlZN3BMaG5DSQ?oc=5
+- **【マクロ経済・投資環境2026年11月】半導体株急落後の展開をどうみるか？ - マネクリ** _(マネクリ)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iOFZxdnpwSmxBZUxTSnR4WU1odDVra3hLdG5lQ2NQeTNQTXdCclFPTlc2Z3R0cm9tSnlHZ0xJRW1UUnA4d0lPT1FLcEpWSkdaQzkxcnd4RdIBV0FVX3lxTE1iOFZxdnpwSmxBZUxTSnR4WU1odDVra3hLdG5lQ2NQeTNQTXdCclFPTlc2Z3R0cm9tSnlHZ0xJRW1UUnA4d0lPT1FLcEpWSkdaQzkxcnd4RQ?oc=5
 
-## AI 関連 日本株（3件）
+## AI 関連 日本株（4件）
 
 - **AI関連株が急落、半導体株指数は1日で12%安｜データセンター規制とAI株・日経平均の行方を図解 - OANDA証券** _(OANDA証券)_
   https://news.google.com/rss/articles/CBMif0FVX3lxTE5rT1JDNzRjM3l3YlJSTnc4aE1WUDlWeWpJaUNFM2ZyQTN2VGZCdk91Vk1wT3lGbzhXWGNyWU9IdDd5UTgxVFUzTmZURjYxU1hMTWNwbjJmdUNCcnN1Skw5MW9TOU13RzlLM0p4b2dHaHpDUjRHQmFtYUlyR013SXc?oc=5
@@ -65,8 +75,10 @@
   https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1NwZ2NWUjd4UmR1R2JZRHRkYkpuVWw3amN6ZUtFbmRDNVZ2QWo4M2JOZERaTXFEam5Rdl9ROHBVX1VIX2o5SDF6ZENKcUowbFdRY2VLalBvNTY0MWxrbGU5UkJHWmRYN1hDX3RETGFYOFJrMlhRS3VlM0JZMEdxT1EyOEloUQ?oc=5
 - **米AI規制警戒でAI関連に売り波及【今日の市場はどう動いた？】 - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pWnUya0RTbG5DUlF4Nmc2YU9YaU9aV3FFdmp6b3BjUG9DX0ZvbE5ZNDFpVlhWSWhRcnhOeHE0bFAtb2tNbThmM0szVExaTlg3M2ZsR2s4UzFLY0xoTHFYTFd3NVM?oc=5
+- **AI関連株などが総崩れとなり、一時57000円台割れ【クロージング】(フィスコ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmh2U2NkZ3lUbW5WSTZnbWdTWEgtSXZucFllM3laa09rNmtjSTdhWU5mME5ZVlBrcHI1Vm10emZXNDNKVE1YR3ZxUERESW56ZU5mTHpvdlh2R09ncU82YjV0c2JUYU5sTTV0aXVLc0FTTTBIVUtGMlBlYkFNeXBGM1ZwSi1KNE0?oc=5
 
-## 業績 下方修正（6件）
+## 業績 下方修正（8件）
 
 - **やまや、今期経常を一転24％減益に下方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtMXd3d1hLNEJ5SldqNXBhWFFqNTVsS05JTG1uNjJoeno0VzNySjRvWkFPLXp2a2NPWW1pWU9kbUVISGMwRWZBSDRzcmdPcnBRa1E?oc=5
@@ -80,8 +92,12 @@
   https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSUJLR3lCbFNVeXdRbGx2SjFyTW1pdUJlVGVJbFZTb1lLUFMtdHdINTZpWGtCM0dsV09fa0QzbUFMZFdZQ1BjdHJ5R2JXM1E0WFE?oc=5
 - **〔決算〕JFEHD、今期利益予想を下方修正＝千葉豪雨や台風響く(時事通信) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWN5LW1mNXk5Vkx0TFVSY1lCNVJ0ZWJ4TVl1d3R1SW5XbG4tclhfbDhVbDRvRF80b0xKQWowOGJwTkRhZXVOMm01WUxnQkdBTmZvRlFSeGxZdHN6Mmw0a2NOSVhZaERJX1YtX3NwemRpR3l2ZmQ5YUZyOXhNaU1Qc3drTmxFZzQ?oc=5
+- **三菱自動車 今年度の業績見通しを下方修正 - NHKニュース** _(NHKニュース)_
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YbGlkLUFsMmhiN3BCejR3N09Rdk5US1FmYlFIR3ZzMU1UdUxBejBfNDQyYWN2RDUzU0trTl9hRTFjQWE5RU1MMWZjQVRfdnVlWGs3Z2syVnROV1VtRW4w?oc=5
+- **三菱自、今期経常を一転39％減益に下方修正 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3RFhnSzJBSkFaMEY5TDRVTlFYZUdxalhoaEZKVmJYSk5nNzdINUo5bGN2YnQtcTJibVRKVVFIeS0wQlNVZVU2ZFFWWWhJZWZEb0E?oc=5
 
-## 日本株 下落 要因（5件）
+## 日本株 下落 要因（6件）
 
 - **AIショック→日経平均株価は一時4,332円下落も…積立投資家が「市場からの撤退」だけは避けたい理由 - トウシル** _(トウシル)_
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WZTA0czNVS3lQVEkxOWhnZE1oOEo3UXQyXzBySmJvZUdtQXQ4LUpZWjd4MnlieEhjTWRUTy15N25yWThJckE4WFJuOFdfaEhfWlFEcVRZaERFZw?oc=5
@@ -93,8 +109,10 @@
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nTmhVd0VRTUgyNllwcFhBYmVucUY1M25fZGFlLUZVel9LSERHSEhZUlZGZ1diQ1J1dC1fbFZWNkFIS0txUW9yWG9WUDRic1RBdG5RS9IBV0FVX3lxTE9iUnQwZk5GY0pjX1E0WnQ3ajFqc3d5Zjl1ZklpT05UZWRqby1yQkdZamZsNUtRelJBU2oyLUp0MUZSZjVpZ0lLSndidHBDTlBKMVdsRlhVUQ?oc=5
 - **「血の海…」「ぎゃあああ」日経平均が一時4000円超の急落、5万7000円割れ 株が大崩れしたワケ（集英社オンライン） - Yahoo!ニュース** _(Yahoo!ニュース)_
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRUFKLTZGM1poZmNxbzYtaUVyMVhIYWE4RDJOLW5KYUJGX2g5S19PT2kxa1JDZWJKaG1zWi1WUDlsaEtubmwyMUF2bS1EdWFqQktOVmJYeHd6bENpS0h3c2ExbkpsQjdpUWdsNE1OWFRPSHpkSEZBUXRIX2hJVDQ?oc=5
+- **日経平均株価一時4,000円超下落 目先の下値メドと今後の展開は 野村證券ストラテジストが解説 - 野村證券** _(野村證券)_
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HY19Lamk3N1Q4Um9XWjJZUGxLQXNjV2pVU2VzLWdCRGxnWkNhVkVkOTBTbE1SYWlvMTROMUdpTFpIUkZ4TERHR3llUjM4VTZGaGJGdEtxTVdzVGxNek9r?oc=5
 
-## 日銀 金融政策 株式市場（4件）
+## 日銀 金融政策 株式市場（6件）
 
 - **焦点：預金から国債へ、「金利ある世界」で個人の動き活発 警戒する銀行 - Reuters** _(Reuters)_
   https://news.google.com/rss/articles/CBMikAFBVV95cUxON1VHa295dW9zZEJpTEVabnJMQ0dfZmRsel80Vjc1SkNKSi1OZHJpRzMzSndyU3hjcnBfNVlqTUxkWVVua0lrVTFOUmVOaFlIZmlia1JYendkaVU3X2ppTDBYZGtNOGtlLUgzOGczelAxRFJKY1dMbXo5Zjl0WWN4VlhQLUZjNy1BQkIxcFpzYTk?oc=5
@@ -104,6 +122,10 @@
   https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTm1NZzRMdm1teG05dHRyeFZKS2xheE1jX09LWF8wMG94SGdnUXRvSHI4bHdpMnR2UVlqTTBWOTdpY00tdS1neFVOYlRaYUd0SHRWbnZTZHk0ektPMEpUQTAyQzBsQkpGUU5ueVEyUHFMbjk1OFNrWDc0MkZBT3M?oc=5
 - **日銀、株資産の売却加速 - OANDA証券** _(OANDA証券)_
   https://news.google.com/rss/articles/CBMidkFVX3lxTE1Fb09nSWM0cW5JRS0wRkJjUHpoY3VWZ0JXZWllUlcyVFYyMU5Md09qaTN4NHlLM3d6OXg1SGI5dUoyUV90RzBueHV1Sm5MT2xlbVZNNjVUcjVWQUlqU21hRHBTbHZ3dFFmRjR4V2pHVzRNRkp5VVE?oc=5
+- **株価急落、日銀12月利上げに暗雲 市場予想5割台前半に - 日本経済新聞** _(日本経済新聞)_
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE13bzdGQ0ljaEZ2WDA1N1hOaWdudGJ5Y21YYWhwQVZGMTBhM0NmNHJ2ZzBzSlVjOFhTY0MyUU56eElwRm9xbUF2NUU4WUdkeDdoRFREU0ZzS2M2S1Fya2F6LWNPTXJsemFockYwaA?oc=5
+- **日銀はETFの売却速度を速めることを決定（久保田博幸） - エキスパート - Yahoo!ニュース** _(Yahoo!ニュース)_
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkdXaHRTdUV1Z2FBMENLeEhyaUgtUHROYzU1RWlyM3lOUldTUXBfcWdGWG11V21RTEZTb1FQTzE3Y2hzNVBYRGdoREM1V01OS2swR0JHdkZZa24xOXlLRHRnZlBjT01tZUNwYlFEbDZZQ3YyZFJrdlR1NmdDVVk5OHRkZk9TdWt1?oc=5
 
 ## 円相場 日本株（5件）
 
