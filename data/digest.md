@@ -19,7 +19,7 @@
 - **「WHI Holdings（ダブリューエイチアイ ホールディングス）」のIPO情報総まとめ！ スケジュールから幹事証券、注目度、銘柄分析、他のシステム開発・販売企業との比較や予想まで解説！ - ダイヤモンド・オンライン** _(ダイヤモンド・オンライン)_
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hZzdGS2JrWFE3U1Fneks4S1d2eHU3NHRsOTMxcjFIblpwSks1VklIa2gybGZjc1hOTmhydjNfdFZiZ2tWODVpMmd0U25OVnh5TVhj?oc=5
 
-## 業績 上方修正（6件）
+## 業績 上方修正（7件）
 
 - **ホンダ上方修正「おかわり」3杯目も 決算最速ピック② - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3J6dC1CRGFMNjQzNUV2TS1LSXRfbkE2SFEzOXI3TEhkRHVqbDhlZnBBVHVzbDlNNUUwamMyaXE5cnlWSU1mb0szbzY5TjN0bWd2OEtEZUVRaXl1WDdPTWcwYk9TX29ubjc0d3UxTUZlaGtCMXppRUJldlB1QUlQWGFmOTRyVHNvbmoxY1gwTEwtVTdpcmVsXzhqYkUxaHdCNGRr?oc=5
@@ -33,6 +33,8 @@
   https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTmFzak5FRlZrVG9mWW9seS1NVF9nZHJOdmNLNlpMaGwtcmlqX0VFZEZ2YXBVLW1rWUpZSER5Y0Rrc2FOV05PV19zc3hEcGZZME8wZ0Z5M3liMVVIRExfWmVXMUwyNmNuaWc?oc=5
 - **サンコール、業績予想を上方修正 情報通信分野が好調 - 京都新聞デジタル** _(京都新聞デジタル)_
   https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NVlkdk9VcGRMVkd1ZmxfWnE1eDc2MmIxSjU3dVk4N25KMG1NSnJ5NjZLX21fMjVtZlVQaVRpYmhLRWw5SkU5QUk1aFVfU0pCMHJyRkxLUUpjb0k?oc=5
+- **今週の【決算】見どころ 全チェック！ ＜決算特集＞ - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6X3NJTnlQeFI0X0hoVjBrYzBFZzdqVUdPOVBaZVFKby10MS1fMTRuamtyNGlnR2g0bHRjNUFGeTNpVGJlZzMxbmNZMXVYN0NBMUdiVE1UdTI0Z05NbUs2TQ?oc=5
 
 ## 増配 自社株買い（5件）
 
