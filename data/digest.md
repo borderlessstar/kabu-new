@@ -17,7 +17,7 @@
 - **利回り5.6％超！割安圏のJリート投資戦略「物流リート」に注目する三つの理由（茂木春輝） - トウシル** _(トウシル)_
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oREpKZDRDOXBQS2k2Z3lsV2ZIbWc1WklPNFBxN0RFWHoxN3NBUER6WVdDNnkwQzRSSncteTRhcHh2RGg2X2ZvLVRfYVNjalJGOEVHeVhCLXNWZw?oc=5
 
-## 業績 上方修正（5件）
+## 業績 上方修正（6件）
 
 - **トライアイズ、今期経常を9％上方修正 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qTWdFenNxSUx4bmlGUkdBa1FaVlRUZjQzWFBLU1NDRk5wQVBLT0NYelllVm9YUmVvM3pCaUkydjRuWDFtbGI3NEJiX1NmZmR0ZGc?oc=5
@@ -29,15 +29,19 @@
   https://news.google.com/rss/articles/CBMi6gNBVV95cUxQUnZFSHlqbXVDR3hRODVfQjdJdFlBanpOVjdzMnQwWVlWZHZLUzM5VkJDOWRxNUlrRHhDamhjMmlxNW0tREJoSVhMY2pQVWRCZ2FsQ2JzbXZSSTg5WDRnb1JKOTlxUDZzV0wxcXdIUHhZNzhlT281SGd2QUJNbTNtWFNFS0hGZjZrZmc1NmdVY3BiVEI2d0pJS0lUckVWWEFqcEt6TUhHVUVHWWlOSFZjUmFidlRjR2RsNTZnMTJFTWlWbGNRTG1NY3hzc1F1VV9VLVppSk5qQ1BidXJxWlB6RnJVNElKLTRLSEVzMUdOMXM3MW9NWkY1anp3QkcxdEI2S3M1MHJMNVZVOXJId1NyU0w1aW5kTXR3b040MFhyV3FkUTNSNUhoeVFmTGVlclF3ME01ajhFNlhpTEtqb2VXQXpIbVE1WDE3WERpeWd3aVJOUHY3TmZDdi1ubXY2V1JqX2dmVHFRQ3pYZ1lqWk5GaExCQ2dlWDNQSVE0QzdWZFBxM1Jxc2xVZmh6UndEQ0tSYlFReFNYTWdmYWY3dThzNWJhQVVnVnMyVDN4emFreFlfYU5OMDRZb3BNc3pEdkUtRjBGS2JJbWZaSERpdXpONS1Da3NsQ21fSmd5bFlGdlVLbDE4RjFFM3d3?oc=5
 - **エラン、今期経常を15％上方修正・最高益予想を上乗せ - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JRHhGMGdIckF2M3RHdUVWWUZsMDE2SURwVnh0Ym43UHFTczJTOEtLSkIyOGtsS1F5ekZCNVFRTHR3NnJzUDRwbkZhS2pYN3YweXc?oc=5
+- **今週の【決算】見どころ 全チェック！ ＜決算特集＞ - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETWZrRmUwNUJDM1BDRU1YbmhaU1Vad09jRUU4ZnRUY3JhUlhZb2dmbUJwaVltcVR6M3dya05pSm1SZEhFb01vWVZmTFJBZVBFeFpmc0JHNE9wTElXWXR4Xw?oc=5
 
-## 増配 自社株買い（2件）
+## 増配 自社株買い（3件）
 
 - **カルビーが反発､オアシスの株式買い増しが判明 - 四季報オンライン** _(四季報オンライン)_
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xYmQ4amNyWDlFV0E3Sks4MEhRaXowMjdXWXdZSFVUVk1kbmNqeUFwYTY1aWpzeEd3QWpzMVl3Y1ExWDRqVnVjY1c1eUpVbE9nX3VqM1RTVQ?oc=5
 - **【無料メールマガジン】「日刊株式投資情報新聞」で株式市場の重要ニュースを配信、決算・注目銘柄・成長テーマを紹介 - https://kabu-ir.com/** _(https://kabu-ir.com/)_
   https://news.google.com/rss/articles/CBMiVEFVX3lxTE14X1g0eU1BenJXRkZvaGNkR3Y1d0N2NS1sMDJla190VXFlLXZuVGRHTVhCMXhVbklmVlY2NFp0NXNrOTFJUGFOSW8yQk8xbjN5TmU5dw?oc=5
+- **【注目】 今週の【話題株ダイジェスト】 ＶＮＸ、スプリックス、ＪＤＳＣ (11月16日～20日) - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT0VnLUpYcklOZ2lGT2lpWE0yNXBvanlKZFpjX0RLdzFlYTVIYWFaRDlObzRNWEpEY2Z1V2x1VFVLbnIzbEozN1prN2ZST0lqczZXek1LYkxEWVZkdHdiZg?oc=5
 
-## 新高値 銘柄（3件）
+## 新高値 銘柄（4件）
 
 - **ETF売買動向＝20日前引け、金先物ベア、日経エンタメが新高値 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sb0c3OWh5NzBRWlNxeEI2bGJVSGVFVTFXZzZxNnVxVE1QVGV1XzBxUHVKRmhjMEQ1aE5MRWVDS2lCd1RqcWhVOEo0V3JTaThCbnc?oc=5
@@ -45,6 +49,8 @@
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VcUJZRVBkZEFUZ045aVkzd0NGczZ1TUs4aTVuRUZtbmJMa2Y2T0dnMWg1MzF6WEJBdkloU2J4VFFfQ1MxUDU5czJka1YtVllRT2NFc2pzQQ?oc=5
 - **非鉄株が軒並み安､LME銅価格急落や米利上げ観測で - 四季報オンライン** _(四季報オンライン)_
   https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jR2taNXd4X1FrbTNvamh2WGZwMUVieXJXeVJWZDhIQkxlSHVqUmtscjhsMlFSTk5yX05FUjFidVRiX2dRRDJrd1BwYUJEcXdFWWZUdHRkdw?oc=5
+- **東京海上ホールディングスが自己株買い好感し4日ぶり反発 - 四季報オンライン** _(四季報オンライン)_
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE42OHcxWXJORnBYR3lxeFotYV9Hbk5aRnRqLWVWVTBUVEQwQXluMkp3YmJyaVQwRWN4RllsT0Z4YV9IdG9UMjR2Yk9KSkZHYjVZRHYySjZjMA?oc=5
 
 ## 半導体 関連株（5件）
 
@@ -94,7 +100,7 @@
 - **工作機械受注が示す日本株と世界経済 高水準維持も伸び率拡大の局面は終了か - Infoseek** _(Infoseek)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfMnllUDdJVGplcjhlSHE3X0pTT1VGY2RuU0ZVazFsdDVaTFdSZVFxRGN2TFpLY21RSlRFSFp4SlZJWDlTR2NiRWVLZXEyRWxKSEtNNFdxUklfZkhRRU93eTlsMNIBaEFVX3lxTE50YS1QQU5EMmpiMEdBLWtEYmQ1bEpZMWc2bWNWTXpyM3ZEbXVaY0N5aUx2LU16ak5lOWRoQTlBRlFfWWtDeDBPU0dueTdYWlY1clZZWDR0dWFOWXJjSGNuRHlwMXhkblFI?oc=5
 
-## 日銀 金融政策 株式市場（6件）
+## 日銀 金融政策 株式市場（7件）
 
 - **反発余地探る、週前半はアンソロピック値動きなどで神経質＝来週の東京株式市場 - Reuters** _(Reuters)_
   https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3FDWUhXalZuM3Fkdm9BemlzSzhzSmpLVUU0bmdMZER0SjFlWWt3V3RSV0NvZ3h5Uzh1Uy1OcFpLSnlYY2htcmtOSzNYZjM0cGZNZnAtNVFwM0VfckppX0Y1NndtdGVXX2hXTkdOOWR5VmRNRURoRzN1Z25CaHZUdkVvcWIzYXdQSnRxbzREN0E?oc=5
@@ -108,8 +114,10 @@
   https://news.google.com/rss/articles/CBMickFVX3lxTFBoaC1ZNkZxcFVkem96bWwwWWlPb3hmZjJIbHZUM3NGc1Z2SWtjb09VeTFPOXVCMUUxR002WWZIZm8wbFh3WGdEM2pJNTZDbjU4LTRocXZmMXpXVmhvLXlENlozZ19weHJGbUYxZ3JTR1otUQ?oc=5
 - **来週の主な予定 仏格付け見直し 田村日銀委員、米PCEと豪CPI ブラックフライデー - - みんかぶ FX/為替** _(みんかぶ FX/為替)_
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OZHR1aG1nTXZqNHlyME4xN2JQZldMcVo2S0xYX1N2SmhKZHVRTzZiUW9jZ2Z0RHF1QXpxSmpJRkdpVWZmMnJENQ?oc=5
+- **日銀利上げの「残弾」はあと何発？最タカ派と最ハト派のはざまで読む利上げの行方 - トウシル** _(トウシル)_
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVlNzV3g3M2tnWUU5dmVFZEVHM2JwUnV0a3AzR2hMT2JETFpLb1BTY3BBcm1sdFVzb1dhVThZMkxheEg4UXgzbkRWR1lYVzA4bHRuWTVlUVNGQQ?oc=5
 
-## 円相場 日本株（4件）
+## 円相場 日本株（5件）
 
 - **【ドル/円、今夜から来週の見通し】ドル/円、160円突破のカギは！？米利上げ期待と株価動向が焦点＿2026/11/20 - 外為どっとコム** _(外為どっとコム)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV0xycXdxaWZZVFpsaUdoX2p0WTZYanpUdWJWbnlsNUs1YXNHNmdGN3dBVDEycXlFRDN4YTVIVjZMdEk0WXZSMWtON1duZ3QzeDhYVUNuYnVJckdfeGdxT2drdw?oc=5
@@ -119,3 +127,5 @@
   https://news.google.com/rss/articles/CBMid0FVX3lxTFByQXFaVjd0aDRvS0ttd01zV0FvZHE1a1BKMmxXUGd6SzFZbERfckJ0cWFOTjdjNGhWcEVYdG8ycHlURnMyV3Y0OG52eU41WEhwX2FvWjlZNEctY2JXeENOVkdheHN4QjNUVzNpVWtZRmVqTDR2d0JZ?oc=5
 - **欧州マーケットダイジェスト・20日 株安・金利低下・円高(トレーダーズ・ウェブ) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxORUoyXzNHQ3JRYk9tZzVjNDYwSmhNR25LcmpGa2dpN2liWWJyd0xwMjdZdktlQXFVajBEZHdnLXdTZDgzZlFuRWFEMXUwd0NvbUJ6QXBVV0tUbzc0b195bVR1Qk80b0hsb01abkg2V2lKbE9ud0lMOXpwRHF2ZURyeUpPZzFUOUE?oc=5
+- **来週の為替予想（米ドル/円）株安で円買いが息を吹き返す！逃避先がドルから円へ移れば157円も ハロンズFX 2026/11/21 - 外為どっとコム** _(外為どっとコム)_
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQVMzLW1vN2NlRjdXclBmUXpONFBxbi1ONzVzckE0QXZOMWdmWm94UlVJd3NZeC1HWWVJZnNpdWVLcTNnT3BVcWRGUmRqN19XMng1aTNjbUswQkQtVk9xc1RRMA?oc=5
