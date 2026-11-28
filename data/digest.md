@@ -30,14 +30,16 @@
 - **【決算速報】オータケ、今期最終を50％上方修正・最高益予想を上乗せ(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNTW9McVQxdGxOQmgxR3lPU0ZhNEVRRS0wNzEyV3NLbjJjcEJaTXpOczZDbzByeGV2ZHBnb0dwYnNGbEtUdElwaUNOam1oWGNIVVg3V0IwWTFYdUg5UU5rUzlUMTk0RVZCc0U2M2RuV2ZlczgxVHp6bjFfYWRxaXZMbVZWTlR0WEU?oc=5
 
-## 増配 自社株買い（2件）
+## 増配 自社株買い（3件）
 
 - **キオクシア株が一時ストップ高、2兆円超の配当金受領で株主還元に期待 - CRYPTO TIMES** _(CRYPTO TIMES)_
   https://news.google.com/rss/articles/CBMid0FVX3lxTE00eE5nYnFKZUNtZ2t2YVlPcDdBSGtJd3dRNnluVFVYd0VwQUFjYS1xSWhqOTlMc0RmRW5fMndYNXU0U1lKbHRhNks0NDdDWkJmdTdtdXZMYURVaUREaFVXcE5CdVpPanFYU0ItR3hhZlhBWXlnYlc0?oc=5
 - **【メガバン3行比較】好調のMUFG・みずほ、出遅れるSMFG…明暗分ける要因は？（ビジネス＋IT） - Yahoo!ニュース** _(Yahoo!ニュース)_
   https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSk9LN0x0WDJFMjh6MHVJWk1Sc3V4T3pxdmNZNTlGRjQ4ZVByclIwS2MycFVNbUZsUmtBb3RwUXJjWUxRd0xSRnFINmIzcjdiTDQ0ODRER2o3XzhnVkZpSVZUOXd0LTh5YjNGNExSNmhZdldQdTRmdk9RLUtiSkdhTng3QTlLOGM0?oc=5
+- **中国株上昇、国務院が取引時間中に異例の市場支援表明－CSI300は3%高 - Bloomberg.com** _(Bloomberg.com)_
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE8xNjNQQjRwSjhSXzB3dWF2QXJ2OERNRnBUVXBzTlVFMVdhUjNwYm9yZG1jT1BiUUlQTTdZaUVqX0RGVGpoQlJUVmNYWEUtV09Fb1lxMDhGbGZSVGpienBQaWpVWmgxYW55WjBGT3dnZ282b2R0aUQw?oc=5
 
-## 新高値 銘柄（3件）
+## 新高値 銘柄（4件）
 
 - **株は美人投票、高値をつけた銘柄こそが買い - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMifkFVX3lxTE1GNGJVYXlPLVdIYy1qVGlkaVBfV3R4NzlHRkpoalJwZGRzSzExS1hMOWNTR1JsUy1sUEktd0xrdzJWQzJRYkNOUUFReDBmNURneS1BR0stSGpMSGtzWGswUEFRTC13U2c5eXZKcm5OcTZtdDFyU0UxUHM0V2xLdw?oc=5
@@ -45,6 +47,8 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxNWE1HemM3NU82aW1JRnRWMTExM183ZS1tZi1lQ2cxWGhCWjJzbm5abWJTcEFTWFJyNXB0TFBKR2J4VlJ6NlJOSVpWZ21EbE5ORGlwcjlhTzdLWjdsR2VRTU5VX0w5cmVPQTBnNHBvWE8xRWtSSG1ZX3MtVUEtYlNPNW5zdGVFYUU?oc=5
 - **Disney Is Up 10% in 2026 and Just Hit a 52-Week High: Take Profits, or Buy More? - TIKR.com** _(TIKR.com)_
   https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzRwUXB2M1g5UlI3WGFFaXpZSVE5Q1RRWlgzV2FaTTFmbVgwZUhQYU93ZjBDaTJNZ01ySlg3eUJjTU5naGdRUkxyRTIwMXdHelRza1RTalJwMkc4X1pvdWJDOE1Eck5UUWx1YThvNnNXSHR2RXp5SHVxSTl3aHVCRHd2VXhXM2o1SGtnQ3ZrVElLTVdMX3R0MlJVd2k4cS1YendWSU9lTkhzdw?oc=5
+- **ETF売買動向＝27日大引け、全銘柄の合計売買代金2453億円(株探ニュース) - Yahoo!ファイナンス** _(Yahoo!ファイナンス)_
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUNIbHVxZGc5SjBrNllteWxaZDB1WUdIYjRPYkNRSjBaTWh1ajFvVW1DbUNFazBQczhOMVJLbGg5UmxmUTBFX2g2SldnWGUybUx1V0JtVnJQT3RuQk1BQlJBLVRuNllOcXRTbE5wLVNaXzlEbDI3OHJBU0hsWDd0NWwtMDhPTWc?oc=5
 
 ## 半導体 関連株（4件）
 
@@ -57,7 +61,7 @@
 - **東京株式（大引け）＝１２１１円高と大幅続伸、ＡＩ・半導体関連に見直し買い流入 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Ui1tanJUcEI3ZS1zLTFnM2RhOTVHLTJtN2pETVppUEpyOC1KTnEtbERKUzBkSFExa09pc18xbnBibm9rYVI1elMwaXd4TEZ0Tk5qWERMWW10UkxIOTAzeg?oc=5
 
-## AI 関連 日本株（6件）
+## AI 関連 日本株（7件）
 
 - **NYダウ、続伸し591ドル高 AI関連株に見直し買い - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMibEFVX3lxTE1KajlwaGNid19uVkt6akRsVnB2NHFJVGsxX0tnRFR2a2NUUmpyM3Uwem92ZnprN1RsUkFnRU5LdkZULWQtTDlVWC1xMk4tenRrQ3NBUlV5d3ZvZjF5MEJGeml5eUo2UUFpd2NtbA?oc=5
@@ -71,6 +75,8 @@
   https://news.google.com/rss/articles/CBMid0FVX3lxTFAySFo3TnJOQnJjbWI1SGlIbW5BTFFyb2dUYUhHOURtbEpmOFBadDl6VzJRYTJzTmhxYmw0eXJCb3lrV0JYc08tOGZtMFMtTXd6bEE1a1I4VzNEcGU3MXZXRnRjMk5YMmdMYXE3ckh2UWt1RE55WFJB?oc=5
 - **米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発 - Forbes JAPAN** _(Forbes JAPAN)_
   https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSDNKckpQNElJUWMzdXNqRG9tZ0xicUswNHVQRDhSdmxabWlTN3VZT28xUHJYbzZZd2d1Rk9BbGcySkNFaHhPSWVtODNHRDRfXzZQSFVLQjdTdw?oc=5
+- **来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探** _(株探)_
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5
 
 ## 業績 下方修正（4件）
 
@@ -88,7 +94,7 @@
 - **市場波乱で注目の「高配当株」ファンド、投信ライターが人気4ファンドを比較＆選択のポイントを解説！(3/3) - Finasee** _(Finasee)_
   https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4VlJFemNDX0FabXdyYkoxOW9VQVRDbVpCYk1ONWJlWFN4S2xBODM5RGxmS0RkcHdrQWl1TkZfSzRMR3FJYnpZdHZXT0xhU3YxMjJRUlVWTEZGVExP?oc=5
 
-## 日本株 下落 要因（4件）
+## 日本株 下落 要因（5件）
 
 - **来週の日経平均見通し（11/30～12/4）｜1,211円高と大幅反発！6万円台回復なるか？エヌビディアCEOの議会聴取と米雇用統計が焦点 - 外為どっとコム** _(外為どっとコム)_
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE50cHdVSk9mRUhWMWVBRkEtb3RpMHdvV0s3TE9kYlgyVTVpcE9oeFdjeTVoSTZycE0tOUQzZzJDNkRTbWVucktTM3VDZTNuSmZURmN0S0thV2hDRlpvVWxHS1pmSQ?oc=5
@@ -98,8 +104,10 @@
   https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VldZbElpRlFQOFVYYjd0NE9wRFZJREs2UUExd3pHV3R5MjZXT1dqSnRydDZrbEx0ZC1paC1faXJmb2dMZlBmZTQySGNoRXppd05Qd2dfaGlUSTJMc09sbg?oc=5
 - **世界の投資家が見守る｢ウォーシュ・ピボット｣ 株の本格反転はいつか - 日本経済新聞** _(日本経済新聞)_
   https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTTVQbnVpTkhZVURzRHctN0JPTkxQOWJfZk5Idm54cWlfUEZFNUtkcFJ0ajZsM3Rvai1SbkFZVVFtdUhlZm9UOUZkdkJyM0xscEI4ZkhSWGtwSlVnRjZtNl8tQUZpVlVXUXJ5eA?oc=5
+- **2026年日本株総括と2027年見通し 「日銀利上げ」や「消費減税」が左右する次の一手 - Infoseek** _(Infoseek)_
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZUVItLUc1elpocU01VlpOX2EwUFBlOHRvRWlhYzR1d1VuNHNOVS1vSndyT2JWT1FlWnNKUHdNbGFyY0R2RWdpMHhRcUdBa0Riem0zY2M1QzNFR1NFcm9QNWhLWdIBaEFVX3lxTFAxRWk5elJrb1hxRVlxNkRmVjROT0xGV05PaVNJTVl5OU5rWkJobnR4MjYzckl2Z3J3cXg2VF85R0ZyUWhYYkwwZEF5aE01dDl1b3lqN29sT2NKeHFJQU9LOFVkRGtINGJ3?oc=5
 
-## 日銀 金融政策 株式市場（3件）
+## 日銀 金融政策 株式市場（4件）
 
 - **アングル：ドル／円に「2018年リスク」、共和党敗北に既視感 株安が試す中銀姿勢 - Reuters** _(Reuters)_
   https://news.google.com/rss/articles/CBMifkFVX3lxTE1ya0NLSXRZdjU2MTFiS1F5SHR5Zk1NZkg5MUFNcklCczhpblNLclhGOXJkenpzTlZBLU5YYUhleXF5WGkweUZ5amZVdjQ3RHlsRlF0SFoyb2d3XzV5SU1QTW9PNzByRGpqUE85Xzl6YUJ2bXRhLUx2ZFFGQlJ3QQ?oc=5
@@ -107,8 +115,10 @@
   https://news.google.com/rss/articles/CBMiY0FVX3lxTE96b0N4TEo3Y2s0bkJoUFZfcVhaU0JpRzRlUExKM0xidGFySDR2dmhON002UEkzOU5Pbi1XY0NlcmEwMnY5bWRlTl9kSUtuVE1jZGdnMFVoeWlYaFVvbV9yRFNYTQ?oc=5
 - **AI株に揺れる市場、植田日銀総裁は利上げを予告するか／米期待インフレ率に注目 - 日経ビジネス電子版** _(日経ビジネス電子版)_
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mSlZfVUZ6Wmx4enZ6RjlWeW1Pd1R0NXJNZXB1S1VWQlVmT0UxMTFaRHVQRllMZ25VSlVGaVdaTjRLTV9yaTdaSHBhQUxHYzZvM3ZqbDlvRTdJM2FxNC1JZkNSdXVYS1k?oc=5
+- **ドル円見通し｜なぜ159円台から大きく動かない？ S&P500週間5.6％高、日米の利上げ観測【相場の現在地】2026/11/28 - 外為どっとコム** _(外為どっとコム)_
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PWnhJcXRZT0dDWUdtaC1Sd3JRZWhsYmk2TWI1dG9rTldBWDMweTZkd1hRemxaanhpM0JMNzZwemF6S3lIRFlNUkVVQWFHVUpXYVVMVU9HajZLY01ReVRibG1VRQ?oc=5
 
-## 円相場 日本株（5件）
+## 円相場 日本株（7件）
 
 - **日本市場、AI売り一服で株続伸へ－米祝日明けで取引少なく円横ばい - Bloomberg** _(Bloomberg)_
   https://news.google.com/rss/articles/CBMid0FVX3lxTE9WS19SY3prQm40UTNEbEE1RlJERF92UFQxOU5jVGZQRllXZDRMZ2trSXhXU2VKcFpkYnlEUXR0RGNQNnpEMWJjRTloUUF1cWZJTjRRWkloOFBnTXllVVdzZlJJMzdZelktaS1aXzNqdTktQzhLaFBj?oc=5
@@ -120,3 +130,7 @@
   https://news.google.com/rss/articles/CBMihwFBVV95cUxObzRSZXR1QU01VGlyYm90dGc3MjEtNnllT1BHNHVWRVluWFljcmxueWVsMF9VcG9SZkJ5V3E1dnB6WTM1cHVPRXV3Sm1kYnRuc2lOLWxPZUY4ZHF4d05CdHllUUNvUXhVcklxZjVhcnJxeG1WR2MwRE1BVlJod0VQZGQ3NHFsMVE?oc=5
 - **「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比305円高の57345円 - 株探** _(株探)_
   https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRdlpfU191WkVrSUxvTXNuVlp1WW1kQnFuR185LTlzM2VhUGFFRmFwVGRWbEltdUJiY0ptTEUzckxlRVYweFRROHZkbWhjSWs1bVFjdFRXSUNJYWtXNEdJTA?oc=5
+- **ドル円相場に「2018年の再来」リスク、共和党敗北と株安で問われる中銀の姿勢 - ニューズウィーク日本版** _(ニューズウィーク日本版)_
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WckZnSzUwV1FsMzJ2dzhHTl8xbXNWb1ZmdFFpbTFUWjhQZzdoQ3dDWlI2NWZwNU5PaVBMb3dYWGVGRm5BaDhuaEo2RndOZXdSZXJ4TUR4R2NvQQ?oc=5
+- **26日は原油WTIが上昇、ドル円は小幅に上昇 - FOREX.com** _(FOREX.com)_
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHdiWFZ4dW1mVlltT0Q4bmZmYzBVcm5WSm03aWFMLURuMUpnbnpINm9WSmZIY3NQcHNhNm1WaElNdXFUdjluWlVFQlZnQ1dHODdGS1pCdmNtdG5vVlJES21CZnRfRmg1dTQ2ZE1xbE1NanJpNFA1cy1nRmR0WkNMWGtB?oc=5
